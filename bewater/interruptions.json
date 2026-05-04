@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T17:33:30.550529",
+  "last_updated": "2026-05-04T18:33:38.881622",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "07/05/2026 09:00",
       "restoration_datetime": "07/05/2026 13:00",
       "last_updated": "04/05/2026 17:04",
-      "affected_streets": "Praça Dona Maria II- Ourém; Rua Gregório Correia- Ourém e ruas adjacentes",
-      "discovered_at": "04/05/2026 17:33"
+      "affected_streets": "Praça Dona Maria II- Ourém; Rua Gregório Correia- Ourém e ruas adjacentes"
     }
   ]
 }
