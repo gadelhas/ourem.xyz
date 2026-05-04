@@ -34,7 +34,7 @@ def process_schedules(raw_data):
     for entry in raw_data:
         linha = entry.get('linha', 'Unknown')
         circuito = entry.get('circuito', 'Unknown')
-        paragem = entry.get('paragem', 'Unknown')
+        paragem = entry.get('designacao', 'Unknown')
 
         # Extract all departure times
         times = []

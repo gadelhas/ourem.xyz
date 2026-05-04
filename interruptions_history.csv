@@ -1,0 +1,75 @@
+id,type,location,start_datetime,restoration_datetime,last_updated,affected_streets,discovered_at
+9051,Não Programada,Rua Principal- Cavadinha,04/05/2026 10:40,04/05/2026 12:15,04/05/2026 10:02,Rua Principal- Cavadinha e ruas adjacentes,04/05/2026 16:20
+9050,Não Programada,Ribeira,04/05/2026 07:20,04/05/2026 10:20,04/05/2026 06:50,Ribeira; Casais de Carcavelos; Carcavelos de Cima; Carcavelos de Baixo; Conceição,04/05/2026 16:20
+9049,Não Programada,Rua Indústria- Vilar Prazeres,03/05/2026 09:30,03/05/2026 13:31,03/05/2026 08:15,Rua Indústria- Vilar Prazeres e ruas adjacentes,04/05/2026 16:20
+9048,Não Programada,Rua ver o sol- Casal Salvador,02/05/2026 12:45,02/05/2026 18:10,02/05/2026 12:06,Rua ver o sol- Casal Salvador,04/05/2026 16:20
+9047,Não Programada,Rua S. Tiago- Caneiro,02/05/2026 11:00,02/05/2026 15:00,02/05/2026 10:07,Rua S. Tiago- Caneiro e ruas adjacentes,04/05/2026 16:20
+9046,Não Programada,Rua Portelinha- Pisões,02/05/2026 09:25,02/05/2026 12:10,02/05/2026 08:08,Rua Portelinha- Pisões e ruas adjacentes,04/05/2026 16:20
+9045,Não Programada,Castelo,01/05/2026 10:30,01/05/2026 16:10,01/05/2026 09:08,Castelo; Rua Francisco dos Reis- Caxarias e ruas adjacentes,04/05/2026 16:20
+9027,Não Programada,Rua Cumieira- Aldeia Nova,30/04/2026 08:45,30/04/2026 16:45,30/04/2026 07:23,Rua Cumieira- Aldeia Nova e ruas adjacentes,04/05/2026 16:20
+9028,Não Programada,Rua 1º Dezembro- Ourém,30/04/2026 09:50,30/04/2026 14:50,30/04/2026 13:11,Rua 1º Dezembro- Ourém e ruas adjacentes,04/05/2026 16:20
+9026,Não Programada,Rua Principal- Casal do Ribeiro,29/04/2026 17:30,29/04/2026 20:30,29/04/2026 16:25,Rua Principal- Casal do Ribeiro,04/05/2026 16:20
+9025,Não Programada,Sobral,28/04/2026 20:55,29/04/2026 03:00,28/04/2026 20:11,Sobral,04/05/2026 16:20
+9024,Não Programada,Rua Cumieira- Aldeia Nova,28/04/2026 18:30,28/04/2026 23:50,28/04/2026 17:47,Rua Cumieira- Aldeia Nova e ruas adjacentes,04/05/2026 16:20
+9023,Não Programada,Rua Igreja- Seiça,28/04/2026 16:20,28/04/2026 20:00,28/04/2026 14:55,Rua Igreja- Seiça e ruas adjacentes,04/05/2026 16:20
+9001,Programada,Rua Terra Fria- São Sebastião,28/04/2026 10:00,28/04/2026 13:00,24/04/2026 14:29,Rua Terra Fria- São Sebastião e ruas adjacentes,04/05/2026 16:20
+9022,Não Programada,Rua Principal- Alveijar,28/04/2026 07:30,28/04/2026 10:30,28/04/2026 06:57,Rua Principal- Alveijar; Estrada Fontes- Alveijar e ruas adjacentes,04/05/2026 16:20
+9021,Não Programada,Rua Igreja- Seiça,26/04/2026 04:10,26/04/2026 12:10,26/04/2026 03:33,Rua Igreja- Seiça,04/05/2026 16:20
+9020,Não Programada,Rua São Cristovão- Abades,25/04/2026 10:15,25/04/2026 13:30,25/04/2026 10:08,Rua São Cristovão- Abades,04/05/2026 16:20
+9000,Não Programada,Rua Moinhos- Casal do Ribeiro,24/04/2026 11:30,24/04/2026 16:30,24/04/2026 10:30,Rua Moinhos- Casal do Ribeiro e ruas adjacentes,04/05/2026 16:20
+8999,Não Programada,Abadia,24/04/2026 01:10,24/04/2026 10:10,24/04/2026 00:33,Abadia,04/05/2026 16:20
+8988,Programada,Rua São José- Cova da Iria,23/04/2026 09:00,23/04/2026 13:00,20/04/2026 17:13,Rua São José- Cova da Iria; Avenida Beato Nuno- Cova da Iria,04/05/2026 16:20
+8996,Não Programada,Casa Caiada,23/04/2026 09:10,23/04/2026 12:00,23/04/2026 07:39,Casa Caiada; Perdigão; Vesparia; Lavradio; Casal Menino,04/05/2026 16:20
+8995,Não Programada,Abadia,22/04/2026 10:15,22/04/2026 13:15,22/04/2026 09:17,Abadia,04/05/2026 16:20
+8975,Não Programada,Rua Doutor Júlio Ferreira Constantino- Cova da Iria,22/04/2026 09:00,22/04/2026 12:00,17/04/2026 09:48,Rua Doutor Júlio Ferreira Constantino- Cova da Iria,04/05/2026 16:20
+8977,Programada,Rua Doutor Júlio Ferreira Constantino- Cova da Iria,22/04/2026 09:00,22/04/2026 12:00,17/04/2026 10:02,Rua Doutor Júlio Ferreira Constantino- Cova da Iria,04/05/2026 16:20
+8994,Não Programada,Rua Casal- Sobral,22/04/2026 02:55,22/04/2026 08:55,22/04/2026 01:59,Rua Casal- Sobral,04/05/2026 16:20
+8993,Não Programada,Rua Principal - Cercal,21/04/2026 14:05,21/04/2026 19:00,21/04/2026 13:08,Rua Principal - Cercal,04/05/2026 16:20
+8992,Não Programada,Rua Capela- Perucha,21/04/2026 11:35,21/04/2026 15:40,21/04/2026 10:41,Rua Capela- Perucha e ruas adjacentes,04/05/2026 16:20
+8976,Programada,Rua Olaria- Ourém,21/04/2026 09:00,21/04/2026 13:00,17/04/2026 10:01,Rua Olaria- Ourém; Rua António José Almeida- Ourém,04/05/2026 16:20
+8991,Não Programada,Urbanização Dom Manuel II- Vilar Prazeres,21/04/2026 08:20,21/04/2026 12:20,21/04/2026 07:29,Urbanização Dom Manuel II- Vilar Prazeres,04/05/2026 16:20
+8990,Não Programada,Faletia,21/04/2026 07:30,21/04/2026 10:30,21/04/2026 06:42,Faletia; Valados; Lameirinha; Barreira,04/05/2026 16:20
+8989,Não Programada,Sobral,20/04/2026 18:50,20/04/2026 20:30,20/04/2026 17:30,Sobral,04/05/2026 16:20
+8987,Não Programada,Óbidos,20/04/2026 10:15,20/04/2026 12:00,20/04/2026 09:35,Óbidos,04/05/2026 16:20
+8986,Não Programada,Rua Cavadas - Fontainhas da Serra,20/04/2026 00:30,20/04/2026 11:30,19/04/2026 23:51,Rua Cavadas - Fontainhas da Serra e ruas adjacentes,04/05/2026 16:20
+8985,Não Programada,Cisterna,19/04/2026 10:15,19/04/2026 17:15,19/04/2026 09:23,Cisterna,04/05/2026 16:20
+8984,Não Programada,Pisão do Oleiro,18/04/2026 16:55,18/04/2026 22:55,18/04/2026 15:54,Pisão do Oleiro; Rua Pisão Oleiro- Andrés,04/05/2026 16:20
+8983,Não Programada,Laranjeiras,18/04/2026 09:25,18/04/2026 19:25,18/04/2026 15:55,Laranjeiras,04/05/2026 16:20
+8982,Não Programada,Rua Nossa Senhora Fátima- Ourém,18/04/2026 00:10,18/04/2026 16:10,18/04/2026 15:55,Rua Nossa Senhora Fátima- Ourém e ruas adjacentes,04/05/2026 16:20
+8981,Não Programada,Rua Principal - Cercal,17/04/2026 21:35,17/04/2026 23:50,17/04/2026 20:37,Rua Principal - Cercal e ruas adjacentes,04/05/2026 16:20
+8980,Não Programada,Rua Bom Samaritano- Cova da Iria,17/04/2026 20:03,17/04/2026 21:02,17/04/2026 19:02,Rua Bom Samaritano- Cova da Iria e ruas adjacentes,04/05/2026 16:20
+8979,Não Programada,Casais de Carcavelos,17/04/2026 17:00,17/04/2026 19:30,17/04/2026 16:03,Casais de Carcavelos; Carcavelos de Cima,04/05/2026 16:20
+8974,Não Programada,Rua Clube Desportivo Vilarense- Vilar Prazeres,17/04/2026 05:30,17/04/2026 18:00,17/04/2026 05:11,Rua Clube Desportivo Vilarense- Vilar Prazeres e ruas adjacentes,04/05/2026 16:20
+8978,Não Programada,Rua Cerrada- Valinho,17/04/2026 11:45,17/04/2026 17:45,17/04/2026 10:48,Rua Cerrada- Valinho,04/05/2026 16:20
+8971,Não Programada,Rua Nossa Senhora do Rosário - Cercal,16/04/2026 23:50,17/04/2026 12:00,16/04/2026 22:58,Rua Nossa Senhora do Rosário - Cercal e ruas adjacentes,04/05/2026 16:20
+8972,Não Programada,Rua Principal - Cercal,16/04/2026 23:50,17/04/2026 12:00,16/04/2026 23:00,Rua Principal - Cercal e ruas adjacentes,04/05/2026 16:20
+8973,Não Programada,Rua Mosqueiro- Cercal,16/04/2026 23:50,17/04/2026 12:00,16/04/2026 23:05,Rua Mosqueiro- Cercal,04/05/2026 16:20
+8970,Não Programada,Cercal,16/04/2026 15:15,16/04/2026 23:59,16/04/2026 14:20,Cercal,04/05/2026 16:20
+8969,Não Programada,Rua Principal - Cercal,16/04/2026 14:30,16/04/2026 20:30,16/04/2026 12:55,Rua Principal - Cercal e ruas adjacentes,04/05/2026 16:20
+8968,Não Programada,Rua Nossa Senhora do Rosário - Cercal,16/04/2026 11:15,16/04/2026 16:45,16/04/2026 10:24,Rua Nossa Senhora do Rosário - Cercal e ruas adjacentes,04/05/2026 16:20
+8966,Não Programada,Rua Principal - Cercal,16/04/2026 09:00,16/04/2026 15:00,16/04/2026 08:09,Rua Principal - Cercal e ruas adjacentes,04/05/2026 16:20
+8967,Não Programada,Rua de São Miguel- Lagarinho,16/04/2026 10:00,16/04/2026 13:00,16/04/2026 09:21,Rua de São Miguel- Lagarinho e ruas adjacentes,04/05/2026 16:20
+8964,Não Programada,Rua Nossa Senhora do Rosário - Cercal,16/04/2026 00:50,16/04/2026 12:30,16/04/2026 00:24,Rua Nossa Senhora do Rosário - Cercal; Rua Meio - Cercal,04/05/2026 16:20
+8965,Não Programada,Rua Principal - Cercal,16/04/2026 00:55,16/04/2026 10:30,16/04/2026 00:25,Rua Principal - Cercal,04/05/2026 16:20
+8953,Não Programada,Rua Imaculado Coração Maria- Cova da Iria,15/04/2026 10:00,15/04/2026 19:00,15/04/2026 13:00,Rua Imaculado Coração Maria- Cova da Iria,04/05/2026 16:20
+8950,Programada,Rua 1º Dezembro- Ourém,15/04/2026 14:00,15/04/2026 18:00,13/04/2026 11:04,Rua 1º Dezembro- Ourém e ruas adjacentes,04/05/2026 16:20
+8952,Não Programada,Olival,14/04/2026 07:30,14/04/2026 22:00,14/04/2026 16:27,Olival; Brejo; Aldeia Nova; Óbidos; Barrocaria; Cercal; Ninho de Águia; Matos,04/05/2026 16:20
+8951,Não Programada,Rua Padre Luis- Abades,13/04/2026 17:55,13/04/2026 20:55,13/04/2026 16:59,Rua Padre Luis- Abades,04/05/2026 16:20
+8948,Não Programada,Rua Imaculado Coração Maria- Cova da Iria,13/04/2026 08:50,13/04/2026 13:50,13/04/2026 07:25,Rua Imaculado Coração Maria- Cova da Iria e ruas adjacentes,04/05/2026 16:20
+8949,Não Programada,Rua Principal- Casal do Ribeiro,13/04/2026 10:30,13/04/2026 12:30,13/04/2026 09:42,Rua Principal- Casal do Ribeiro e ruas adjacentes,04/05/2026 16:20
+8947,Não Programada,Rua Central- Cercal,13/04/2026 00:55,13/04/2026 10:00,13/04/2026 00:15,Rua Central- Cercal; Rua Central- Ninho de Águia,04/05/2026 16:20
+8946,Não Programada,Carvalhal de Seiça,11/04/2026 15:00,11/04/2026 19:30,11/04/2026 15:53,Carvalhal de Seiça; Chão de Maçãs,04/05/2026 16:20
+8945,Não Programada,Rua Pisões- Pisões,11/04/2026 00:50,11/04/2026 13:00,11/04/2026 00:25,Rua Pisões- Pisões e ruas adjacentes,04/05/2026 16:20
+8944,Não Programada,Rua Fonte- São Jorge,10/04/2026 11:45,10/04/2026 16:45,10/04/2026 10:43,Rua Fonte- São Jorge; Rua Tuna- São Jorge,04/05/2026 16:20
+8943,Não Programada,Rua Padre Luis- Abades,10/04/2026 07:15,10/04/2026 11:15,10/04/2026 05:14,Rua Padre Luis- Abades e ruas adjacentes,04/05/2026 16:20
+8942,Não Programada,Rua Ladeirinha- Moita Redonda,09/04/2026 21:15,09/04/2026 23:59,09/04/2026 19:39,Rua Ladeirinha- Moita Redonda e ruas adjacentes,04/05/2026 16:20
+8918,Não Programada,Rua Rosmaninhal - Olival,09/04/2026 09:30,09/04/2026 18:30,09/04/2026 15:13,Rua Rosmaninhal - Olival,04/05/2026 16:20
+8917,Não Programada,Vermoeira,09/04/2026 06:00,09/04/2026 09:30,09/04/2026 05:08,Vermoeira; Marta de Cima,04/05/2026 16:20
+8916,Não Programada,Rua Ladeirinha- Moita Redonda,08/04/2026 16:30,08/04/2026 21:00,08/04/2026 14:56,Rua Ladeirinha- Moita Redonda e ruas adjacentes,04/05/2026 16:20
+8915,Não Programada,Rua Voluntários- Fontainhas da Serra,08/04/2026 14:15,08/04/2026 18:15,08/04/2026 13:16,Rua Voluntários- Fontainhas da Serra; Rua Cavadas - Fontainhas da Serra; Rua Arneiro- Fontainhas da Serra,04/05/2026 16:20
+8914,Não Programada,Alvega,08/04/2026 14:00,08/04/2026 16:30,08/04/2026 13:02,Alvega,04/05/2026 16:20
+8913,Não Programada,Valados,08/04/2026 07:15,08/04/2026 09:15,08/04/2026 06:29,Valados; Cogominho,04/05/2026 16:20
+8912,Não Programada,Estrada Fontainhas - Alburitel,07/04/2026 15:20,07/04/2026 19:20,07/04/2026 14:25,Estrada Fontainhas - Alburitel e ruas adjacentes,04/05/2026 16:20
+8911,Não Programada,Travessa Monte- Vales,06/04/2026 17:46,06/04/2026 21:45,06/04/2026 16:32,Travessa Monte- Vales e ruas adjacentes,04/05/2026 16:20
+8910,Não Programada,Rua Eirado do Moinho- Lourinha,05/04/2026 19:45,05/04/2026 21:45,05/04/2026 18:53,Rua Eirado do Moinho- Lourinha e ruas adjacentes,04/05/2026 16:20
+8909,Não Programada,Rua Quingostas- Lourinha,05/04/2026 04:00,05/04/2026 12:00,05/04/2026 04:03,Rua Quingostas- Lourinha; Rua Quinta- Lourinha,04/05/2026 16:20
