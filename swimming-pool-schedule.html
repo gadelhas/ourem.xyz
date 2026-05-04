@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ourém Swimming Pool Schedule</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 28px;
+        }
+
+        .subtitle {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #667eea;
+            font-size: 18px;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: #fee;
+            border: 1px solid #fcc;
+            color: #c33;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+        thead {
+            background: #667eea;
+            color: white;
+        }
+
+        th {
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+        }
+
+        tbody tr:hover {
+            background: #f8f9ff;
+        }
+
+        .lanes {
+            font-weight: 600;
+            color: #667eea;
+            font-size: 16px;
+        }
+
+        .time {
+            color: #333;
+            font-weight: 500;
+        }
+
+        .day-header {
+            background: #f5f5f5;
+            font-weight: 600;
+            color: #333;
+            padding: 10px 12px;
+        }
+
+        #rawText {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f5f5f5;
+            border-radius: 8px;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 400px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .toggle-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+        .toggle-btn:hover {
+            background: #5568d3;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ourém Swimming Pool Schedule</h1>
+        <p class="subtitle">Municipal Swimming Pool - Lane Availability</p>
+
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Loading swimming pool schedule...</p>
+        </div>
+
+        <div id="error" class="error hidden"></div>
+
+        <div id="scheduleContainer"></div>
+
+        <button id="toggleRaw" class="toggle-btn hidden">Show Raw PDF Text</button>
+        <div id="rawText" class="hidden"></div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script>
+        const PDF_URL = 'https://www.ourem.pt/wp-content/uploads/2025/09/MGO-PIscinas-202526-TF.pdf';
+
+        // Configure PDF.js worker
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+        async function loadPDF() {
+            try {
+                // Load PDF
+                const pdf = await pdfjsLib.getDocument(PDF_URL).promise;
+                console.log('PDF loaded, pages:', pdf.numPages);
+
+                // Extract text from all pages
+                let fullText = '';
+                for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+                    const page = await pdf.getPage(pageNum);
+                    const textContent = await page.getTextContent();
+                    const pageText = textContent.items.map(item => item.str).join(' ');
+                    fullText += pageText + '\n\n';
+                }
+
+                console.log('Extracted text:', fullText);
+
+                // Display raw text for debugging
+                document.getElementById('rawText').textContent = fullText;
+                document.getElementById('toggleRaw').classList.remove('hidden');
+
+                // Parse the schedule
+                parseSchedule(fullText);
+
+                // Hide loading
+                document.getElementById('loading').classList.add('hidden');
+
+            } catch (error) {
+                console.error('Error loading PDF:', error);
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('error').textContent = 'Error loading PDF: ' + error.message;
+                document.getElementById('error').classList.remove('hidden');
+            }
+        }
+
+        function parseSchedule(text) {
+            // This function will parse the extracted text and create a schedule table
+            // The parsing logic will depend on the actual structure of the PDF
+
+            const container = document.getElementById('scheduleContainer');
+
+            // Split text into lines
+            const lines = text.split('\n').filter(line => line.trim());
+
+            // Try to identify time patterns (e.g., "09:00", "14:30")
+            const timePattern = /(\d{1,2}[:h]\d{2})/g;
+            const scheduleData = [];
+
+            // Look for patterns that might indicate lanes/availability
+            // Common patterns: "X pistas", "X lanes", numbers followed by time
+            lines.forEach((line, index) => {
+                const timeMatches = line.match(timePattern);
+                if (timeMatches) {
+                    // Look for numbers that might indicate lane count
+                    const numberMatch = line.match(/(\d+)\s*(pista|lane|corredor)/i);
+                    const lanesCount = numberMatch ? numberMatch[1] : 'N/A';
+
+                    scheduleData.push({
+                        time: timeMatches.join(', '),
+                        lanes: lanesCount,
+                        description: line.trim()
+                    });
+                }
+            });
+
+            if (scheduleData.length === 0) {
+                // If no structured data found, create a simple display
+                container.innerHTML = `
+                    <p style="color: #666; padding: 20px; background: #f9f9f9; border-radius: 8px;">
+                        The PDF has been loaded but the schedule structure needs to be parsed manually.
+                        Please check the "Show Raw PDF Text" below to see the extracted content.
+                        The parsing logic can be adjusted based on the actual PDF structure.
+                    </p>
+                `;
+            } else {
+                // Create table with parsed data
+                let tableHTML = `
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Time</th>
+                                <th>Available Lanes</th>
+                                <th>Details</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                `;
+
+                scheduleData.forEach(entry => {
+                    tableHTML += `
+                        <tr>
+                            <td class="time">${entry.time}</td>
+                            <td class="lanes">${entry.lanes}</td>
+                            <td>${entry.description}</td>
+                        </tr>
+                    `;
+                });
+
+                tableHTML += `
+                        </tbody>
+                    </table>
+                `;
+
+                container.innerHTML = tableHTML;
+            }
+        }
+
+        // Toggle raw text display
+        document.getElementById('toggleRaw').addEventListener('click', function() {
+            const rawText = document.getElementById('rawText');
+            if (rawText.classList.contains('hidden')) {
+                rawText.classList.remove('hidden');
+                this.textContent = 'Hide Raw PDF Text';
+            } else {
+                rawText.classList.add('hidden');
+                this.textContent = 'Show Raw PDF Text';
+            }
+        });
+
+        // Load PDF on page load
+        loadPDF();
+    </script>
+</body>
+</html>

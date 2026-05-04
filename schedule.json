@@ -1,0 +1,1312 @@
+{
+  "last_updated": "2026-05-04T15:34:48.005883",
+  "season": "2025/2026",
+  "pool": "Piscina Municipal de Ourém",
+  "legend": {
+    "P": "Público/Free Swimming",
+    "JO": "Juventude Oureense (Club)",
+    "Hidro": "Hidroginástica (Water Aerobics)",
+    "HidroSénior": "Senior Water Aerobics",
+    "AMA": "Adaptação ao Meio Aquático",
+    "AEO": "School",
+    "CRIO": "Organization",
+    "BEBÉS": "Baby Swimming",
+    "Aqua Cross Fit": "Aqua Cross Fit Class"
+  },
+  "schedule": {
+    "Segunda-Feira": [
+      {
+        "time": "15h00-16h00",
+        "available_lanes": 5,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "CRIO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "16h00-17h00",
+        "available_lanes": 6,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "17h30-18h15",
+        "available_lanes": 5,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "AMA+",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "18h15-19h00",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "19h15-20h00",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "20h00-20h45",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      }
+    ],
+    "Terça-Feira": [
+      {
+        "time": "15h00-16h00",
+        "available_lanes": 4,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "AMA Adultos",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "AEO",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "16h00-17h00",
+        "available_lanes": 4,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "HidroSénior",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "AEO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "17h30-18h15",
+        "available_lanes": 5,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "AEO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "18h15-19h00",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "19h15-20h00",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "20h00-20h45",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      }
+    ],
+    "Quarta-Feira": [
+      {
+        "time": "15h00-16h00",
+        "available_lanes": 6,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "16h00-17h00",
+        "available_lanes": 4,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "HidroSénior",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "HidroSénior",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "17h30-18h15",
+        "available_lanes": 5,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "AMA+",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "18h15-19h00",
+        "available_lanes": 2,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "Hidro",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "19h15-20h00",
+        "available_lanes": 2,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "Hidro",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "20h00-20h45",
+        "available_lanes": 2,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "Hidro",
+            "available": false
+          }
+        ]
+      }
+    ],
+    "Quinta-Feira": [
+      {
+        "time": "15h00-16h00",
+        "available_lanes": 5,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "AMA Adultos",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "16h00-17h00",
+        "available_lanes": 5,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "HidroSénior",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "17h30-18h15",
+        "available_lanes": 6,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "18h15-19h00",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "19h15-20h00",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "20h00-20h45",
+        "available_lanes": 1,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      }
+    ],
+    "Sexta-Feira": [
+      {
+        "time": "15h00-16h00",
+        "available_lanes": 6,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "16h00-17h00",
+        "available_lanes": 6,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "17h30-18h15",
+        "available_lanes": 4,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "Aqua Cross Fit",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "18h15-19h00",
+        "available_lanes": 4,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "19h15-20h00",
+        "available_lanes": 4,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "20h00-20h45",
+        "available_lanes": 3,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 5,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 6,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      }
+    ],
+    "Sábado": [
+      {
+        "time": "09h00-09h45",
+        "available_lanes": 5,
+        "total_lanes": 4,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "AMA",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          }
+        ]
+      },
+      {
+        "time": "09h45-10h15",
+        "available_lanes": 3,
+        "total_lanes": 4,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "BEBÉS",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "10h30-11h00",
+        "available_lanes": 3,
+        "total_lanes": 4,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "BEBÉS",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "11h00-11h30",
+        "available_lanes": 3,
+        "total_lanes": 4,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "11h45-12h30",
+        "available_lanes": 3,
+        "total_lanes": 4,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "Hidro",
+            "available": false
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 4,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      },
+      {
+        "time": "12h30-13h15",
+        "available_lanes": 4,
+        "total_lanes": 6,
+        "lanes": [
+          {
+            "lane": 1,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 2,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 3,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 4,
+            "activity": "P",
+            "available": true
+          },
+          {
+            "lane": 5,
+            "activity": "JO",
+            "available": false
+          },
+          {
+            "lane": 6,
+            "activity": "JO",
+            "available": false
+          }
+        ]
+      }
+    ]
+  }
+}
