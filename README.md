@@ -1,6 +1,14 @@
-# Piscina Municipal de Ourém - Horário
+# Ourém - Serviços Municipais Online
 
-A static website that displays the swimming pool schedule for Ourém Municipal Pool, showing lane availability by time slot.
+A collection of static websites providing information about municipal services in Ourém, Portugal.
+
+## Services
+
+### Piscinas Municipais
+Displays the swimming pool schedule for Ourém Municipal Pool, showing lane availability by time slot.
+
+### TUFO - Transportes Urbanos
+Displays bus schedules for TUFO (Transportes Urbanos de Fátima e Ourém), including all 5 routes (Amarela, Azul, Verde, Vermelha, Preta) with stops and departure times.
 
 ## Features
 
@@ -14,23 +22,30 @@ A static website that displays the swimming pool schedule for Ourém Municipal P
 
 ## How It Works
 
+### Piscinas (Swimming Pool)
+
 1. **PDF Storage**: The pool schedule PDF (`MGO-PIscinas-202526-TF.pdf`) is stored in the repository
 2. **Data Extraction**: `extract_schedule.py` parses the PDF and generates `schedule.json`
-3. **Automation**: GitHub Actions workflow (`.github/workflows/update-schedule.yml`) runs:
-   - Daily at 6 AM UTC
-   - When the PDF or extraction script is updated
-   - Manually via workflow dispatch
+3. **Automation**: GitHub Actions workflow runs when the PDF or extraction script is updated
 4. **Display**: `index.html` loads the JSON and displays it with filtering and interactivity
+
+### TUFO (Public Transport)
+
+1. **API Fetching**: `fetch_schedules.py` fetches live data from TUFO API
+2. **Data Processing**: Organizes routes, circuits, stops, and departure times into `schedules.json`
+3. **Automation**: GitHub Actions workflow runs daily at 3 AM UTC to check for updates
+4. **Display**: `index.html` loads the JSON and displays routes with color-coded tabs
 
 ## Local Development
 
 ### Generate Schedule Data
 
 ```bash
+cd piscinas
 python3 extract_schedule.py
 ```
 
-This will create/update `schedule.json` with the latest pool schedule.
+This will create/update `piscinas/schedule.json` with the latest pool schedule.
 
 ### View the Website
 
@@ -64,13 +79,20 @@ Simply connect your GitHub repository and deploy. The site is fully static.
 
 ```
 ourem.xyz/
-├── index.html                     # Main website
-├── schedule.json                  # Generated schedule data
-├── extract_schedule.py            # PDF extraction script
-├── MGO-PIscinas-202526-TF.pdf    # Pool schedule PDF
+├── index.html                     # Landing page with service links
+├── piscinas/                      # Swimming pool service
+│   ├── index.html                 # Pool schedule website
+│   ├── schedule.json              # Generated schedule data
+│   ├── extract_schedule.py        # PDF extraction script
+│   └── MGO-PIscinas-202526-TF.pdf # Pool schedule PDF
+├── tufo/                          # Public transport service
+│   ├── index.html                 # TUFO schedules website
+│   ├── schedules.json             # Generated transport schedules
+│   └── fetch_schedules.py         # API fetch script
 ├── .github/
 │   └── workflows/
-│       └── update-schedule.yml    # Auto-update workflow
+│       ├── update-schedule.yml    # Pool schedule auto-update
+│       └── update-tufo.yml        # TUFO schedules auto-update
 └── README.md
 ```
 
@@ -90,9 +112,9 @@ ourem.xyz/
 
 When a new schedule PDF is released:
 
-1. Replace `MGO-PIscinas-202526-TF.pdf` with the new PDF
-2. Update the data structure in `extract_schedule.py` if the format changed
-3. Run `python3 extract_schedule.py` locally to test
+1. Replace `piscinas/MGO-PIscinas-202526-TF.pdf` with the new PDF
+2. Update the data structure in `piscinas/extract_schedule.py` if the format changed
+3. Run `cd piscinas && python3 extract_schedule.py` locally to test
 4. Commit and push - GitHub Actions will automatically regenerate the data
 
 ## License

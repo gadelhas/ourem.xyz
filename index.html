@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Piscina Municipal de Ourém - Horário</title>
+    <title>Ourém - Serviços Municipais</title>
     <style>
         * {
             margin: 0;
@@ -13,301 +13,130 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #0066cc 0%, #004d99 100%);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             padding: 20px;
         }
 
         .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            background: white;
-            border-radius: 16px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            overflow: hidden;
+            max-width: 900px;
+            width: 100%;
         }
 
         .header {
-            background: linear-gradient(135deg, #0066cc 0%, #004d99 100%);
-            color: white;
-            padding: 40px;
             text-align: center;
+            margin-bottom: 50px;
+            color: white;
         }
 
         .header h1 {
-            font-size: 32px;
+            font-size: 48px;
             margin-bottom: 10px;
+            font-weight: 700;
+            text-shadow: 0 2px 10px rgba(0,0,0,0.2);
         }
 
         .header p {
-            font-size: 16px;
-            opacity: 0.9;
+            font-size: 18px;
+            opacity: 0.95;
         }
 
-        .metadata {
-            padding: 20px 40px;
-            background: #f8f9fa;
-            border-bottom: 2px solid #e9ecef;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 15px;
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
         }
 
-        .metadata-item {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 14px;
-            color: #495057;
-        }
-
-        .metadata-item strong {
-            color: #212529;
-        }
-
-        .controls {
-            padding: 30px 40px 20px;
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-            align-items: center;
-        }
-
-        .day-filter {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-        }
-
-        .day-btn {
-            padding: 10px 20px;
-            border: 2px solid #0066cc;
+        .service-card {
             background: white;
-            color: #0066cc;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 14px;
-            font-weight: 600;
-            transition: all 0.3s;
+            border-radius: 16px;
+            padding: 40px 30px;
+            text-align: center;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            position: relative;
+            overflow: hidden;
         }
 
-        .day-btn:hover {
-            background: #e6f2ff;
-        }
-
-        .day-btn.active {
-            background: #0066cc;
-            color: white;
-        }
-
-        .legend {
-            margin-left: auto;
-            padding: 10px 20px;
-            background: #fff3cd;
-            border-radius: 8px;
-            font-size: 13px;
-            color: #856404;
-            cursor: pointer;
-        }
-
-        .legend-modal {
-            display: none;
-            position: fixed;
+        .service-card::before {
+            content: '';
+            position: absolute;
             top: 0;
             left: 0;
             right: 0;
-            bottom: 0;
-            background: rgba(0,0,0,0.5);
-            z-index: 1000;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
+            height: 5px;
+            background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
         }
 
-        .legend-modal.show {
-            display: flex;
+        .service-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 50px rgba(0,0,0,0.25);
         }
 
-        .legend-content {
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            max-width: 600px;
-            width: 100%;
-            max-height: 80vh;
-            overflow-y: auto;
-        }
-
-        .legend-content h3 {
+        .service-icon {
+            font-size: 60px;
             margin-bottom: 20px;
-            color: #0066cc;
         }
 
-        .legend-item {
-            display: flex;
-            gap: 15px;
-            margin-bottom: 12px;
-            align-items: center;
-        }
-
-        .legend-code {
-            font-weight: 600;
-            min-width: 100px;
-            color: #495057;
-        }
-
-        .close-btn {
-            float: right;
-            background: none;
-            border: none;
+        .service-card h2 {
             font-size: 24px;
-            cursor: pointer;
-            color: #6c757d;
-        }
-
-        .content {
-            padding: 40px;
-        }
-
-        .day-section {
-            margin-bottom: 50px;
-        }
-
-        .day-section h2 {
-            color: #0066cc;
-            font-size: 24px;
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 3px solid #0066cc;
-        }
-
-        .schedule-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-            gap: 20px;
-        }
-
-        .time-slot {
-            background: #f8f9fa;
-            border-radius: 12px;
-            padding: 20px;
-            border: 2px solid #e9ecef;
-            transition: all 0.3s;
-        }
-
-        .time-slot:hover {
-            border-color: #0066cc;
-            box-shadow: 0 4px 12px rgba(0,102,204,0.1);
-        }
-
-        .time-slot-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
             margin-bottom: 15px;
+            color: #333;
         }
 
-        .time {
-            font-size: 18px;
-            font-weight: 700;
-            color: #212529;
+        .service-card p {
+            font-size: 15px;
+            color: #666;
+            line-height: 1.6;
         }
 
-        .availability {
-            background: #28a745;
-            color: white;
-            padding: 5px 12px;
-            border-radius: 20px;
-            font-size: 13px;
-            font-weight: 600;
+        .service-card.coming-soon {
+            opacity: 0.6;
+            cursor: not-allowed;
         }
 
-        .availability.low {
+        .service-card.coming-soon:hover {
+            transform: none;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+        }
+
+        .badge {
+            display: inline-block;
             background: #ffc107;
-        }
-
-        .availability.none {
-            background: #dc3545;
-        }
-
-        .lanes-list {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 8px;
-        }
-
-        .lane-item {
-            padding: 8px;
-            border-radius: 6px;
-            font-size: 12px;
-            text-align: center;
+            color: #856404;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 11px;
             font-weight: 600;
+            margin-top: 10px;
+            text-transform: uppercase;
         }
 
-        .lane-item.available {
-            background: #d4edda;
-            color: #155724;
-            border: 1px solid #c3e6cb;
-        }
-
-        .lane-item.occupied {
-            background: #f8d7da;
-            color: #721c24;
-            border: 1px solid #f5c6cb;
-        }
-
-        .loading {
+        .footer {
             text-align: center;
-            padding: 60px;
-            color: #6c757d;
-        }
-
-        .spinner {
-            border: 4px solid #f3f3f3;
-            border-top: 4px solid #0066cc;
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            animation: spin 1s linear infinite;
-            margin: 20px auto;
-        }
-
-        @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+            margin-top: 50px;
+            color: white;
+            opacity: 0.8;
+            font-size: 14px;
         }
 
         @media (max-width: 768px) {
-            .header {
-                padding: 30px 20px;
-            }
-
             .header h1 {
-                font-size: 24px;
+                font-size: 36px;
             }
 
-            .content {
-                padding: 20px;
+            .header p {
+                font-size: 16px;
             }
 
-            .controls {
-                padding: 20px;
-            }
-
-            .metadata {
-                padding: 15px 20px;
-            }
-
-            .schedule-grid {
+            .services-grid {
                 grid-template-columns: 1fr;
-            }
-
-            .legend {
-                margin-left: 0;
-                width: 100%;
-                text-align: center;
             }
         }
     </style>
@@ -315,185 +144,34 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Piscina Municipal de Ourém</h1>
-            <p>Horário e Disponibilidade de Pistas</p>
+            <h1>Ourém</h1>
+            <p>Serviços Municipais Online</p>
         </div>
 
-        <div class="metadata">
-            <div class="metadata-item">
-                <strong>Época:</strong>
-                <span id="season">Carregando...</span>
+        <div class="services-grid">
+            <a href="piscinas/" class="service-card">
+                <div class="service-icon">🏊</div>
+                <h2>Piscinas Municipais</h2>
+                <p>Consulte o horário e disponibilidade de pistas da Piscina Municipal de Ourém</p>
+            </a>
+
+            <div class="service-card coming-soon">
+                <div class="service-icon">📚</div>
+                <h2>Biblioteca Municipal</h2>
+                <p>Catálogo e horários da biblioteca</p>
+                <span class="badge">Em breve</span>
             </div>
-            <div class="metadata-item">
-                <strong>Atualizado:</strong>
-                <span id="lastUpdated">Carregando...</span>
-            </div>
+
+            <a href="tufo/" class="service-card">
+                <div class="service-icon">🚌</div>
+                <h2>Transportes Públicos</h2>
+                <p>Horários e rotas TUFO - Fátima e Ourém</p>
+            </a>
         </div>
 
-        <div class="controls">
-            <div class="day-filter" id="dayFilter">
-                <button class="day-btn active" data-day="all">Todos os Dias</button>
-            </div>
-            <div class="legend" onclick="toggleLegend()">
-                📋 Ver Legenda
-            </div>
-        </div>
-
-        <div class="content">
-            <div id="loading" class="loading">
-                <div class="spinner"></div>
-                <p>A carregar horário...</p>
-            </div>
-            <div id="scheduleContent"></div>
+        <div class="footer">
+            <p>Município de Ourém - Serviços Online</p>
         </div>
     </div>
-
-    <div class="legend-modal" id="legendModal" onclick="toggleLegend()">
-        <div class="legend-content" onclick="event.stopPropagation()">
-            <button class="close-btn" onclick="toggleLegend()">×</button>
-            <h3>Legenda de Atividades</h3>
-            <div id="legendItems"></div>
-        </div>
-    </div>
-
-    <script>
-        let scheduleData = null;
-        let currentFilter = 'all';
-
-        async function loadSchedule() {
-            try {
-                const response = await fetch('schedule.json');
-                scheduleData = await response.json();
-
-                // Update metadata
-                document.getElementById('season').textContent = scheduleData.season;
-                const lastUpdated = new Date(scheduleData.last_updated);
-                document.getElementById('lastUpdated').textContent = lastUpdated.toLocaleString('pt-PT');
-
-                // Build day filter buttons
-                buildDayFilter();
-
-                // Build legend
-                buildLegend();
-
-                // Display schedule
-                displaySchedule();
-
-                // Hide loading
-                document.getElementById('loading').style.display = 'none';
-            } catch (error) {
-                console.error('Error loading schedule:', error);
-                document.getElementById('loading').innerHTML = `
-                    <p style="color: #dc3545;">Erro ao carregar o horário. Por favor, tente novamente.</p>
-                `;
-            }
-        }
-
-        function buildDayFilter() {
-            const dayFilter = document.getElementById('dayFilter');
-            const days = Object.keys(scheduleData.schedule);
-
-            days.forEach(day => {
-                const btn = document.createElement('button');
-                btn.className = 'day-btn';
-                btn.textContent = day;
-                btn.dataset.day = day;
-                btn.onclick = () => filterByDay(day);
-                dayFilter.appendChild(btn);
-            });
-        }
-
-        function buildLegend() {
-            const legendItems = document.getElementById('legendItems');
-            legendItems.innerHTML = '';
-
-            for (const [code, description] of Object.entries(scheduleData.legend)) {
-                const item = document.createElement('div');
-                item.className = 'legend-item';
-                item.innerHTML = `
-                    <span class="legend-code">${code}</span>
-                    <span>${description}</span>
-                `;
-                legendItems.appendChild(item);
-            }
-        }
-
-        function filterByDay(day) {
-            currentFilter = day;
-
-            // Update active button
-            document.querySelectorAll('.day-btn').forEach(btn => {
-                btn.classList.remove('active');
-                if (btn.dataset.day === day) {
-                    btn.classList.add('active');
-                }
-            });
-
-            displaySchedule();
-        }
-
-        function displaySchedule() {
-            const content = document.getElementById('scheduleContent');
-            content.innerHTML = '';
-
-            const schedule = scheduleData.schedule;
-            const days = currentFilter === 'all' ? Object.keys(schedule) : [currentFilter];
-
-            days.forEach(day => {
-                const daySection = document.createElement('div');
-                daySection.className = 'day-section';
-
-                const dayTitle = document.createElement('h2');
-                dayTitle.textContent = day;
-                daySection.appendChild(dayTitle);
-
-                const grid = document.createElement('div');
-                grid.className = 'schedule-grid';
-
-                schedule[day].forEach(slot => {
-                    const timeSlot = createTimeSlotCard(slot);
-                    grid.appendChild(timeSlot);
-                });
-
-                daySection.appendChild(grid);
-                content.appendChild(daySection);
-            });
-        }
-
-        function createTimeSlotCard(slot) {
-            const card = document.createElement('div');
-            card.className = 'time-slot';
-
-            const availabilityClass = slot.available_lanes === 0 ? 'none' :
-                                     slot.available_lanes <= 2 ? 'low' : '';
-
-            card.innerHTML = `
-                <div class="time-slot-header">
-                    <div class="time">${slot.time}</div>
-                    <div class="availability ${availabilityClass}">
-                        ${slot.available_lanes} ${slot.available_lanes === 1 ? 'pista livre' : 'pistas livres'}
-                    </div>
-                </div>
-                <div class="lanes-list">
-                    ${slot.lanes.map(lane => `
-                        <div class="lane-item ${lane.available ? 'available' : 'occupied'}">
-                            Pista ${lane.lane}<br>
-                            <small>${lane.activity}</small>
-                        </div>
-                    `).join('')}
-                </div>
-            `;
-
-            return card;
-        }
-
-        function toggleLegend() {
-            const modal = document.getElementById('legendModal');
-            modal.classList.toggle('show');
-        }
-
-        // Load schedule on page load
-        loadSchedule();
-    </script>
 </body>
 </html>

@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TUFO - Horários de Transportes Urbanos</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            font-size: 16px;
+            opacity: 0.9;
+        }
+
+        .back-link {
+            position: absolute;
+            top: 40px;
+            left: 40px;
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            opacity: 0.9;
+            transition: opacity 0.3s;
+        }
+
+        .back-link:hover {
+            opacity: 1;
+        }
+
+        .metadata {
+            padding: 20px 40px;
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .metadata-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 14px;
+            color: #495057;
+        }
+
+        .metadata-item strong {
+            color: #212529;
+        }
+
+        .controls {
+            padding: 30px 40px 20px;
+        }
+
+        .route-tabs {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
+
+        .route-tab {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.3s;
+            color: white;
+        }
+
+        .route-tab:hover {
+            opacity: 0.85;
+            transform: translateY(-2px);
+        }
+
+        .route-tab.active {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+            transform: translateY(-2px);
+        }
+
+        .content {
+            padding: 0 40px 40px;
+        }
+
+        .circuit-section {
+            margin-bottom: 40px;
+        }
+
+        .circuit-section h2 {
+            font-size: 22px;
+            margin-bottom: 20px;
+            color: #333;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .stops-grid {
+            display: grid;
+            gap: 15px;
+        }
+
+        .stop-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            border-left: 4px solid #ddd;
+            transition: all 0.3s;
+        }
+
+        .stop-card:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transform: translateX(5px);
+        }
+
+        .stop-name {
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 12px;
+        }
+
+        .times-list {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .time-badge {
+            background: white;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 600;
+            border: 1px solid #dee2e6;
+            color: #495057;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #6c757d;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #2a5298;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px;
+            color: #6c757d;
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 30px 20px;
+            }
+
+            .header h1 {
+                font-size: 24px;
+            }
+
+            .back-link {
+                position: static;
+                display: block;
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            .content, .controls, .metadata {
+                padding: 20px;
+            }
+
+            .route-tabs {
+                justify-content: center;
+            }
+
+            .route-tab {
+                flex: 1 1 auto;
+                min-width: 120px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="../" class="back-link">← Voltar</a>
+            <h1>TUFO - Transportes Urbanos</h1>
+            <p>Horários de Fátima e Ourém</p>
+        </div>
+
+        <div class="metadata">
+            <div class="metadata-item">
+                <strong>Fonte:</strong>
+                <span id="source">TUFO</span>
+            </div>
+            <div class="metadata-item">
+                <strong>Atualizado:</strong>
+                <span id="lastUpdated">Carregando...</span>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="route-tabs" id="routeTabs"></div>
+        </div>
+
+        <div class="content">
+            <div id="loading" class="loading">
+                <div class="spinner"></div>
+                <p>A carregar horários...</p>
+            </div>
+            <div id="scheduleContent"></div>
+        </div>
+    </div>
+
+    <script>
+        let schedulesData = null;
+        let currentRoute = null;
+
+        async function loadSchedules() {
+            try {
+                const response = await fetch('schedules.json');
+                schedulesData = await response.json();
+
+                // Update metadata
+                document.getElementById('source').textContent = schedulesData.source;
+                const lastUpdated = new Date(schedulesData.last_updated);
+                document.getElementById('lastUpdated').textContent = lastUpdated.toLocaleString('pt-PT');
+
+                // Build route tabs
+                buildRouteTabs();
+
+                // Select first route by default
+                const firstRoute = Object.keys(schedulesData.routes)[0];
+                if (firstRoute) {
+                    selectRoute(firstRoute);
+                }
+
+                // Hide loading
+                document.getElementById('loading').style.display = 'none';
+
+            } catch (error) {
+                console.error('Error loading schedules:', error);
+                document.getElementById('loading').innerHTML = `
+                    <p style="color: #dc3545;">Erro ao carregar horários. Por favor, tente novamente.</p>
+                `;
+            }
+        }
+
+        function buildRouteTabs() {
+            const tabs = document.getElementById('routeTabs');
+            tabs.innerHTML = '';
+
+            for (const [routeName, routeData] of Object.entries(schedulesData.routes)) {
+                const tab = document.createElement('button');
+                tab.className = 'route-tab';
+                tab.textContent = routeName;
+                tab.style.backgroundColor = routeData.color;
+                tab.onclick = () => selectRoute(routeName);
+                tab.dataset.route = routeName;
+                tabs.appendChild(tab);
+            }
+        }
+
+        function selectRoute(routeName) {
+            currentRoute = routeName;
+
+            // Update active tab
+            document.querySelectorAll('.route-tab').forEach(tab => {
+                tab.classList.remove('active');
+                if (tab.dataset.route === routeName) {
+                    tab.classList.add('active');
+                }
+            });
+
+            // Display route schedules
+            displayRoute(routeName);
+        }
+
+        function displayRoute(routeName) {
+            const content = document.getElementById('scheduleContent');
+            content.innerHTML = '';
+
+            const route = schedulesData.routes[routeName];
+
+            if (!route || !route.circuits || Object.keys(route.circuits).length === 0) {
+                content.innerHTML = `
+                    <div class="empty-state">
+                        <p>Sem horários disponíveis para esta linha.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            // Display each circuit
+            for (const [circuitName, stops] of Object.entries(route.circuits)) {
+                const section = document.createElement('div');
+                section.className = 'circuit-section';
+
+                const title = document.createElement('h2');
+                title.textContent = circuitName;
+                section.appendChild(title);
+
+                const grid = document.createElement('div');
+                grid.className = 'stops-grid';
+
+                stops.forEach(stop => {
+                    const card = createStopCard(stop, route.color);
+                    grid.appendChild(card);
+                });
+
+                section.appendChild(grid);
+                content.appendChild(section);
+            }
+        }
+
+        function createStopCard(stop, routeColor) {
+            const card = document.createElement('div');
+            card.className = 'stop-card';
+            card.style.borderLeftColor = routeColor;
+
+            const stopName = document.createElement('div');
+            stopName.className = 'stop-name';
+            stopName.textContent = stop.stop;
+
+            const timesList = document.createElement('div');
+            timesList.className = 'times-list';
+
+            if (stop.times && stop.times.length > 0) {
+                stop.times.forEach(time => {
+                    const badge = document.createElement('span');
+                    badge.className = 'time-badge';
+                    badge.textContent = time;
+                    timesList.appendChild(badge);
+                });
+            } else {
+                const noTimes = document.createElement('span');
+                noTimes.style.color = '#6c757d';
+                noTimes.style.fontSize = '14px';
+                noTimes.textContent = 'Sem horários disponíveis';
+                timesList.appendChild(noTimes);
+            }
+
+            card.appendChild(stopName);
+            card.appendChild(timesList);
+
+            return card;
+        }
+
+        // Load schedules on page load
+        loadSchedules();
+    </script>
+</body>
+</html>

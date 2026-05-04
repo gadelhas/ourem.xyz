@@ -1,13 +1,16 @@
-name: Update Pool Schedule
+name: Update TUFO Schedules
 
 on:
+  schedule:
+    # Run daily at 3 AM UTC to check for schedule updates
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # Allow manual trigger
   push:
     paths:
-      - 'piscinas/MGO-PIscinas-202526-TF.pdf'
-      - 'piscinas/extract_schedule.py'
+      - 'tufo/fetch_schedules.py'
 
 jobs:
-  update-schedule:
+  update-tufo:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -23,14 +26,14 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Extract schedule from PDF
+      - name: Fetch TUFO schedules from API
         run: |
-          cd piscinas
-          python3 extract_schedule.py
+          cd tufo
+          python3 fetch_schedules.py
 
       - name: Commit and push if changed
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git add piscinas/schedule.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update pool schedule data" && git push)
+          git add tufo/schedules.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update TUFO transport schedules" && git push)
