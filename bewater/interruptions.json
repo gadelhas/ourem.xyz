@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T16:33:35.637560",
+  "last_updated": "2026-05-05T17:33:46.278586",
   "count": 3,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "08/05/2026 09:15",
       "restoration_datetime": "08/05/2026 13:00",
       "last_updated": "05/05/2026 16:29",
-      "affected_streets": "Rua Lomba - Fontainhas da Serra; Rua Arneirinho - Fontainhas da Serra; Rua Principal - Fontainhas da Serra; Rua Castanheiro - Fontainhas da Serra e ruas adjacentes",
-      "discovered_at": "05/05/2026 16:33"
+      "affected_streets": "Rua Lomba - Fontainhas da Serra; Rua Arneirinho - Fontainhas da Serra; Rua Principal - Fontainhas da Serra; Rua Castanheiro - Fontainhas da Serra e ruas adjacentes"
     },
     {
       "id": "9071",
