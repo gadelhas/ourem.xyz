@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T03:06:07.304626",
+  "last_updated": "2026-05-05T05:04:20.685199",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "05/05/2026 03:30",
       "restoration_datetime": "05/05/2026 14:00",
       "last_updated": "05/05/2026 03:05",
-      "affected_streets": "Vale Ugreiro; Cortes; Arieiro; Barreira das Cortes; Braga; Casal do Monte; Chã",
-      "discovered_at": "05/05/2026 03:06"
+      "affected_streets": "Vale Ugreiro; Cortes; Arieiro; Barreira das Cortes; Braga; Casal do Monte; Chã"
     }
   ]
 }
