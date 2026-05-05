@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-05T01:35:54.574467",
-  "count": 1,
+  "last_updated": "2026-05-05T03:06:07.304626",
+  "count": 2,
   "interruptions": [
     {
       "id": "9071",
@@ -10,6 +10,16 @@
       "restoration_datetime": "07/05/2026 13:00",
       "last_updated": "04/05/2026 17:04",
       "affected_streets": "Praça Dona Maria II- Ourém; Rua Gregório Correia- Ourém e ruas adjacentes"
+    },
+    {
+      "id": "9072",
+      "type": "Não Programada",
+      "location": "Vale Ugreiro",
+      "start_datetime": "05/05/2026 03:30",
+      "restoration_datetime": "05/05/2026 14:00",
+      "last_updated": "05/05/2026 03:05",
+      "affected_streets": "Vale Ugreiro; Cortes; Arieiro; Barreira das Cortes; Braga; Casal do Monte; Chã",
+      "discovered_at": "05/05/2026 03:06"
     }
   ]
 }
