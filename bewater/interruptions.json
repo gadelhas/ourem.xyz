@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-05T15:37:00.356213",
-  "count": 2,
+  "last_updated": "2026-05-05T16:33:35.637560",
+  "count": 3,
   "interruptions": [
+    {
+      "id": "9077",
+      "type": "Programada",
+      "location": "Rua Lomba - Fontainhas da Serra",
+      "start_datetime": "08/05/2026 09:15",
+      "restoration_datetime": "08/05/2026 13:00",
+      "last_updated": "05/05/2026 16:29",
+      "affected_streets": "Rua Lomba - Fontainhas da Serra; Rua Arneirinho - Fontainhas da Serra; Rua Principal - Fontainhas da Serra; Rua Castanheiro - Fontainhas da Serra e ruas adjacentes",
+      "discovered_at": "05/05/2026 16:33"
+    },
     {
       "id": "9071",
       "type": "Programada",
@@ -18,8 +28,7 @@
       "start_datetime": "05/05/2026 14:35",
       "restoration_datetime": "05/05/2026 17:35",
       "last_updated": "05/05/2026 15:14",
-      "affected_streets": "Alvega",
-      "discovered_at": "05/05/2026 15:37"
+      "affected_streets": "Alvega"
     }
   ]
 }
