@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T03:06:33.043446",
-  "count": 2,
+  "last_updated": "2026-05-06T05:06:50.490424",
+  "count": 3,
   "interruptions": [
     {
       "id": "9077",
@@ -19,6 +19,16 @@
       "restoration_datetime": "07/05/2026 13:00",
       "last_updated": "04/05/2026 17:04",
       "affected_streets": "Praça Dona Maria II- Ourém; Rua Gregório Correia- Ourém e ruas adjacentes"
+    },
+    {
+      "id": "9078",
+      "type": "Não Programada",
+      "location": "Andrés",
+      "start_datetime": "06/05/2026 05:00",
+      "restoration_datetime": "06/05/2026 10:10",
+      "last_updated": "06/05/2026 04:10",
+      "affected_streets": "Andrés; Pisão do Oleiro",
+      "discovered_at": "06/05/2026 05:06"
     }
   ]
 }
