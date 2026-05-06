@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T10:41:51.365607",
+  "last_updated": "2026-05-06T11:35:41.771588",
   "count": 4,
   "interruptions": [
     {
@@ -36,8 +36,7 @@
       "start_datetime": "06/05/2026 10:45",
       "restoration_datetime": "06/05/2026 12:45",
       "last_updated": "06/05/2026 09:48",
-      "affected_streets": "Rua Capela- Tomareis e ruas adjacentes",
-      "discovered_at": "06/05/2026 10:41"
+      "affected_streets": "Rua Capela- Tomareis e ruas adjacentes"
     }
   ]
 }
