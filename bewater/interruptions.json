@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T09:48:45.807028",
+  "last_updated": "2026-05-06T10:41:51.365607",
   "count": 4,
   "interruptions": [
     {
@@ -27,17 +27,17 @@
       "start_datetime": "06/05/2026 09:45",
       "restoration_datetime": "06/05/2026 12:45",
       "last_updated": "06/05/2026 08:55",
-      "affected_streets": "Estrada Lago- Caridade; Estrada Principal- Alqueidão e ruas adjacentes",
-      "discovered_at": "06/05/2026 09:48"
+      "affected_streets": "Estrada Lago- Caridade; Estrada Principal- Alqueidão e ruas adjacentes"
     },
     {
-      "id": "9078",
+      "id": "9080",
       "type": "Não Programada",
-      "location": "Andrés",
-      "start_datetime": "06/05/2026 05:00",
-      "restoration_datetime": "06/05/2026 10:10",
-      "last_updated": "06/05/2026 04:10",
-      "affected_streets": "Andrés; Pisão do Oleiro"
+      "location": "Rua Capela- Tomareis",
+      "start_datetime": "06/05/2026 10:45",
+      "restoration_datetime": "06/05/2026 12:45",
+      "last_updated": "06/05/2026 09:48",
+      "affected_streets": "Rua Capela- Tomareis e ruas adjacentes",
+      "discovered_at": "06/05/2026 10:41"
     }
   ]
 }
