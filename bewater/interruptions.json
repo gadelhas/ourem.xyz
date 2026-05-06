@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-06T14:55:44.945992",
-  "count": 2,
+  "last_updated": "2026-05-06T15:47:40.216642",
+  "count": 3,
   "interruptions": [
     {
       "id": "9077",
@@ -19,6 +19,16 @@
       "restoration_datetime": "07/05/2026 13:00",
       "last_updated": "04/05/2026 17:04",
       "affected_streets": "Praça Dona Maria II- Ourém; Rua Gregório Correia- Ourém e ruas adjacentes"
+    },
+    {
+      "id": "9081",
+      "type": "Não Programada",
+      "location": "Pisões",
+      "start_datetime": "06/05/2026 16:00",
+      "restoration_datetime": "06/05/2026 19:00",
+      "last_updated": "06/05/2026 15:05",
+      "affected_streets": "Pisões; Rua Pisões- Caxarias; Rua Vales- Caxarias",
+      "discovered_at": "06/05/2026 15:47"
     }
   ]
 }
