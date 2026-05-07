@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T07:00:49.033985",
+  "last_updated": "2026-05-07T08:54:54.501488",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "07/05/2026 06:50",
       "restoration_datetime": "07/05/2026 12:00",
       "last_updated": "07/05/2026 05:19",
-      "affected_streets": "Rua Principal- Pederneira; Rua Passagem Nível- Pederneira e ruas adjacentes",
-      "discovered_at": "07/05/2026 07:00"
+      "affected_streets": "Rua Principal- Pederneira; Rua Passagem Nível- Pederneira e ruas adjacentes"
     }
   ]
 }
