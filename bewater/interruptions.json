@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T05:09:13.608023",
-  "count": 2,
+  "last_updated": "2026-05-07T07:00:49.033985",
+  "count": 3,
   "interruptions": [
     {
       "id": "9077",
@@ -19,6 +19,16 @@
       "restoration_datetime": "07/05/2026 13:00",
       "last_updated": "04/05/2026 17:04",
       "affected_streets": "Praça Dona Maria II- Ourém; Rua Gregório Correia- Ourém e ruas adjacentes"
+    },
+    {
+      "id": "9082",
+      "type": "Não Programada",
+      "location": "Rua Principal- Pederneira",
+      "start_datetime": "07/05/2026 06:50",
+      "restoration_datetime": "07/05/2026 12:00",
+      "last_updated": "07/05/2026 05:19",
+      "affected_streets": "Rua Principal- Pederneira; Rua Passagem Nível- Pederneira e ruas adjacentes",
+      "discovered_at": "07/05/2026 07:00"
     }
   ]
 }
