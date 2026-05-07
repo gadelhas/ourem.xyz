@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T13:36:08.755294",
-  "count": 1,
+  "last_updated": "2026-05-07T14:56:44.999785",
+  "count": 2,
   "interruptions": [
     {
       "id": "9077",
@@ -10,6 +10,16 @@
       "restoration_datetime": "08/05/2026 13:00",
       "last_updated": "05/05/2026 16:29",
       "affected_streets": "Rua Lomba - Fontainhas da Serra; Rua Arneirinho - Fontainhas da Serra; Rua Principal - Fontainhas da Serra; Rua Castanheiro - Fontainhas da Serra e ruas adjacentes"
+    },
+    {
+      "id": "9083",
+      "type": "Não Programada",
+      "location": "Alcadaria",
+      "start_datetime": "07/05/2026 15:30",
+      "restoration_datetime": "07/05/2026 16:15",
+      "last_updated": "07/05/2026 14:47",
+      "affected_streets": "Alcadaria",
+      "discovered_at": "07/05/2026 14:56"
     }
   ]
 }
