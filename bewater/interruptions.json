@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T12:38:39.389430",
-  "count": 2,
+  "last_updated": "2026-05-07T13:36:08.755294",
+  "count": 1,
   "interruptions": [
     {
       "id": "9077",
@@ -10,15 +10,6 @@
       "restoration_datetime": "08/05/2026 13:00",
       "last_updated": "05/05/2026 16:29",
       "affected_streets": "Rua Lomba - Fontainhas da Serra; Rua Arneirinho - Fontainhas da Serra; Rua Principal - Fontainhas da Serra; Rua Castanheiro - Fontainhas da Serra e ruas adjacentes"
-    },
-    {
-      "id": "9071",
-      "type": "Programada",
-      "location": "Praça Dona Maria II- Ourém",
-      "start_datetime": "07/05/2026 09:00",
-      "restoration_datetime": "07/05/2026 13:00",
-      "last_updated": "04/05/2026 17:04",
-      "affected_streets": "Praça Dona Maria II- Ourém; Rua Gregório Correia- Ourém e ruas adjacentes"
     }
   ]
 }
