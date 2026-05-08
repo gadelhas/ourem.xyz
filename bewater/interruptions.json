@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08T11:31:11.980233",
+  "last_updated": "2026-05-08T12:29:30.035069",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "08/05/2026 12:08",
       "restoration_datetime": "08/05/2026 15:30",
       "last_updated": "08/05/2026 11:10",
-      "affected_streets": "Estrada Covão- Urqueira",
-      "discovered_at": "08/05/2026 11:31"
+      "affected_streets": "Estrada Covão- Urqueira"
     },
     {
       "id": "9077",
