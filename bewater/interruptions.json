@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T12:29:30.035069",
-  "count": 2,
+  "last_updated": "2026-05-08T13:34:42.025936",
+  "count": 1,
   "interruptions": [
     {
       "id": "9114",
@@ -10,15 +10,6 @@
       "restoration_datetime": "08/05/2026 15:30",
       "last_updated": "08/05/2026 11:10",
       "affected_streets": "Estrada Covão- Urqueira"
-    },
-    {
-      "id": "9077",
-      "type": "Programada",
-      "location": "Rua Lomba - Fontainhas da Serra",
-      "start_datetime": "08/05/2026 09:15",
-      "restoration_datetime": "08/05/2026 13:00",
-      "last_updated": "05/05/2026 16:29",
-      "affected_streets": "Rua Lomba - Fontainhas da Serra; Rua Arneirinho - Fontainhas da Serra; Rua Principal - Fontainhas da Serra; Rua Castanheiro - Fontainhas da Serra e ruas adjacentes"
     }
   ]
 }
