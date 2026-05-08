@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T18:30:23.120555",
-  "count": 3,
+  "last_updated": "2026-05-08T19:31:21.397750",
+  "count": 2,
   "interruptions": [
     {
       "id": "9116",
@@ -18,17 +18,7 @@
       "start_datetime": "08/05/2026 19:30",
       "restoration_datetime": "08/05/2026 23:30",
       "last_updated": "08/05/2026 18:22",
-      "affected_streets": "Sobral",
-      "discovered_at": "08/05/2026 18:30"
-    },
-    {
-      "id": "9115",
-      "type": "Não Programada",
-      "location": "Porto Velho",
-      "start_datetime": "08/05/2026 17:15",
-      "restoration_datetime": "08/05/2026 19:15",
-      "last_updated": "08/05/2026 15:44",
-      "affected_streets": "Porto Velho"
+      "affected_streets": "Sobral"
     }
   ]
 }
