@@ -84,3 +84,5 @@ id,type,location,start_datetime,restoration_datetime,last_updated,affected_stree
 9082,Não Programada,Rua Principal- Pederneira,07/05/2026 06:50,07/05/2026 12:00,07/05/2026 05:19,Rua Principal- Pederneira; Rua Passagem Nível- Pederneira e ruas adjacentes,07/05/2026 07:00
 9083,Não Programada,Alcadaria,07/05/2026 15:30,07/05/2026 16:15,07/05/2026 14:47,Alcadaria,07/05/2026 14:56
 9114,Não Programada,Estrada Covão- Urqueira,08/05/2026 12:08,08/05/2026 15:30,08/05/2026 11:10,Estrada Covão- Urqueira,08/05/2026 11:31
+9116,Programada,Rua Cruzeiro- Matas,13/05/2026 14:00,13/05/2026 17:00,08/05/2026 16:22,Rua Cruzeiro- Matas; Travessa Ginjeiras- Matas; Travessa Lages- Matas e ruas adjacentes,08/05/2026 16:31
+9115,Não Programada,Porto Velho,08/05/2026 17:15,08/05/2026 19:15,08/05/2026 15:44,Porto Velho,08/05/2026 16:31

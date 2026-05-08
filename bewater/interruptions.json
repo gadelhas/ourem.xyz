@@ -1,5 +1,26 @@
 {
-  "last_updated": "2026-05-08T15:33:49.888643",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-08T16:31:53.359337",
+  "count": 2,
+  "interruptions": [
+    {
+      "id": "9116",
+      "type": "Programada",
+      "location": "Rua Cruzeiro- Matas",
+      "start_datetime": "13/05/2026 14:00",
+      "restoration_datetime": "13/05/2026 17:00",
+      "last_updated": "08/05/2026 16:22",
+      "affected_streets": "Rua Cruzeiro- Matas; Travessa Ginjeiras- Matas; Travessa Lages- Matas e ruas adjacentes",
+      "discovered_at": "08/05/2026 16:31"
+    },
+    {
+      "id": "9115",
+      "type": "Não Programada",
+      "location": "Porto Velho",
+      "start_datetime": "08/05/2026 17:15",
+      "restoration_datetime": "08/05/2026 19:15",
+      "last_updated": "08/05/2026 15:44",
+      "affected_streets": "Porto Velho",
+      "discovered_at": "08/05/2026 16:31"
+    }
+  ]
 }
