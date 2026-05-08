@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-08T10:33:08.410938",
-  "count": 1,
+  "last_updated": "2026-05-08T11:31:11.980233",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9114",
+      "type": "Não Programada",
+      "location": "Estrada Covão- Urqueira",
+      "start_datetime": "08/05/2026 12:08",
+      "restoration_datetime": "08/05/2026 15:30",
+      "last_updated": "08/05/2026 11:10",
+      "affected_streets": "Estrada Covão- Urqueira",
+      "discovered_at": "08/05/2026 11:31"
+    },
     {
       "id": "9077",
       "type": "Programada",
