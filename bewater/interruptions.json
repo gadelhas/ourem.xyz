@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-08T17:31:46.895778",
-  "count": 2,
+  "last_updated": "2026-05-08T18:30:23.120555",
+  "count": 3,
   "interruptions": [
     {
       "id": "9116",
@@ -10,6 +10,16 @@
       "restoration_datetime": "13/05/2026 17:00",
       "last_updated": "08/05/2026 16:22",
       "affected_streets": "Rua Cruzeiro- Matas; Travessa Ginjeiras- Matas; Travessa Lages- Matas e ruas adjacentes"
+    },
+    {
+      "id": "9117",
+      "type": "Não Programada",
+      "location": "Sobral",
+      "start_datetime": "08/05/2026 19:30",
+      "restoration_datetime": "08/05/2026 23:30",
+      "last_updated": "08/05/2026 18:22",
+      "affected_streets": "Sobral",
+      "discovered_at": "08/05/2026 18:30"
     },
     {
       "id": "9115",
