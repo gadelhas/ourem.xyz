@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T16:47:37.532533",
-  "count": 2,
+  "last_updated": "2026-05-13T17:42:33.630172",
+  "count": 1,
   "interruptions": [
     {
       "id": "9119",
@@ -10,15 +10,6 @@
       "restoration_datetime": "13/05/2026 18:30",
       "last_updated": "13/05/2026 13:46",
       "affected_streets": "Peras Ruivas"
-    },
-    {
-      "id": "9116",
-      "type": "Programada",
-      "location": "Rua Cruzeiro- Matas",
-      "start_datetime": "13/05/2026 14:00",
-      "restoration_datetime": "13/05/2026 17:00",
-      "last_updated": "08/05/2026 16:22",
-      "affected_streets": "Rua Cruzeiro- Matas; Travessa Ginjeiras- Matas; Travessa Lages- Matas e ruas adjacentes"
     }
   ]
 }
