@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-15T09:04:26.951211",
-  "count": 1,
+  "last_updated": "2026-05-15T10:48:19.960552",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9122",
+      "type": "Não Programada",
+      "location": "Andrés",
+      "start_datetime": "15/05/2026 11:15",
+      "restoration_datetime": "15/05/2026 15:20",
+      "last_updated": "15/05/2026 10:18",
+      "affected_streets": "Andrés; Pisão do Oleiro",
+      "discovered_at": "15/05/2026 10:48"
+    },
     {
       "id": "9121",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "15/05/2026 08:30",
       "restoration_datetime": "15/05/2026 12:00",
       "last_updated": "15/05/2026 07:10",
-      "affected_streets": "Estrada Fátima- Atouguia; Rua Calços- Atouguia; Alvega; São Sebastião; Estrada Fátima- Casal Novo e ruas adjacentes",
-      "discovered_at": "15/05/2026 09:04"
+      "affected_streets": "Estrada Fátima- Atouguia; Rua Calços- Atouguia; Alvega; São Sebastião; Estrada Fátima- Casal Novo e ruas adjacentes"
     }
   ]
 }
