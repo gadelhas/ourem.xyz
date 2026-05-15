@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T10:48:19.960552",
+  "last_updated": "2026-05-15T11:39:08.983227",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "15/05/2026 11:15",
       "restoration_datetime": "15/05/2026 15:20",
       "last_updated": "15/05/2026 10:18",
-      "affected_streets": "Andrés; Pisão do Oleiro",
-      "discovered_at": "15/05/2026 10:48"
+      "affected_streets": "Andrés; Pisão do Oleiro"
     },
     {
       "id": "9121",
