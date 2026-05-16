@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T14:29:01.719658",
+  "last_updated": "2026-05-16T15:23:10.486568",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/05/2026 15:15",
       "restoration_datetime": "16/05/2026 16:30",
       "last_updated": "16/05/2026 14:20",
-      "affected_streets": "Cumeada; Junqueira",
-      "discovered_at": "16/05/2026 14:29"
+      "affected_streets": "Cumeada; Junqueira"
     }
   ]
 }
