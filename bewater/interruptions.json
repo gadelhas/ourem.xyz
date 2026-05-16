@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-05-16T16:20:00.365756",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9125",
-      "type": "Não Programada",
-      "location": "Cumeada",
-      "start_datetime": "16/05/2026 15:15",
-      "restoration_datetime": "16/05/2026 16:30",
-      "last_updated": "16/05/2026 14:20",
-      "affected_streets": "Cumeada; Junqueira"
-    }
-  ]
+  "last_updated": "2026-05-16T17:22:15.996905",
+  "count": 0,
+  "interruptions": []
 }
