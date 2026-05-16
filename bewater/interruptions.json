@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-05-16T09:32:54.448747",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-16T10:28:16.234653",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9124",
+      "type": "Não Programada",
+      "location": "Rua Padre António Martins Pereira- Cova da Iria",
+      "start_datetime": "16/05/2026 11:05",
+      "restoration_datetime": "16/05/2026 12:15",
+      "last_updated": "16/05/2026 10:09",
+      "affected_streets": "Rua Padre António Martins Pereira- Cova da Iria e ruas adjacentes",
+      "discovered_at": "16/05/2026 10:28"
+    }
+  ]
 }
