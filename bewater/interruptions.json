@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-05-18T05:24:06.844117",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-18T07:24:18.893761",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9126",
+      "type": "Não Programada",
+      "location": "Sesmarias",
+      "start_datetime": "18/05/2026 07:10",
+      "restoration_datetime": "18/05/2026 10:00",
+      "last_updated": "18/05/2026 07:00",
+      "affected_streets": "Sesmarias",
+      "discovered_at": "18/05/2026 07:24"
+    }
+  ]
 }
