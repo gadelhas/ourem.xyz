@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T07:24:18.893761",
+  "last_updated": "2026-05-18T09:12:09.856353",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "18/05/2026 07:10",
       "restoration_datetime": "18/05/2026 10:00",
       "last_updated": "18/05/2026 07:00",
-      "affected_streets": "Sesmarias",
-      "discovered_at": "18/05/2026 07:24"
+      "affected_streets": "Sesmarias"
     }
   ]
 }
