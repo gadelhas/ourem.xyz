@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T07:14:12.565802",
+  "last_updated": "2026-05-19T09:10:08.801087",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "19/05/2026 07:05",
       "restoration_datetime": "19/05/2026 10:05",
       "last_updated": "19/05/2026 06:10",
-      "affected_streets": "Rua Padre Faustino Jacinto Ferreira- Cercal e ruas adjacentes",
-      "discovered_at": "19/05/2026 07:14"
+      "affected_streets": "Rua Padre Faustino Jacinto Ferreira- Cercal e ruas adjacentes"
     }
   ]
 }
