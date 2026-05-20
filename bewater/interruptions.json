@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-05-20T19:45:18.173790",
+  "last_updated": "2026-05-20T20:43:46.657433",
   "count": 1,
   "interruptions": [
     {
-      "id": "9129",
+      "id": "9130",
       "type": "Não Programada",
-      "location": "Rua Santo Andre- Andrés",
-      "start_datetime": "20/05/2026 16:30",
-      "restoration_datetime": "20/05/2026 20:15",
-      "last_updated": "20/05/2026 15:14",
-      "affected_streets": "Rua Santo Andre- Andrés"
+      "location": "Andrés",
+      "start_datetime": "20/05/2026 21:30",
+      "restoration_datetime": "20/05/2026 23:50",
+      "last_updated": "20/05/2026 20:12",
+      "affected_streets": "Andrés",
+      "discovered_at": "20/05/2026 20:43"
     }
   ]
 }
