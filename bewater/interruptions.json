@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T21:35:07.384487",
+  "last_updated": "2026-05-20T22:31:34.845315",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "20/05/2026 22:00",
       "restoration_datetime": "21/05/2026 12:10",
       "last_updated": "20/05/2026 21:14",
-      "affected_streets": "Cumeada; Junqueira; Charneca; Cardal de Baixo",
-      "discovered_at": "20/05/2026 21:35"
+      "affected_streets": "Cumeada; Junqueira; Charneca; Cardal de Baixo"
     },
     {
       "id": "9130",
