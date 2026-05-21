@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T23:28:38.721189",
-  "count": 2,
+  "last_updated": "2026-05-21T00:42:16.829428",
+  "count": 1,
   "interruptions": [
     {
       "id": "9131",
@@ -10,15 +10,6 @@
       "restoration_datetime": "21/05/2026 12:10",
       "last_updated": "20/05/2026 21:14",
       "affected_streets": "Cumeada; Junqueira; Charneca; Cardal de Baixo"
-    },
-    {
-      "id": "9130",
-      "type": "Não Programada",
-      "location": "Andrés",
-      "start_datetime": "20/05/2026 21:30",
-      "restoration_datetime": "20/05/2026 23:50",
-      "last_updated": "20/05/2026 20:12",
-      "affected_streets": "Andrés"
     }
   ]
 }
