@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-05-21T13:08:10.592761",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-21T15:06:01.428070",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9132",
+      "type": "Não Programada",
+      "location": "Avenida Dom Afonso Henriques- Sobral",
+      "start_datetime": "21/05/2026 15:30",
+      "restoration_datetime": "21/05/2026 20:30",
+      "last_updated": "21/05/2026 14:17",
+      "affected_streets": "Avenida Dom Afonso Henriques- Sobral e ruas adjacentes",
+      "discovered_at": "21/05/2026 15:06"
+    }
+  ]
 }
