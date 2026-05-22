@@ -1,5 +1,26 @@
 {
-  "last_updated": "2026-05-22T15:03:07.003107",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-22T16:45:32.240955",
+  "count": 2,
+  "interruptions": [
+    {
+      "id": "9135",
+      "type": "Não Programada",
+      "location": "Rua Cónego Pereira Simões- Espite",
+      "start_datetime": "22/05/2026 17:30",
+      "restoration_datetime": "22/05/2026 21:30",
+      "last_updated": "22/05/2026 15:25",
+      "affected_streets": "Rua Cónego Pereira Simões- Espite e ruas adjacentes",
+      "discovered_at": "22/05/2026 16:45"
+    },
+    {
+      "id": "9134",
+      "type": "Não Programada",
+      "location": "Rua Francisco Marques Pereira (Pina)- Ourém",
+      "start_datetime": "22/05/2026 15:45",
+      "restoration_datetime": "22/05/2026 17:15",
+      "last_updated": "22/05/2026 15:07",
+      "affected_streets": "Rua Francisco Marques Pereira (Pina)- Ourém; Rua José Honorio Sao Ribeiro- Ourém",
+      "discovered_at": "22/05/2026 16:45"
+    }
+  ]
 }
