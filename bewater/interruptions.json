@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-05-22T12:49:28.182229",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9133",
-      "type": "Não Programada",
-      "location": "Estrada Fátima- Atouguia",
-      "start_datetime": "22/05/2026 01:00",
-      "restoration_datetime": "22/05/2026 13:00",
-      "last_updated": "22/05/2026 00:12",
-      "affected_streets": "Estrada Fátima- Atouguia e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-05-22T13:47:51.000369",
+  "count": 0,
+  "interruptions": []
 }
