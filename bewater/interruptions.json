@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-05-23T12:21:24.294071",
+  "last_updated": "2026-05-23T13:31:54.785395",
   "count": 1,
   "interruptions": [
     {
-      "id": "9136",
+      "id": "9137",
       "type": "Não Programada",
-      "location": "Carapita",
-      "start_datetime": "22/05/2026 22:15",
-      "restoration_datetime": "23/05/2026 13:00",
-      "last_updated": "22/05/2026 23:53",
-      "affected_streets": "Carapita; Hortas; Casal Hortas; Rua Vale do Lobo- Carapita; Travessa Vale do Lobo- Carapita e ruas adjacentes"
+      "location": "",
+      "start_datetime": "23/05/2026 14:50",
+      "restoration_datetime": "23/05/2026 19:30",
+      "last_updated": "23/05/2026 13:24",
+      "affected_streets": "",
+      "discovered_at": "23/05/2026 13:31"
     }
   ]
 }
