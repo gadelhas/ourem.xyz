@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T13:31:54.785395",
+  "last_updated": "2026-05-23T14:32:32.091991",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "23/05/2026 14:50",
       "restoration_datetime": "23/05/2026 19:30",
       "last_updated": "23/05/2026 13:24",
-      "affected_streets": "",
-      "discovered_at": "23/05/2026 13:31"
+      "affected_streets": ""
     }
   ]
 }
