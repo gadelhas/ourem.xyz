@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T18:22:45.161449",
+  "last_updated": "2026-05-24T19:30:25.560164",
   "count": 1,
   "interruptions": [
     {
@@ -7,8 +7,8 @@
       "type": "Não Programada",
       "location": "Rio de Couros",
       "start_datetime": "24/05/2026 18:15",
-      "restoration_datetime": "24/05/2026 22:15",
-      "last_updated": "24/05/2026 17:18",
+      "restoration_datetime": "24/05/2026 23:59",
+      "last_updated": "24/05/2026 19:30",
       "affected_streets": "Rio de Couros; Sandoeira; Soalheira; Formigais"
     }
   ]
