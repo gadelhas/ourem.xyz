@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-05-24T07:06:57.221629",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-24T08:52:31.841281",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9138",
+      "type": "Não Programada",
+      "location": "Soutaria",
+      "start_datetime": "24/05/2026 09:45",
+      "restoration_datetime": "24/05/2026 15:00",
+      "last_updated": "24/05/2026 08:24",
+      "affected_streets": "Soutaria; Gondemaria",
+      "discovered_at": "24/05/2026 08:52"
+    }
+  ]
 }
