@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T08:52:31.841281",
+  "last_updated": "2026-05-24T09:37:55.537027",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "24/05/2026 09:45",
       "restoration_datetime": "24/05/2026 15:00",
       "last_updated": "24/05/2026 08:24",
-      "affected_streets": "Soutaria; Gondemaria",
-      "discovered_at": "24/05/2026 08:52"
+      "affected_streets": "Soutaria; Gondemaria"
     }
   ]
 }
