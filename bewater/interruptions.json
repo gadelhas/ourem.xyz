@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T18:34:27.730163",
+  "last_updated": "2026-05-25T19:32:23.885470",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "25/05/2026 18:15",
       "restoration_datetime": "25/05/2026 21:00",
       "last_updated": "25/05/2026 18:00",
-      "affected_streets": "Estremadouro; Chão de Maçãs",
-      "discovered_at": "25/05/2026 18:34"
+      "affected_streets": "Estremadouro; Chão de Maçãs"
     }
   ]
 }
