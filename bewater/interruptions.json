@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-05-25T05:33:06.417063",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-25T07:34:55.451534",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9140",
+      "type": "Não Programada",
+      "location": "Rua Cruzeiro- Santo Amaro",
+      "start_datetime": "25/05/2026 06:45",
+      "restoration_datetime": "25/05/2026 13:00",
+      "last_updated": "25/05/2026 05:59",
+      "affected_streets": "Rua Cruzeiro- Santo Amaro; Mulher Morta; Tijolo; Beltroa; Quinta do Feto e ruas adjacentes",
+      "discovered_at": "25/05/2026 07:34"
+    }
+  ]
 }
