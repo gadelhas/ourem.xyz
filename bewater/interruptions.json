@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-05-25T16:46:35.300171",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-25T17:33:35.982501",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9141",
+      "type": "Programada",
+      "location": "Barrocaria",
+      "start_datetime": "28/05/2026 09:00",
+      "restoration_datetime": "28/05/2026 13:00",
+      "last_updated": "25/05/2026 17:13",
+      "affected_streets": "Barrocaria; Cercal; Matos; Ninho de Águia; Vale Feto; Vales",
+      "discovered_at": "25/05/2026 17:33"
+    }
+  ]
 }
