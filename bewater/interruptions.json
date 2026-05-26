@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T03:07:58.912297",
+  "last_updated": "2026-05-26T05:21:58.584827",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "26/05/2026 02:50",
       "restoration_datetime": "26/05/2026 14:00",
       "last_updated": "26/05/2026 02:06",
-      "affected_streets": "Rua Santa Teresa Ourém- Ourém e ruas adjacentes",
-      "discovered_at": "26/05/2026 03:07"
+      "affected_streets": "Rua Santa Teresa Ourém- Ourém e ruas adjacentes"
     }
   ]
 }
