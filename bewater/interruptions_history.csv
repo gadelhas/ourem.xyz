@@ -112,3 +112,4 @@ id,type,location,start_datetime,restoration_datetime,last_updated,affected_stree
 9141,Programada,Barrocaria,28/05/2026 09:00,28/05/2026 13:00,25/05/2026 17:13,Barrocaria; Cercal; Matos; Ninho de Águia; Vale Feto; Vales,25/05/2026 17:33
 9142,Não Programada,Estremadouro,25/05/2026 18:15,25/05/2026 21:00,25/05/2026 18:00,Estremadouro; Chão de Maçãs,25/05/2026 18:34
 9143,Não Programada,Rua Santa Teresa Ourém- Ourém,26/05/2026 02:50,26/05/2026 14:00,26/05/2026 02:06,Rua Santa Teresa Ourém- Ourém e ruas adjacentes,26/05/2026 03:07
+9144,Não Programada,Rua Mirante- Vilar Prazeres,26/05/2026 15:30,26/05/2026 20:30,26/05/2026 14:09,Rua Mirante- Vilar Prazeres e ruas adjacentes,26/05/2026 16:19

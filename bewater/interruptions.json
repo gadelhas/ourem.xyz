@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-26T14:08:40.551141",
-  "count": 1,
+  "last_updated": "2026-05-26T16:19:27.146346",
+  "count": 2,
   "interruptions": [
     {
       "id": "9141",
@@ -10,6 +10,16 @@
       "restoration_datetime": "28/05/2026 13:00",
       "last_updated": "25/05/2026 17:13",
       "affected_streets": "Barrocaria; Cercal; Matos; Ninho de Águia; Vale Feto; Vales"
+    },
+    {
+      "id": "9144",
+      "type": "Não Programada",
+      "location": "Rua Mirante- Vilar Prazeres",
+      "start_datetime": "26/05/2026 15:30",
+      "restoration_datetime": "26/05/2026 20:30",
+      "last_updated": "26/05/2026 14:09",
+      "affected_streets": "Rua Mirante- Vilar Prazeres e ruas adjacentes",
+      "discovered_at": "26/05/2026 16:19"
     }
   ]
 }
