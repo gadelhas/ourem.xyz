@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T07:27:32.845895",
+  "last_updated": "2026-05-27T09:09:31.917946",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "27/05/2026 07:50",
       "restoration_datetime": "27/05/2026 11:50",
       "last_updated": "27/05/2026 06:53",
-      "affected_streets": "Mata",
-      "discovered_at": "27/05/2026 07:27"
+      "affected_streets": "Mata"
     }
   ]
 }
