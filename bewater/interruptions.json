@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T18:47:24.033365",
+  "last_updated": "2026-05-27T19:41:42.979007",
   "count": 2,
   "interruptions": [
     {
@@ -12,13 +12,14 @@
       "affected_streets": "Barrocaria; Cercal; Matos; Ninho de Águia; Vale Feto; Vales"
     },
     {
-      "id": "9147",
+      "id": "9148",
       "type": "Não Programada",
-      "location": "Caxarias",
-      "start_datetime": "27/05/2026 11:10",
-      "restoration_datetime": "27/05/2026 19:10",
-      "last_updated": "27/05/2026 10:19",
-      "affected_streets": "Caxarias; Pisões; Vendas"
+      "location": "Brejo",
+      "start_datetime": "27/05/2026 19:00",
+      "restoration_datetime": "27/05/2026 22:00",
+      "last_updated": "27/05/2026 19:08",
+      "affected_streets": "Brejo",
+      "discovered_at": "27/05/2026 19:41"
     }
   ]
 }
