@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T05:30:16.745671",
-  "count": 1,
+  "last_updated": "2026-05-27T07:27:32.845895",
+  "count": 2,
   "interruptions": [
     {
       "id": "9141",
@@ -10,6 +10,16 @@
       "restoration_datetime": "28/05/2026 13:00",
       "last_updated": "25/05/2026 17:13",
       "affected_streets": "Barrocaria; Cercal; Matos; Ninho de Águia; Vale Feto; Vales"
+    },
+    {
+      "id": "9146",
+      "type": "Não Programada",
+      "location": "Mata",
+      "start_datetime": "27/05/2026 07:50",
+      "restoration_datetime": "27/05/2026 11:50",
+      "last_updated": "27/05/2026 06:53",
+      "affected_streets": "Mata",
+      "discovered_at": "27/05/2026 07:27"
     }
   ]
 }
