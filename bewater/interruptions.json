@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T19:41:42.979007",
+  "last_updated": "2026-05-27T20:44:01.540249",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "27/05/2026 19:00",
       "restoration_datetime": "27/05/2026 22:00",
       "last_updated": "27/05/2026 19:08",
-      "affected_streets": "Brejo",
-      "discovered_at": "27/05/2026 19:41"
+      "affected_streets": "Brejo"
     }
   ]
 }
