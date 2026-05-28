@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-05-28T15:09:04.896669",
-  "count": 1,
+  "last_updated": "2026-05-28T17:16:21.472580",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9151",
+      "type": "Não Programada",
+      "location": "Rua Abelheira - Cercal",
+      "start_datetime": "28/05/2026 16:15",
+      "restoration_datetime": "28/05/2026 23:15",
+      "last_updated": "28/05/2026 15:33",
+      "affected_streets": "Rua Abelheira - Cercal e ruas adjacentes",
+      "discovered_at": "28/05/2026 17:16"
+    },
     {
       "id": "9150",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "28/05/2026 15:00",
       "restoration_datetime": "28/05/2026 20:00",
       "last_updated": "28/05/2026 13:56",
-      "affected_streets": "Valada",
-      "discovered_at": "28/05/2026 15:09"
+      "affected_streets": "Valada"
     }
   ]
 }
