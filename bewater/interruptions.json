@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-05-28T22:33:30.170473",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9151",
-      "type": "Não Programada",
-      "location": "Rua Abelheira - Cercal",
-      "start_datetime": "28/05/2026 16:15",
-      "restoration_datetime": "28/05/2026 23:15",
-      "last_updated": "28/05/2026 15:33",
-      "affected_streets": "Rua Abelheira - Cercal e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-05-28T23:29:26.526013",
+  "count": 0,
+  "interruptions": []
 }
