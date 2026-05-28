@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T07:21:18.395754",
+  "last_updated": "2026-05-28T09:15:41.546491",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "28/05/2026 07:20",
       "restoration_datetime": "28/05/2026 11:20",
       "last_updated": "28/05/2026 06:24",
-      "affected_streets": "Carcavelos de Cima",
-      "discovered_at": "28/05/2026 07:21"
+      "affected_streets": "Carcavelos de Cima"
     }
   ]
 }
