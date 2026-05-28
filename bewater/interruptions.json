@@ -1,24 +1,5 @@
 {
-  "last_updated": "2026-05-28T11:13:14.261110",
-  "count": 2,
-  "interruptions": [
-    {
-      "id": "9141",
-      "type": "Programada",
-      "location": "Barrocaria",
-      "start_datetime": "28/05/2026 09:00",
-      "restoration_datetime": "28/05/2026 13:00",
-      "last_updated": "25/05/2026 17:13",
-      "affected_streets": "Barrocaria; Cercal; Matos; Ninho de Águia; Vale Feto; Vales"
-    },
-    {
-      "id": "9149",
-      "type": "Não Programada",
-      "location": "Carcavelos de Cima",
-      "start_datetime": "28/05/2026 07:20",
-      "restoration_datetime": "28/05/2026 11:20",
-      "last_updated": "28/05/2026 06:24",
-      "affected_streets": "Carcavelos de Cima"
-    }
-  ]
+  "last_updated": "2026-05-28T13:14:13.314016",
+  "count": 0,
+  "interruptions": []
 }
