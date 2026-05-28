@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T05:26:22.195067",
-  "count": 1,
+  "last_updated": "2026-05-28T07:21:18.395754",
+  "count": 2,
   "interruptions": [
     {
       "id": "9141",
@@ -10,6 +10,16 @@
       "restoration_datetime": "28/05/2026 13:00",
       "last_updated": "25/05/2026 17:13",
       "affected_streets": "Barrocaria; Cercal; Matos; Ninho de Águia; Vale Feto; Vales"
+    },
+    {
+      "id": "9149",
+      "type": "Não Programada",
+      "location": "Carcavelos de Cima",
+      "start_datetime": "28/05/2026 07:20",
+      "restoration_datetime": "28/05/2026 11:20",
+      "last_updated": "28/05/2026 06:24",
+      "affected_streets": "Carcavelos de Cima",
+      "discovered_at": "28/05/2026 07:21"
     }
   ]
 }
