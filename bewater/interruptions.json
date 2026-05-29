@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-05-28T23:29:26.526013",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-05-29T00:44:12.384747",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9152",
+      "type": "Não Programada",
+      "location": "Beltroa",
+      "start_datetime": "29/05/2026 00:00",
+      "restoration_datetime": "29/05/2026 09:00",
+      "last_updated": "28/05/2026 23:39",
+      "affected_streets": "Beltroa",
+      "discovered_at": "29/05/2026 00:44"
+    }
+  ]
 }
