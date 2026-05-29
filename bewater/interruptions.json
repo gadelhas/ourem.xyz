@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T05:28:21.381084",
+  "last_updated": "2026-05-29T07:21:16.168923",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "29/05/2026 03:50",
       "restoration_datetime": "29/05/2026 14:00",
       "last_updated": "29/05/2026 03:33",
-      "affected_streets": "Rua Mata- Folgado e ruas adjacentes",
-      "discovered_at": "29/05/2026 05:28"
+      "affected_streets": "Rua Mata- Folgado e ruas adjacentes"
     },
     {
       "id": "9152",
