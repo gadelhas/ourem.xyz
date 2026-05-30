@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-05-30T18:23:58.658166",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9155",
-      "type": "Não Programada",
-      "location": "Rua Centro- Gaiteiros",
-      "start_datetime": "30/05/2026 14:00",
-      "restoration_datetime": "30/05/2026 19:00",
-      "last_updated": "30/05/2026 12:56",
-      "affected_streets": "Rua Centro- Gaiteiros"
-    }
-  ]
+  "last_updated": "2026-05-30T19:31:02.812770",
+  "count": 0,
+  "interruptions": []
 }
