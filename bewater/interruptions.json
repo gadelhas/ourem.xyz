@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31T13:33:16.824840",
+  "last_updated": "2026-05-31T14:33:43.182442",
   "count": 1,
   "interruptions": [
     {
@@ -7,8 +7,8 @@
       "type": "Não Programada",
       "location": "Rua Pinhal Rei- Laranjeiras",
       "start_datetime": "31/05/2026 02:30",
-      "restoration_datetime": "31/05/2026 15:30",
-      "last_updated": "31/05/2026 01:46",
+      "restoration_datetime": "31/05/2026 18:30",
+      "last_updated": "31/05/2026 13:53",
       "affected_streets": "Rua Pinhal Rei- Laranjeiras e ruas adjacentes"
     }
   ]
