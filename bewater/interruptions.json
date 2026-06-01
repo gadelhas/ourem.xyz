@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01T05:38:30.848302",
+  "last_updated": "2026-06-01T07:46:41.428272",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "01/06/2026 06:40",
       "restoration_datetime": "01/06/2026 11:40",
       "last_updated": "01/06/2026 05:22",
-      "affected_streets": "Beco Saudade- Sobral e ruas adjacentes",
-      "discovered_at": "01/06/2026 05:38"
+      "affected_streets": "Beco Saudade- Sobral e ruas adjacentes"
     }
   ]
 }
