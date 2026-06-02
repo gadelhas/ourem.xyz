@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-06-02T19:14:50.873150",
+  "last_updated": "2026-06-02T21:04:20.528395",
   "count": 1,
   "interruptions": [
     {
-      "id": "9198",
+      "id": "9199",
       "type": "Não Programada",
-      "location": "Alqueidão",
-      "start_datetime": "02/06/2026 15:22",
-      "restoration_datetime": "02/06/2026 19:22",
-      "last_updated": "02/06/2026 14:22",
-      "affected_streets": "Alqueidão"
+      "location": "Casaria",
+      "start_datetime": "02/06/2026 19:50",
+      "restoration_datetime": "03/06/2026 01:00",
+      "last_updated": "02/06/2026 19:59",
+      "affected_streets": "Casaria; Rua Cerrada- Casaria e ruas adjacentes",
+      "discovered_at": "02/06/2026 21:04"
     }
   ]
 }
