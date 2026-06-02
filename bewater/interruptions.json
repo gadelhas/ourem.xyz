@@ -1,5 +1,26 @@
 {
-  "last_updated": "2026-06-02T13:16:40.096654",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-02T15:24:34.521796",
+  "count": 2,
+  "interruptions": [
+    {
+      "id": "9198",
+      "type": "Não Programada",
+      "location": "Alqueidão",
+      "start_datetime": "02/06/2026 15:22",
+      "restoration_datetime": "02/06/2026 19:22",
+      "last_updated": "02/06/2026 14:22",
+      "affected_streets": "Alqueidão",
+      "discovered_at": "02/06/2026 15:24"
+    },
+    {
+      "id": "9197",
+      "type": "Não Programada",
+      "location": "Estrada Nacional 113- Seiça",
+      "start_datetime": "02/06/2026 15:21",
+      "restoration_datetime": "02/06/2026 18:21",
+      "last_updated": "02/06/2026 14:22",
+      "affected_streets": "Estrada Nacional 113- Seiça",
+      "discovered_at": "02/06/2026 15:24"
+    }
+  ]
 }
