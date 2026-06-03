@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-03T00:51:52.883025",
-  "count": 2,
+  "last_updated": "2026-06-03T01:55:07.566935",
+  "count": 1,
   "interruptions": [
     {
       "id": "9200",
@@ -10,15 +10,6 @@
       "restoration_datetime": "03/06/2026 14:00",
       "last_updated": "02/06/2026 22:57",
       "affected_streets": "Rua Brejoeira- Casal do Ribeiro e ruas adjacentes"
-    },
-    {
-      "id": "9199",
-      "type": "Não Programada",
-      "location": "Casaria",
-      "start_datetime": "02/06/2026 19:50",
-      "restoration_datetime": "03/06/2026 01:00",
-      "last_updated": "02/06/2026 19:59",
-      "affected_streets": "Casaria; Rua Cerrada- Casaria e ruas adjacentes"
     }
   ]
 }
