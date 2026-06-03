@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-03T13:37:54.544583",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9200",
-      "type": "Não Programada",
-      "location": "Rua Brejoeira- Casal do Ribeiro",
-      "start_datetime": "02/06/2026 23:00",
-      "restoration_datetime": "03/06/2026 14:00",
-      "last_updated": "02/06/2026 22:57",
-      "affected_streets": "Rua Brejoeira- Casal do Ribeiro e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-06-03T15:35:14.618325",
+  "count": 0,
+  "interruptions": []
 }
