@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-06-05T11:07:42.600600",
+  "last_updated": "2026-06-05T13:01:18.242311",
   "count": 1,
   "interruptions": [
     {
-      "id": "9250",
+      "id": "9251",
       "type": "Não Programada",
-      "location": "Travessa do Vale Sobreiro- Casal do Monte",
-      "start_datetime": "05/06/2026 08:40",
-      "restoration_datetime": "05/06/2026 12:40",
-      "last_updated": "05/06/2026 07:08",
-      "affected_streets": "Travessa do Vale Sobreiro- Casal do Monte e ruas adjacentes"
+      "location": "Rua Painel- Pinheiro",
+      "start_datetime": "05/06/2026 12:30",
+      "restoration_datetime": "05/06/2026 17:30",
+      "last_updated": "05/06/2026 11:39",
+      "affected_streets": "Rua Painel- Pinheiro e ruas adjacentes",
+      "discovered_at": "05/06/2026 13:01"
     }
   ]
 }
