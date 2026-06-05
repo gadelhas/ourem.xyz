@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-05T16:49:17.827837",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9251",
-      "type": "Não Programada",
-      "location": "Rua Painel- Pinheiro",
-      "start_datetime": "05/06/2026 12:30",
-      "restoration_datetime": "05/06/2026 17:30",
-      "last_updated": "05/06/2026 11:39",
-      "affected_streets": "Rua Painel- Pinheiro e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-06-05T17:36:26.131146",
+  "count": 0,
+  "interruptions": []
 }
