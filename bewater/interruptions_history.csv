@@ -135,3 +135,4 @@ id,type,location,start_datetime,restoration_datetime,last_updated,affected_stree
 9200,Não Programada,Rua Brejoeira- Casal do Ribeiro,02/06/2026 23:00,03/06/2026 14:00,02/06/2026 22:57,Rua Brejoeira- Casal do Ribeiro e ruas adjacentes,02/06/2026 23:34
 9250,Não Programada,Travessa do Vale Sobreiro- Casal do Monte,05/06/2026 08:40,05/06/2026 12:40,05/06/2026 07:08,Travessa do Vale Sobreiro- Casal do Monte e ruas adjacentes,05/06/2026 07:30
 9251,Não Programada,Rua Painel- Pinheiro,05/06/2026 12:30,05/06/2026 17:30,05/06/2026 11:39,Rua Painel- Pinheiro e ruas adjacentes,05/06/2026 13:01
+9252,Não Programada,Estrada Fátima- Atouguia,05/06/2026 19:00,05/06/2026 23:00,05/06/2026 17:47,Estrada Fátima- Atouguia e ruas adjacentes,05/06/2026 18:40
