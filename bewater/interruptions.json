@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-05T05:32:21.147521",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-05T07:30:22.459424",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9250",
+      "type": "Não Programada",
+      "location": "Travessa do Vale Sobreiro- Casal do Monte",
+      "start_datetime": "05/06/2026 08:40",
+      "restoration_datetime": "05/06/2026 12:40",
+      "last_updated": "05/06/2026 07:08",
+      "affected_streets": "Travessa do Vale Sobreiro- Casal do Monte e ruas adjacentes",
+      "discovered_at": "05/06/2026 07:30"
+    }
+  ]
 }
