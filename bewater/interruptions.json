@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-06T05:18:47.647512",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-06T07:05:16.792441",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9253",
+      "type": "Não Programada",
+      "location": "Andrés",
+      "start_datetime": "06/06/2026 05:25",
+      "restoration_datetime": "06/06/2026 13:00",
+      "last_updated": "06/06/2026 05:28",
+      "affected_streets": "Andrés; Pisão do Oleiro",
+      "discovered_at": "06/06/2026 07:05"
+    }
+  ]
 }
