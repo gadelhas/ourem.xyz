@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-06-07T13:33:51.354204",
+  "last_updated": "2026-06-07T14:37:06.760478",
   "count": 1,
   "interruptions": [
     {
-      "id": "9256",
+      "id": "9257",
       "type": "Não Programada",
-      "location": "Rua Vales- Caxarias",
-      "start_datetime": "07/06/2026 10:50",
-      "restoration_datetime": "07/06/2026 13:50",
-      "last_updated": "07/06/2026 09:54",
-      "affected_streets": "Rua Vales- Caxarias e ruas adjacentes"
+      "location": "Rua Indústria- Vilar Prazeres",
+      "start_datetime": "07/06/2026 14:40",
+      "restoration_datetime": "07/06/2026 17:40",
+      "last_updated": "07/06/2026 13:38",
+      "affected_streets": "Rua Indústria- Vilar Prazeres e ruas adjacentes",
+      "discovered_at": "07/06/2026 14:37"
     }
   ]
 }
