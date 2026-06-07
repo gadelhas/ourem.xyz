@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07T14:37:06.760478",
+  "last_updated": "2026-06-07T15:31:09.807247",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "07/06/2026 14:40",
       "restoration_datetime": "07/06/2026 17:40",
       "last_updated": "07/06/2026 13:38",
-      "affected_streets": "Rua Indústria- Vilar Prazeres e ruas adjacentes",
-      "discovered_at": "07/06/2026 14:37"
+      "affected_streets": "Rua Indústria- Vilar Prazeres e ruas adjacentes"
     }
   ]
 }
