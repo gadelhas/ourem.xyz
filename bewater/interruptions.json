@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-07T09:04:10.624413",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-07T10:45:58.610931",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9256",
+      "type": "Não Programada",
+      "location": "Rua Vales- Caxarias",
+      "start_datetime": "07/06/2026 10:50",
+      "restoration_datetime": "07/06/2026 13:50",
+      "last_updated": "07/06/2026 09:54",
+      "affected_streets": "Rua Vales- Caxarias e ruas adjacentes",
+      "discovered_at": "07/06/2026 10:45"
+    }
+  ]
 }
