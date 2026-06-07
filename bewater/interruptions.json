@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-07T17:30:26.307905",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9257",
-      "type": "Não Programada",
-      "location": "Rua Indústria- Vilar Prazeres",
-      "start_datetime": "07/06/2026 14:40",
-      "restoration_datetime": "07/06/2026 17:40",
-      "last_updated": "07/06/2026 13:38",
-      "affected_streets": "Rua Indústria- Vilar Prazeres e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-06-07T18:27:43.771443",
+  "count": 0,
+  "interruptions": []
 }
