@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-08T09:36:18.686327",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-08T11:37:02.747702",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9258",
+      "type": "Não Programada",
+      "location": "Alqueidão de Seiça",
+      "start_datetime": "08/06/2026 10:30",
+      "restoration_datetime": "08/06/2026 16:40",
+      "last_updated": "08/06/2026 09:37",
+      "affected_streets": "Alqueidão de Seiça; Outeiro de Seiça; Carvalhal de Seiça; Estremadouro; Chão de Maçãs",
+      "discovered_at": "08/06/2026 11:37"
+    }
+  ]
 }
