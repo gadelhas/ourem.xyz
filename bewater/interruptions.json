@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-08T11:37:02.747702",
-  "count": 1,
+  "last_updated": "2026-06-08T13:28:02.557842",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9259",
+      "type": "Não Programada",
+      "location": "Alqueidão",
+      "start_datetime": "08/06/2026 14:30",
+      "restoration_datetime": "08/06/2026 16:54",
+      "last_updated": "08/06/2026 12:55",
+      "affected_streets": "Alqueidão",
+      "discovered_at": "08/06/2026 13:28"
+    },
     {
       "id": "9258",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "08/06/2026 10:30",
       "restoration_datetime": "08/06/2026 16:40",
       "last_updated": "08/06/2026 09:37",
-      "affected_streets": "Alqueidão de Seiça; Outeiro de Seiça; Carvalhal de Seiça; Estremadouro; Chão de Maçãs",
-      "discovered_at": "08/06/2026 11:37"
+      "affected_streets": "Alqueidão de Seiça; Outeiro de Seiça; Carvalhal de Seiça; Estremadouro; Chão de Maçãs"
     }
   ]
 }
