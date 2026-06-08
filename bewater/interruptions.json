@@ -1,24 +1,16 @@
 {
-  "last_updated": "2026-06-08T15:08:40.193058",
-  "count": 2,
+  "last_updated": "2026-06-08T17:07:43.984441",
+  "count": 1,
   "interruptions": [
     {
-      "id": "9259",
+      "id": "9260",
       "type": "Não Programada",
-      "location": "Alqueidão",
-      "start_datetime": "08/06/2026 14:30",
-      "restoration_datetime": "08/06/2026 16:54",
-      "last_updated": "08/06/2026 12:55",
-      "affected_streets": "Alqueidão"
-    },
-    {
-      "id": "9258",
-      "type": "Não Programada",
-      "location": "Alqueidão de Seiça",
-      "start_datetime": "08/06/2026 10:30",
-      "restoration_datetime": "08/06/2026 16:40",
-      "last_updated": "08/06/2026 09:37",
-      "affected_streets": "Alqueidão de Seiça; Outeiro de Seiça; Carvalhal de Seiça; Estremadouro; Chão de Maçãs"
+      "location": "Rua Domingos Dias- Peras Ruivas",
+      "start_datetime": "08/06/2026 17:45",
+      "restoration_datetime": "08/06/2026 23:00",
+      "last_updated": "08/06/2026 17:02",
+      "affected_streets": "Rua Domingos Dias- Peras Ruivas e ruas adjacentes",
+      "discovered_at": "08/06/2026 17:07"
     }
   ]
 }
