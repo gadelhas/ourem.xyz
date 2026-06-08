@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T13:28:02.557842",
+  "last_updated": "2026-06-08T15:08:40.193058",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "08/06/2026 14:30",
       "restoration_datetime": "08/06/2026 16:54",
       "last_updated": "08/06/2026 12:55",
-      "affected_streets": "Alqueidão",
-      "discovered_at": "08/06/2026 13:28"
+      "affected_streets": "Alqueidão"
     },
     {
       "id": "9258",
