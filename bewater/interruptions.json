@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T17:07:43.984441",
+  "last_updated": "2026-06-08T18:50:13.856746",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "08/06/2026 17:45",
       "restoration_datetime": "08/06/2026 23:00",
       "last_updated": "08/06/2026 17:02",
-      "affected_streets": "Rua Domingos Dias- Peras Ruivas e ruas adjacentes",
-      "discovered_at": "08/06/2026 17:07"
+      "affected_streets": "Rua Domingos Dias- Peras Ruivas e ruas adjacentes"
     }
   ]
 }
