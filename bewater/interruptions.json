@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T19:44:02.121119",
+  "last_updated": "2026-06-08T20:53:02.814353",
   "count": 1,
   "interruptions": [
     {
@@ -7,8 +7,8 @@
       "type": "Não Programada",
       "location": "Rua Domingos Dias- Peras Ruivas",
       "start_datetime": "08/06/2026 17:45",
-      "restoration_datetime": "08/06/2026 23:00",
-      "last_updated": "08/06/2026 17:02",
+      "restoration_datetime": "08/06/2026 23:59",
+      "last_updated": "08/06/2026 20:15",
       "affected_streets": "Rua Domingos Dias- Peras Ruivas e ruas adjacentes"
     }
   ]
