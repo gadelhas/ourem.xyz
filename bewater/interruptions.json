@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-09T16:55:14.556200",
+  "last_updated": "2026-06-09T17:43:24.549201",
   "count": 2,
   "interruptions": [
+    {
+      "id": "9264",
+      "type": "Não Programada",
+      "location": "Paiveira",
+      "start_datetime": "09/06/2026 18:00",
+      "restoration_datetime": "09/06/2026 22:00",
+      "last_updated": "09/06/2026 16:58",
+      "affected_streets": "Paiveira",
+      "discovered_at": "09/06/2026 17:43"
+    },
     {
       "id": "9263",
       "type": "Não Programada",
@@ -9,17 +19,7 @@
       "start_datetime": "09/06/2026 16:00",
       "restoration_datetime": "09/06/2026 18:00",
       "last_updated": "09/06/2026 15:49",
-      "affected_streets": "Alqueidão",
-      "discovered_at": "09/06/2026 16:55"
-    },
-    {
-      "id": "9262",
-      "type": "Não Programada",
-      "location": "Rua Outeiro- Barrocaria",
-      "start_datetime": "09/06/2026 12:00",
-      "restoration_datetime": "09/06/2026 17:00",
-      "last_updated": "09/06/2026 11:54",
-      "affected_streets": "Rua Outeiro- Barrocaria; Rua Capela- Barrocaria; Rua Tarracha- Barrocaria; Rua Armeiro- Barrocaria; Beco Carvalhal- Barrocaria; Rua Fonte- Barrocaria; Rua Outeirinho- Barrocaria"
+      "affected_streets": "Alqueidão"
     }
   ]
 }
