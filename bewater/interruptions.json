@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T17:44:16.010704",
-  "count": 2,
+  "last_updated": "2026-06-09T19:41:35.312989",
+  "count": 1,
   "interruptions": [
     {
       "id": "9264",
@@ -10,15 +10,6 @@
       "restoration_datetime": "09/06/2026 22:00",
       "last_updated": "09/06/2026 16:58",
       "affected_streets": "Paiveira"
-    },
-    {
-      "id": "9263",
-      "type": "Não Programada",
-      "location": "Alqueidão",
-      "start_datetime": "09/06/2026 16:00",
-      "restoration_datetime": "09/06/2026 18:00",
-      "last_updated": "09/06/2026 15:49",
-      "affected_streets": "Alqueidão"
     }
   ]
 }
