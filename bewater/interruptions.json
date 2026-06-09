@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T17:43:24.549201",
+  "last_updated": "2026-06-09T17:44:16.010704",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "09/06/2026 18:00",
       "restoration_datetime": "09/06/2026 22:00",
       "last_updated": "09/06/2026 16:58",
-      "affected_streets": "Paiveira",
-      "discovered_at": "09/06/2026 17:43"
+      "affected_streets": "Paiveira"
     },
     {
       "id": "9263",
