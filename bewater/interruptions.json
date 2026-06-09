@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-09T21:34:35.028425",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9264",
-      "type": "Não Programada",
-      "location": "Paiveira",
-      "start_datetime": "09/06/2026 18:00",
-      "restoration_datetime": "09/06/2026 22:00",
-      "last_updated": "09/06/2026 16:58",
-      "affected_streets": "Paiveira"
-    }
-  ]
+  "last_updated": "2026-06-09T22:32:24.579107",
+  "count": 0,
+  "interruptions": []
 }
