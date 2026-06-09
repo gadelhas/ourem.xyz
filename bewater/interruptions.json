@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-09T15:17:25.161122",
-  "count": 1,
+  "last_updated": "2026-06-09T16:55:14.556200",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9263",
+      "type": "Não Programada",
+      "location": "Alqueidão",
+      "start_datetime": "09/06/2026 16:00",
+      "restoration_datetime": "09/06/2026 18:00",
+      "last_updated": "09/06/2026 15:49",
+      "affected_streets": "Alqueidão",
+      "discovered_at": "09/06/2026 16:55"
+    },
     {
       "id": "9262",
       "type": "Não Programada",
