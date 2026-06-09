@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T13:00:57.141971",
+  "last_updated": "2026-06-09T15:17:25.161122",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "09/06/2026 12:00",
       "restoration_datetime": "09/06/2026 17:00",
       "last_updated": "09/06/2026 11:54",
-      "affected_streets": "Rua Outeiro- Barrocaria; Rua Capela- Barrocaria; Rua Tarracha- Barrocaria; Rua Armeiro- Barrocaria; Beco Carvalhal- Barrocaria; Rua Fonte- Barrocaria; Rua Outeirinho- Barrocaria",
-      "discovered_at": "09/06/2026 13:00"
+      "affected_streets": "Rua Outeiro- Barrocaria; Rua Capela- Barrocaria; Rua Tarracha- Barrocaria; Rua Armeiro- Barrocaria; Beco Carvalhal- Barrocaria; Rua Fonte- Barrocaria; Rua Outeirinho- Barrocaria"
     }
   ]
 }
