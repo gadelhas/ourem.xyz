@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T07:14:55.976520",
+  "last_updated": "2026-06-09T09:09:00.311462",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "09/06/2026 07:40",
       "restoration_datetime": "09/06/2026 10:40",
       "last_updated": "09/06/2026 06:59",
-      "affected_streets": "Travessa Salgada- Carcavelos de Cima e ruas adjacentes",
-      "discovered_at": "09/06/2026 07:14"
+      "affected_streets": "Travessa Salgada- Carcavelos de Cima e ruas adjacentes"
     }
   ]
 }
