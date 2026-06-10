@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-09T23:29:30.623302",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-10T00:46:17.242960",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9265",
+      "type": "Não Programada",
+      "location": "Avenida Beato Nuno- Cova da Iria",
+      "start_datetime": "10/06/2026 00:40",
+      "restoration_datetime": "10/06/2026 11:40",
+      "last_updated": "10/06/2026 00:21",
+      "affected_streets": "Avenida Beato Nuno- Cova da Iria e ruas adjacentes",
+      "discovered_at": "10/06/2026 00:46"
+    }
+  ]
 }
