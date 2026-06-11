@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T09:30:26.692592",
-  "count": 2,
+  "last_updated": "2026-06-11T11:32:12.278724",
+  "count": 1,
   "interruptions": [
     {
       "id": "9268",
@@ -9,17 +9,7 @@
       "start_datetime": "11/06/2026 09:41",
       "restoration_datetime": "11/06/2026 13:41",
       "last_updated": "11/06/2026 08:42",
-      "affected_streets": "Alburitel",
-      "discovered_at": "11/06/2026 09:30"
-    },
-    {
-      "id": "9267",
-      "type": "Não Programada",
-      "location": "Rua Cortada - Olival",
-      "start_datetime": "10/06/2026 23:10",
-      "restoration_datetime": "11/06/2026 10:10",
-      "last_updated": "10/06/2026 22:13",
-      "affected_streets": "Rua Cortada - Olival e ruas adjacentes"
+      "affected_streets": "Alburitel"
     }
   ]
 }
