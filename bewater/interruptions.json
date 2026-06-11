@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-11T07:41:27.857293",
-  "count": 1,
+  "last_updated": "2026-06-11T09:30:26.692592",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9268",
+      "type": "Não Programada",
+      "location": "Alburitel",
+      "start_datetime": "11/06/2026 09:41",
+      "restoration_datetime": "11/06/2026 13:41",
+      "last_updated": "11/06/2026 08:42",
+      "affected_streets": "Alburitel",
+      "discovered_at": "11/06/2026 09:30"
+    },
     {
       "id": "9267",
       "type": "Não Programada",
