@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T17:00:25.108015",
+  "last_updated": "2026-06-12T18:40:41.439619",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "12/06/2026 17:20",
       "restoration_datetime": "12/06/2026 21:30",
       "last_updated": "12/06/2026 15:45",
-      "affected_streets": "Arieiro",
-      "discovered_at": "12/06/2026 17:00"
+      "affected_streets": "Arieiro"
     }
   ]
 }
