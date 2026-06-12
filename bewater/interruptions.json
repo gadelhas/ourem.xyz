@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-06-12T15:03:49.240783",
+  "last_updated": "2026-06-12T17:00:25.108015",
   "count": 1,
   "interruptions": [
     {
-      "id": "9270",
+      "id": "9271",
       "type": "Não Programada",
-      "location": "Rua Moinhos - Cercal",
-      "start_datetime": "12/06/2026 11:15",
-      "restoration_datetime": "12/06/2026 16:15",
-      "last_updated": "12/06/2026 10:13",
-      "affected_streets": "Rua Moinhos - Cercal e ruas adjacentes"
+      "location": "Arieiro",
+      "start_datetime": "12/06/2026 17:20",
+      "restoration_datetime": "12/06/2026 21:30",
+      "last_updated": "12/06/2026 15:45",
+      "affected_streets": "Arieiro",
+      "discovered_at": "12/06/2026 17:00"
     }
   ]
 }
