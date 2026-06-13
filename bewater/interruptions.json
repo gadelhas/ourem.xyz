@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-13T09:04:58.579011",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-13T10:48:29.354621",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9272",
+      "type": "Não Programada",
+      "location": "Faletia",
+      "start_datetime": "13/06/2026 11:15",
+      "restoration_datetime": "13/06/2026 15:15",
+      "last_updated": "13/06/2026 10:13",
+      "affected_streets": "Faletia; Sorieira",
+      "discovered_at": "13/06/2026 10:48"
+    }
+  ]
 }
