@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T10:48:29.354621",
+  "last_updated": "2026-06-13T11:37:28.322368",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "13/06/2026 11:15",
       "restoration_datetime": "13/06/2026 15:15",
       "last_updated": "13/06/2026 10:13",
-      "affected_streets": "Faletia; Sorieira",
-      "discovered_at": "13/06/2026 10:48"
+      "affected_streets": "Faletia; Sorieira"
     }
   ]
 }
