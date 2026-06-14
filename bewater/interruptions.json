@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-14T15:34:33.142381",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9273",
-      "type": "Não Programada",
-      "location": "Rua Engenhos- Casal do Ribeiro",
-      "start_datetime": "14/06/2026 11:50",
-      "restoration_datetime": "14/06/2026 16:00",
-      "last_updated": "14/06/2026 11:26",
-      "affected_streets": "Rua Engenhos- Casal do Ribeiro; Engenho"
-    }
-  ]
+  "last_updated": "2026-06-14T16:32:47.009260",
+  "count": 0,
+  "interruptions": []
 }
