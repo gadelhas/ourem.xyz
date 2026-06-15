@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-15T13:04:35.773612",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-15T16:00:03.145032",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9277",
+      "type": "Não Programada",
+      "location": "Rua Manuel Henriques Alvega- Ourém",
+      "start_datetime": "15/06/2026 15:30",
+      "restoration_datetime": "15/06/2026 19:20",
+      "last_updated": "15/06/2026 14:51",
+      "affected_streets": "Rua Manuel Henriques Alvega- Ourém; Rua Doutor Joaquim Francisco Alves- Ourém e ruas adjacentes",
+      "discovered_at": "15/06/2026 16:00"
+    }
+  ]
 }
