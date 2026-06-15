@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-15T22:41:23.088501",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9278",
-      "type": "Não Programada",
-      "location": "Pairia",
-      "start_datetime": "15/06/2026 16:50",
-      "restoration_datetime": "15/06/2026 22:45",
-      "last_updated": "15/06/2026 16:57",
-      "affected_streets": "Pairia; Casaria; Mossomodia; Ribeira Mossomodia; Capucho"
-    }
-  ]
+  "last_updated": "2026-06-15T23:34:19.527590",
+  "count": 0,
+  "interruptions": []
 }
