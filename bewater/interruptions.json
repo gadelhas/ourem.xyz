@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T19:14:07.798378",
+  "last_updated": "2026-06-16T21:03:46.988188",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/06/2026 18:30",
       "restoration_datetime": "16/06/2026 22:30",
       "last_updated": "16/06/2026 18:29",
-      "affected_streets": "Casaria",
-      "discovered_at": "16/06/2026 19:14"
+      "affected_streets": "Casaria"
     }
   ]
 }
