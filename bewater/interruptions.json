@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T15:41:00.718176",
+  "last_updated": "2026-06-16T17:43:31.979066",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/06/2026 16:00",
       "restoration_datetime": "16/06/2026 19:00",
       "last_updated": "16/06/2026 15:13",
-      "affected_streets": "Rua Montalto- Soutaria e ruas adjacentes",
-      "discovered_at": "16/06/2026 15:41"
+      "affected_streets": "Rua Montalto- Soutaria e ruas adjacentes"
     },
     {
       "id": "9280",
