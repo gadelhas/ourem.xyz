@@ -1,24 +1,16 @@
 {
-  "last_updated": "2026-06-16T17:43:31.979066",
-  "count": 2,
+  "last_updated": "2026-06-16T19:14:07.798378",
+  "count": 1,
   "interruptions": [
     {
-      "id": "9281",
+      "id": "9282",
       "type": "Não Programada",
-      "location": "Rua Montalto- Soutaria",
-      "start_datetime": "16/06/2026 16:00",
-      "restoration_datetime": "16/06/2026 19:00",
-      "last_updated": "16/06/2026 15:13",
-      "affected_streets": "Rua Montalto- Soutaria e ruas adjacentes"
-    },
-    {
-      "id": "9280",
-      "type": "Não Programada",
-      "location": "Rua Casal do Aroeiro- Pinheiro",
-      "start_datetime": "16/06/2026 14:30",
-      "restoration_datetime": "16/06/2026 18:10",
-      "last_updated": "16/06/2026 13:07",
-      "affected_streets": "Rua Casal do Aroeiro- Pinheiro e ruas adjacentes"
+      "location": "Casaria",
+      "start_datetime": "16/06/2026 18:30",
+      "restoration_datetime": "16/06/2026 22:30",
+      "last_updated": "16/06/2026 18:29",
+      "affected_streets": "Casaria",
+      "discovered_at": "16/06/2026 19:14"
     }
   ]
 }
