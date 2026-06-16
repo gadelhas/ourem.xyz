@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-16T03:10:07.072183",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-16T05:51:12.323473",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9279",
+      "type": "Não Programada",
+      "location": "São Jorge",
+      "start_datetime": "16/06/2026 04:00",
+      "restoration_datetime": "16/06/2026 11:00",
+      "last_updated": "16/06/2026 03:45",
+      "affected_streets": "São Jorge; Arneiro; Parcerias",
+      "discovered_at": "16/06/2026 05:51"
+    }
+  ]
 }
