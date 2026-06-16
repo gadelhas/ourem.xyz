@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T05:51:12.323473",
+  "last_updated": "2026-06-16T07:58:07.182435",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/06/2026 04:00",
       "restoration_datetime": "16/06/2026 11:00",
       "last_updated": "16/06/2026 03:45",
-      "affected_streets": "São Jorge; Arneiro; Parcerias",
-      "discovered_at": "16/06/2026 05:51"
+      "affected_streets": "São Jorge; Arneiro; Parcerias"
     }
   ]
 }
