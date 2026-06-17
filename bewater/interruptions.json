@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-17T18:50:05.537330",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9286",
-      "type": "Não Programada",
-      "location": "Arieiro",
-      "start_datetime": "17/06/2026 15:30",
-      "restoration_datetime": "17/06/2026 19:10",
-      "last_updated": "17/06/2026 14:11",
-      "affected_streets": "Arieiro; Cortes; Barreira das Cortes"
-    }
-  ]
+  "last_updated": "2026-06-17T19:42:27.512028",
+  "count": 0,
+  "interruptions": []
 }
