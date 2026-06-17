@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-17T13:15:55.927193",
+  "last_updated": "2026-06-17T15:05:48.560756",
   "count": 2,
   "interruptions": [
+    {
+      "id": "9286",
+      "type": "Não Programada",
+      "location": "Arieiro",
+      "start_datetime": "17/06/2026 15:30",
+      "restoration_datetime": "17/06/2026 19:10",
+      "last_updated": "17/06/2026 14:11",
+      "affected_streets": "Arieiro; Cortes; Barreira das Cortes",
+      "discovered_at": "17/06/2026 15:05"
+    },
     {
       "id": "9285",
       "type": "Não Programada",
@@ -9,17 +19,7 @@
       "start_datetime": "17/06/2026 14:10",
       "restoration_datetime": "17/06/2026 17:10",
       "last_updated": "17/06/2026 12:58",
-      "affected_streets": "Rua D. Afonso (IV Conde de Ourém)- Carapita; Rua Namorados- Carapita e ruas adjacentes",
-      "discovered_at": "17/06/2026 13:15"
-    },
-    {
-      "id": "9284",
-      "type": "Não Programada",
-      "location": "Travessa Monte- Vales",
-      "start_datetime": "17/06/2026 06:30",
-      "restoration_datetime": "17/06/2026 13:30",
-      "last_updated": "17/06/2026 05:50",
-      "affected_streets": "Travessa Monte- Vales e ruas adjacentes"
+      "affected_streets": "Rua D. Afonso (IV Conde de Ourém)- Carapita; Rua Namorados- Carapita e ruas adjacentes"
     }
   ]
 }
