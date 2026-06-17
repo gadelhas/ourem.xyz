@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T17:03:10.387581",
-  "count": 2,
+  "last_updated": "2026-06-17T18:50:05.537330",
+  "count": 1,
   "interruptions": [
     {
       "id": "9286",
@@ -10,15 +10,6 @@
       "restoration_datetime": "17/06/2026 19:10",
       "last_updated": "17/06/2026 14:11",
       "affected_streets": "Arieiro; Cortes; Barreira das Cortes"
-    },
-    {
-      "id": "9285",
-      "type": "Não Programada",
-      "location": "Rua D. Afonso (IV Conde de Ourém)- Carapita",
-      "start_datetime": "17/06/2026 14:10",
-      "restoration_datetime": "17/06/2026 17:10",
-      "last_updated": "17/06/2026 12:58",
-      "affected_streets": "Rua D. Afonso (IV Conde de Ourém)- Carapita; Rua Namorados- Carapita e ruas adjacentes"
     }
   ]
 }
