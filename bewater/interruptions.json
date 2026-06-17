@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T07:51:15.495577",
+  "last_updated": "2026-06-17T09:39:02.181668",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "17/06/2026 06:30",
       "restoration_datetime": "17/06/2026 13:30",
       "last_updated": "17/06/2026 05:50",
-      "affected_streets": "Travessa Monte- Vales e ruas adjacentes",
-      "discovered_at": "17/06/2026 07:51"
+      "affected_streets": "Travessa Monte- Vales e ruas adjacentes"
     },
     {
       "id": "9283",
