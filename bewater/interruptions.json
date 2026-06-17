@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-17T05:40:10.717656",
-  "count": 1,
+  "last_updated": "2026-06-17T07:51:15.495577",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9284",
+      "type": "Não Programada",
+      "location": "Travessa Monte- Vales",
+      "start_datetime": "17/06/2026 06:30",
+      "restoration_datetime": "17/06/2026 13:30",
+      "last_updated": "17/06/2026 05:50",
+      "affected_streets": "Travessa Monte- Vales e ruas adjacentes",
+      "discovered_at": "17/06/2026 07:51"
+    },
     {
       "id": "9283",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "17/06/2026 06:15",
       "restoration_datetime": "17/06/2026 10:15",
       "last_updated": "17/06/2026 04:54",
-      "affected_streets": "Rua Moinhos - Cercal e ruas adjacentes",
-      "discovered_at": "17/06/2026 05:40"
+      "affected_streets": "Rua Moinhos - Cercal e ruas adjacentes"
     }
   ]
 }
