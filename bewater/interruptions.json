@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T07:41:17.594492",
-  "count": 1,
+  "last_updated": "2026-06-18T09:31:23.813971",
+  "count": 2,
   "interruptions": [
     {
       "id": "9287",
@@ -9,8 +9,17 @@
       "start_datetime": "18/06/2026 08:00",
       "restoration_datetime": "18/06/2026 14:00",
       "last_updated": "18/06/2026 07:03",
-      "affected_streets": "Gondemaria",
-      "discovered_at": "18/06/2026 07:41"
+      "affected_streets": "Gondemaria"
+    },
+    {
+      "id": "9288",
+      "type": "Não Programada",
+      "location": "Rua Pinhal Rei- Laranjeiras",
+      "start_datetime": "18/06/2026 08:30",
+      "restoration_datetime": "18/06/2026 12:30",
+      "last_updated": "18/06/2026 07:41",
+      "affected_streets": "Rua Pinhal Rei- Laranjeiras e ruas adjacentes",
+      "discovered_at": "18/06/2026 09:31"
     }
   ]
 }
