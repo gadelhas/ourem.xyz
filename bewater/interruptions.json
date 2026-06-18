@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-18T19:44:10.856484",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9290",
-      "type": "Não Programada",
-      "location": "Rua Cooperativa- Fátima",
-      "start_datetime": "18/06/2026 17:45",
-      "restoration_datetime": "18/06/2026 19:45",
-      "last_updated": "18/06/2026 16:50",
-      "affected_streets": "Rua Cooperativa- Fátima e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-06-18T20:50:21.467609",
+  "count": 0,
+  "interruptions": []
 }
