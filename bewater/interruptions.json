@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-18T13:09:52.105100",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9287",
-      "type": "Não Programada",
-      "location": "Gondemaria",
-      "start_datetime": "18/06/2026 08:00",
-      "restoration_datetime": "18/06/2026 14:00",
-      "last_updated": "18/06/2026 07:03",
-      "affected_streets": "Gondemaria"
-    }
-  ]
+  "last_updated": "2026-06-18T15:05:17.132793",
+  "count": 0,
+  "interruptions": []
 }
