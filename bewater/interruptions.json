@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T09:31:23.813971",
-  "count": 2,
+  "last_updated": "2026-06-18T11:23:32.924541",
+  "count": 3,
   "interruptions": [
     {
       "id": "9287",
@@ -18,8 +18,17 @@
       "start_datetime": "18/06/2026 08:30",
       "restoration_datetime": "18/06/2026 12:30",
       "last_updated": "18/06/2026 07:41",
-      "affected_streets": "Rua Pinhal Rei- Laranjeiras e ruas adjacentes",
-      "discovered_at": "18/06/2026 09:31"
+      "affected_streets": "Rua Pinhal Rei- Laranjeiras e ruas adjacentes"
+    },
+    {
+      "id": "9289",
+      "type": "Não Programada",
+      "location": "Sobral",
+      "start_datetime": "18/06/2026 10:20",
+      "restoration_datetime": "18/06/2026 12:30",
+      "last_updated": "18/06/2026 10:00",
+      "affected_streets": "Sobral",
+      "discovered_at": "18/06/2026 11:23"
     }
   ]
 }
