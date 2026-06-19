@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T09:36:20.026845",
-  "count": 1,
+  "last_updated": "2026-06-19T11:33:03.216268",
+  "count": 3,
   "interruptions": [
     {
       "id": "9291",
@@ -9,8 +9,27 @@
       "start_datetime": "22/06/2026 09:30",
       "restoration_datetime": "22/06/2026 13:00",
       "last_updated": "19/06/2026 09:22",
-      "affected_streets": "Rua Henriques- Lagoa Furadouro e ruas adjacentes",
-      "discovered_at": "19/06/2026 09:36"
+      "affected_streets": "Rua Henriques- Lagoa Furadouro e ruas adjacentes"
+    },
+    {
+      "id": "9293",
+      "type": "Não Programada",
+      "location": "Fonte Santa",
+      "start_datetime": "19/06/2026 12:10",
+      "restoration_datetime": "19/06/2026 17:10",
+      "last_updated": "19/06/2026 11:25",
+      "affected_streets": "Fonte Santa; Castanheirinho",
+      "discovered_at": "19/06/2026 11:33"
+    },
+    {
+      "id": "9292",
+      "type": "Não Programada",
+      "location": "Rua Nossa Senhora Carmo- Cova da Iria",
+      "start_datetime": "19/06/2026 10:45",
+      "restoration_datetime": "19/06/2026 13:45",
+      "last_updated": "19/06/2026 09:50",
+      "affected_streets": "Rua Nossa Senhora Carmo- Cova da Iria; Avenida Beato Nuno- Cova da Iria",
+      "discovered_at": "19/06/2026 11:33"
     }
   ]
 }
