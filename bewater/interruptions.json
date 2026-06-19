@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T16:49:52.957701",
-  "count": 2,
+  "last_updated": "2026-06-19T17:36:43.135790",
+  "count": 1,
   "interruptions": [
     {
       "id": "9291",
@@ -10,15 +10,6 @@
       "restoration_datetime": "22/06/2026 13:00",
       "last_updated": "19/06/2026 09:22",
       "affected_streets": "Rua Henriques- Lagoa Furadouro e ruas adjacentes"
-    },
-    {
-      "id": "9293",
-      "type": "Não Programada",
-      "location": "Fonte Santa",
-      "start_datetime": "19/06/2026 12:10",
-      "restoration_datetime": "19/06/2026 17:10",
-      "last_updated": "19/06/2026 11:25",
-      "affected_streets": "Fonte Santa; Castanheirinho"
     }
   ]
 }
