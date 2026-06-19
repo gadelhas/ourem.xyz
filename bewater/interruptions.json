@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T11:33:03.216268",
+  "last_updated": "2026-06-19T13:15:55.602227",
   "count": 3,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "19/06/2026 12:10",
       "restoration_datetime": "19/06/2026 17:10",
       "last_updated": "19/06/2026 11:25",
-      "affected_streets": "Fonte Santa; Castanheirinho",
-      "discovered_at": "19/06/2026 11:33"
+      "affected_streets": "Fonte Santa; Castanheirinho"
     },
     {
       "id": "9292",
@@ -28,8 +27,7 @@
       "start_datetime": "19/06/2026 10:45",
       "restoration_datetime": "19/06/2026 13:45",
       "last_updated": "19/06/2026 09:50",
-      "affected_streets": "Rua Nossa Senhora Carmo- Cova da Iria; Avenida Beato Nuno- Cova da Iria",
-      "discovered_at": "19/06/2026 11:33"
+      "affected_streets": "Rua Nossa Senhora Carmo- Cova da Iria; Avenida Beato Nuno- Cova da Iria"
     }
   ]
 }
