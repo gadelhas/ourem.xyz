@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T12:37:25.701123",
-  "count": 2,
+  "last_updated": "2026-06-20T13:34:24.937417",
+  "count": 1,
   "interruptions": [
     {
       "id": "9291",
@@ -10,15 +10,6 @@
       "restoration_datetime": "22/06/2026 13:00",
       "last_updated": "19/06/2026 09:22",
       "affected_streets": "Rua Henriques- Lagoa Furadouro e ruas adjacentes"
-    },
-    {
-      "id": "9295",
-      "type": "Não Programada",
-      "location": "Sobral",
-      "start_datetime": "20/06/2026 04:25",
-      "restoration_datetime": "20/06/2026 13:00",
-      "last_updated": "20/06/2026 03:44",
-      "affected_streets": "Sobral"
     }
   ]
 }
