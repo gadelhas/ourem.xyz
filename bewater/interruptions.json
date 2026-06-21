@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T12:40:22.724159",
+  "last_updated": "2026-06-21T13:34:37.610380",
   "count": 3,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "21/06/2026 12:30",
       "restoration_datetime": "21/06/2026 19:30",
       "last_updated": "21/06/2026 12:02",
-      "affected_streets": "Aldeia Nova",
-      "discovered_at": "21/06/2026 12:40"
+      "affected_streets": "Aldeia Nova"
     },
     {
       "id": "9296",
