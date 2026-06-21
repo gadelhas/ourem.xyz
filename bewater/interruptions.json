@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T09:16:18.641827",
+  "last_updated": "2026-06-21T11:04:17.580417",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "21/06/2026 09:45",
       "restoration_datetime": "21/06/2026 13:45",
       "last_updated": "21/06/2026 08:07",
-      "affected_streets": "Estrada Nacional 113- Seiça e ruas adjacentes",
-      "discovered_at": "21/06/2026 09:16"
+      "affected_streets": "Estrada Nacional 113- Seiça e ruas adjacentes"
     }
   ]
 }
