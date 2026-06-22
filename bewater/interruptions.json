@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-22T10:54:31.701881",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9291",
-      "type": "Programada",
-      "location": "Rua Henriques- Lagoa Furadouro",
-      "start_datetime": "22/06/2026 09:30",
-      "restoration_datetime": "22/06/2026 13:00",
-      "last_updated": "19/06/2026 09:22",
-      "affected_streets": "Rua Henriques- Lagoa Furadouro e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-06-22T13:02:34.694897",
+  "count": 0,
+  "interruptions": []
 }
