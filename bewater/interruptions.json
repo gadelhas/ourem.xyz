@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-22T19:06:32.142171",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-22T21:01:34.115860",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9299",
+      "type": "Não Programada",
+      "location": "Rua Nossa Senhora de Fátima- Caxarias",
+      "start_datetime": "22/06/2026 20:45",
+      "restoration_datetime": "22/06/2026 22:07",
+      "last_updated": "22/06/2026 19:08",
+      "affected_streets": "Rua Nossa Senhora de Fátima- Caxarias e ruas adjacentes",
+      "discovered_at": "22/06/2026 21:01"
+    }
+  ]
 }
