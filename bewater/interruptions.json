@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T23:30:17.089679",
+  "last_updated": "2026-06-22T00:47:33.440896",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "22/06/2026 00:00",
       "restoration_datetime": "22/06/2026 09:45",
       "last_updated": "21/06/2026 23:25",
-      "affected_streets": "Carcavelos de Baixo; Carcavelos de Cima; Casais de Carcavelos; Gaiteiros; Mossomodia; Ribeira Mossomodia",
-      "discovered_at": "21/06/2026 23:30"
+      "affected_streets": "Carcavelos de Baixo; Carcavelos de Cima; Casais de Carcavelos; Gaiteiros; Mossomodia; Ribeira Mossomodia"
     }
   ]
 }
