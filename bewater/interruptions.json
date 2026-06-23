@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T07:15:06.817112",
+  "last_updated": "2026-06-23T09:08:40.115570",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "23/06/2026 07:00",
       "restoration_datetime": "23/06/2026 11:00",
       "last_updated": "23/06/2026 06:24",
-      "affected_streets": "Rua Paúl- Vales e ruas adjacentes",
-      "discovered_at": "23/06/2026 07:15"
+      "affected_streets": "Rua Paúl- Vales e ruas adjacentes"
     }
   ]
 }
