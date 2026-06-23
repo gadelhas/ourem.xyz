@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-23T18:42:24.533830",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9301",
-      "type": "Não Programada",
-      "location": "Chão de Maçãs",
-      "start_datetime": "23/06/2026 14:56",
-      "restoration_datetime": "23/06/2026 18:56",
-      "last_updated": "23/06/2026 13:57",
-      "affected_streets": "Chão de Maçãs"
-    }
-  ]
+  "last_updated": "2026-06-23T19:36:46.733951",
+  "count": 0,
+  "interruptions": []
 }
