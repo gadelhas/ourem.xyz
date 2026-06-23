@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T15:03:22.129691",
+  "last_updated": "2026-06-23T16:49:31.242340",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "23/06/2026 14:56",
       "restoration_datetime": "23/06/2026 18:56",
       "last_updated": "23/06/2026 13:57",
-      "affected_streets": "Chão de Maçãs",
-      "discovered_at": "23/06/2026 15:03"
+      "affected_streets": "Chão de Maçãs"
     }
   ]
 }
