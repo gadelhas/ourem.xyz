@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T15:50:12.582401",
+  "last_updated": "2026-06-24T16:44:35.871078",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "24/06/2026 15:00",
       "restoration_datetime": "24/06/2026 20:00",
       "last_updated": "24/06/2026 14:59",
-      "affected_streets": "Rua Pisões- Pisões e ruas adjacentes",
-      "discovered_at": "24/06/2026 15:50"
+      "affected_streets": "Rua Pisões- Pisões e ruas adjacentes"
     }
   ]
 }
