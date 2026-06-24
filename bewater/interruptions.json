@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-24T05:20:45.369240",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-24T07:12:10.848224",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9302",
+      "type": "Não Programada",
+      "location": "Rua D. Afonso Henrique (IV Conde de Ourém)- Regato",
+      "start_datetime": "24/06/2026 07:20",
+      "restoration_datetime": "24/06/2026 10:20",
+      "last_updated": "24/06/2026 06:38",
+      "affected_streets": "Rua D. Afonso Henrique (IV Conde de Ourém)- Regato e ruas adjacentes",
+      "discovered_at": "24/06/2026 07:12"
+    }
+  ]
 }
