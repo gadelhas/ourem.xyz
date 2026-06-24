@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-24T09:06:54.917007",
+  "last_updated": "2026-06-24T11:02:03.704594",
   "count": 2,
   "interruptions": [
+    {
+      "id": "9304",
+      "type": "Não Programada",
+      "location": "Fonte Santa",
+      "start_datetime": "24/06/2026 10:55",
+      "restoration_datetime": "24/06/2026 14:50",
+      "last_updated": "24/06/2026 09:55",
+      "affected_streets": "Fonte Santa",
+      "discovered_at": "24/06/2026 11:02"
+    },
     {
       "id": "9303",
       "type": "Não Programada",
@@ -9,17 +19,7 @@
       "start_datetime": "24/06/2026 09:00",
       "restoration_datetime": "24/06/2026 12:00",
       "last_updated": "24/06/2026 07:29",
-      "affected_streets": "Rua Freicho- Outeiro das Matas e ruas adjacentes",
-      "discovered_at": "24/06/2026 09:06"
-    },
-    {
-      "id": "9302",
-      "type": "Não Programada",
-      "location": "Rua D. Afonso Henrique (IV Conde de Ourém)- Regato",
-      "start_datetime": "24/06/2026 07:20",
-      "restoration_datetime": "24/06/2026 10:20",
-      "last_updated": "24/06/2026 06:38",
-      "affected_streets": "Rua D. Afonso Henrique (IV Conde de Ourém)- Regato e ruas adjacentes"
+      "affected_streets": "Rua Freicho- Outeiro das Matas e ruas adjacentes"
     }
   ]
 }
