@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-24T19:32:57.095075",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9305",
-      "type": "Não Programada",
-      "location": "Rua Pisões- Pisões",
-      "start_datetime": "24/06/2026 15:00",
-      "restoration_datetime": "24/06/2026 20:00",
-      "last_updated": "24/06/2026 14:59",
-      "affected_streets": "Rua Pisões- Pisões e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-06-24T20:35:10.116666",
+  "count": 0,
+  "interruptions": []
 }
