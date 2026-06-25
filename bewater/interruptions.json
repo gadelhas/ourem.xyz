@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T05:21:48.137880",
+  "last_updated": "2026-06-25T07:12:28.132547",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "25/06/2026 04:00",
       "restoration_datetime": "25/06/2026 11:00",
       "last_updated": "25/06/2026 03:16",
-      "affected_streets": "Rua Cruzeiro- Matas e ruas adjacentes",
-      "discovered_at": "25/06/2026 05:21"
+      "affected_streets": "Rua Cruzeiro- Matas e ruas adjacentes"
     }
   ]
 }
