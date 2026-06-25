@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-25T17:50:21.019383",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9308",
-      "type": "Não Programada",
-      "location": "Maia",
-      "start_datetime": "25/06/2026 14:30",
-      "restoration_datetime": "25/06/2026 18:30",
-      "last_updated": "25/06/2026 13:29",
-      "affected_streets": "Maia"
-    }
-  ]
+  "last_updated": "2026-06-25T18:45:07.653965",
+  "count": 0,
+  "interruptions": []
 }
