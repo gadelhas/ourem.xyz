@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-25T23:29:40.017277",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-26T00:44:27.650507",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9309",
+      "type": "Não Programada",
+      "location": "Casaria",
+      "start_datetime": "26/06/2026 01:00",
+      "restoration_datetime": "26/06/2026 11:30",
+      "last_updated": "26/06/2026 00:20",
+      "affected_streets": "Casaria; Mossomodia",
+      "discovered_at": "26/06/2026 00:44"
+    }
+  ]
 }
