@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-06-27T16:25:00.062709",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9310",
-      "type": "Não Programada",
-      "location": "Rua 1º Janeiro- Lagoa da Pedra",
-      "start_datetime": "27/06/2026 10:30",
-      "restoration_datetime": "27/06/2026 16:30",
-      "last_updated": "27/06/2026 11:59",
-      "affected_streets": "Rua 1º Janeiro- Lagoa da Pedra e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-06-27T17:24:48.448967",
+  "count": 0,
+  "interruptions": []
 }
