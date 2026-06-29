@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-06-29T09:36:23.309533",
+  "last_updated": "2026-06-29T11:40:19.243202",
   "count": 1,
   "interruptions": [
     {
-      "id": "9311",
+      "id": "9312",
       "type": "Não Programada",
-      "location": "Casaria",
-      "start_datetime": "29/06/2026 02:20",
-      "restoration_datetime": "29/06/2026 10:30",
-      "last_updated": "29/06/2026 02:54",
-      "affected_streets": "Casaria"
+      "location": "Cisterna",
+      "start_datetime": "29/06/2026 12:00",
+      "restoration_datetime": "29/06/2026 15:00",
+      "last_updated": "29/06/2026 11:02",
+      "affected_streets": "Cisterna",
+      "discovered_at": "29/06/2026 11:40"
     }
   ]
 }
