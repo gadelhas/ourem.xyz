@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-06-29T15:10:09.211112",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-06-29T17:00:36.839138",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9313",
+      "type": "Não Programada",
+      "location": "Rua Escola- Carcavelos de Cima",
+      "start_datetime": "29/06/2026 15:50",
+      "restoration_datetime": "29/06/2026 21:00",
+      "last_updated": "29/06/2026 15:16",
+      "affected_streets": "Rua Escola- Carcavelos de Cima e ruas adjacentes",
+      "discovered_at": "29/06/2026 17:00"
+    }
+  ]
 }
