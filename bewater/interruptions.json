@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T20:38:43.987840",
-  "count": 2,
+  "last_updated": "2026-06-30T21:31:55.663654",
+  "count": 1,
   "interruptions": [
     {
       "id": "9318",
@@ -10,15 +10,6 @@
       "restoration_datetime": "30/06/2026 23:40",
       "last_updated": "30/06/2026 15:40",
       "affected_streets": "Casaria"
-    },
-    {
-      "id": "9317",
-      "type": "Não Programada",
-      "location": "Rua Fernão Magalhães- Chã",
-      "start_datetime": "30/06/2026 16:30",
-      "restoration_datetime": "30/06/2026 21:30",
-      "last_updated": "30/06/2026 15:28",
-      "affected_streets": "Rua Fernão Magalhães- Chã; Rua Vasco da Gama- Caxarias"
     }
   ]
 }
