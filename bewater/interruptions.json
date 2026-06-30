@@ -1,16 +1,5 @@
 {
-  "last_updated": "2026-06-30T11:02:24.707392",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9315",
-      "type": "Não Programada",
-      "location": "Estrada Leiria- Pinhel",
-      "start_datetime": "30/06/2026 11:20",
-      "restoration_datetime": "30/06/2026 12:30",
-      "last_updated": "30/06/2026 10:33",
-      "affected_streets": "Estrada Leiria- Pinhel",
-      "discovered_at": "30/06/2026 11:02"
-    }
-  ]
+  "last_updated": "2026-06-30T12:41:41.831110",
+  "count": 0,
+  "interruptions": []
 }
