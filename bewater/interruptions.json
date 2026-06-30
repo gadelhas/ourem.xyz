@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T05:24:10.850285",
+  "last_updated": "2026-06-30T07:18:43.571740",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "30/06/2026 04:00",
       "restoration_datetime": "30/06/2026 11:00",
       "last_updated": "30/06/2026 03:42",
-      "affected_streets": "Rua Centro- Barrocaria; Cercal; Ninho de Águia; Vales",
-      "discovered_at": "30/06/2026 05:24"
+      "affected_streets": "Rua Centro- Barrocaria; Cercal; Ninho de Águia; Vales"
     }
   ]
 }
