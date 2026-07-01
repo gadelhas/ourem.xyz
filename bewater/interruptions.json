@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-01T07:30:43.535572",
-  "count": 2,
+  "last_updated": "2026-07-01T09:08:27.180451",
+  "count": 3,
   "interruptions": [
+    {
+      "id": "9321",
+      "type": "Não Programada",
+      "location": "Rua Escola- Barrocaria",
+      "start_datetime": "01/07/2026 09:00",
+      "restoration_datetime": "01/07/2026 18:00",
+      "last_updated": "01/07/2026 08:06",
+      "affected_streets": "Rua Escola- Barrocaria; Vales; Cercal; Ninho de Águia; Vale Feto; Matos",
+      "discovered_at": "01/07/2026 09:08"
+    },
     {
       "id": "9320",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "01/07/2026 06:00",
       "restoration_datetime": "01/07/2026 14:00",
       "last_updated": "01/07/2026 06:19",
-      "affected_streets": "Rua Carvalhal- Soutaria",
-      "discovered_at": "01/07/2026 07:30"
+      "affected_streets": "Rua Carvalhal- Soutaria"
     },
     {
       "id": "9318",
