@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T20:35:21.232577",
+  "last_updated": "2026-07-01T21:32:30.594176",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "01/07/2026 21:00",
       "restoration_datetime": "01/07/2026 23:55",
       "last_updated": "01/07/2026 19:50",
-      "affected_streets": "Rua Mata- Folgado; Calçada",
-      "discovered_at": "01/07/2026 20:35"
+      "affected_streets": "Rua Mata- Folgado; Calçada"
     }
   ]
 }
