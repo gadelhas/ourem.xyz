@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T11:06:12.664886",
+  "last_updated": "2026-07-01T12:58:00.374494",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "01/07/2026 10:55",
       "restoration_datetime": "01/07/2026 13:55",
       "last_updated": "01/07/2026 10:06",
-      "affected_streets": "Sobral",
-      "discovered_at": "01/07/2026 11:06"
+      "affected_streets": "Sobral"
     }
   ]
 }
