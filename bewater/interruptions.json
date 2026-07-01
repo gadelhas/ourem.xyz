@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T16:54:16.254439",
+  "last_updated": "2026-07-01T17:37:07.605197",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "01/07/2026 17:40",
       "restoration_datetime": "01/07/2026 20:00",
       "last_updated": "01/07/2026 16:43",
-      "affected_streets": "Rua S. Bernardo- Outeiro das Matas e ruas adjacentes",
-      "discovered_at": "01/07/2026 16:54"
+      "affected_streets": "Rua S. Bernardo- Outeiro das Matas e ruas adjacentes"
     },
     {
       "id": "9320",
