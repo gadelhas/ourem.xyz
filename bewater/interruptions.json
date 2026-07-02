@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-02T07:08:18.584090",
-  "count": 3,
+  "last_updated": "2026-07-02T09:04:36.687761",
+  "count": 4,
   "interruptions": [
+    {
+      "id": "9328",
+      "type": "Não Programada",
+      "location": "Rua Cimo da Igreja- Olival",
+      "start_datetime": "02/07/2026 08:30",
+      "restoration_datetime": "02/07/2026 18:30",
+      "last_updated": "02/07/2026 07:55",
+      "affected_streets": "Rua Cimo da Igreja- Olival",
+      "discovered_at": "02/07/2026 09:04"
+    },
     {
       "id": "9327",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "02/07/2026 06:20",
       "restoration_datetime": "02/07/2026 15:30",
       "last_updated": "02/07/2026 06:57",
-      "affected_streets": "Rua Mata- Folgado e ruas adjacentes",
-      "discovered_at": "02/07/2026 07:08"
+      "affected_streets": "Rua Mata- Folgado e ruas adjacentes"
     },
     {
       "id": "9326",
