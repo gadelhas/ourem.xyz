@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-01T23:30:05.987688",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9324",
-      "type": "Não Programada",
-      "location": "Rua Mata- Folgado",
-      "start_datetime": "01/07/2026 21:00",
-      "restoration_datetime": "01/07/2026 23:55",
-      "last_updated": "01/07/2026 19:50",
-      "affected_streets": "Rua Mata- Folgado; Calçada"
-    }
-  ]
+  "last_updated": "2026-07-02T00:41:57.782118",
+  "count": 0,
+  "interruptions": []
 }
