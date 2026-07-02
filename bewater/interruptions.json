@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T17:33:18.233415",
-  "count": 2,
+  "last_updated": "2026-07-02T18:31:49.724085",
+  "count": 1,
   "interruptions": [
     {
       "id": "9329",
@@ -10,15 +10,6 @@
       "restoration_datetime": "02/07/2026 23:12",
       "last_updated": "02/07/2026 13:12",
       "affected_streets": "Vales"
-    },
-    {
-      "id": "9328",
-      "type": "Não Programada",
-      "location": "Rua Cimo da Igreja- Olival",
-      "start_datetime": "02/07/2026 08:30",
-      "restoration_datetime": "02/07/2026 18:30",
-      "last_updated": "02/07/2026 07:55",
-      "affected_streets": "Rua Cimo da Igreja- Olival"
     }
   ]
 }
