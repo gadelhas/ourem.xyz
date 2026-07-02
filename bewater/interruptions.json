@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T13:33:41.178546",
+  "last_updated": "2026-07-02T14:46:10.134936",
   "count": 3,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "02/07/2026 14:11",
       "restoration_datetime": "02/07/2026 23:12",
       "last_updated": "02/07/2026 13:12",
-      "affected_streets": "Vales",
-      "discovered_at": "02/07/2026 13:33"
+      "affected_streets": "Vales"
     },
     {
       "id": "9328",
