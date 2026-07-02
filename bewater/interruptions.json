@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-02T01:41:54.293516",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-02T03:06:41.738401",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9325",
+      "type": "Não Programada",
+      "location": "Largo 1º de Maio- Carapita",
+      "start_datetime": "02/07/2026 01:35",
+      "restoration_datetime": "02/07/2026 10:30",
+      "last_updated": "02/07/2026 01:47",
+      "affected_streets": "Largo 1º de Maio- Carapita e ruas adjacentes",
+      "discovered_at": "02/07/2026 03:06"
+    }
+  ]
 }
