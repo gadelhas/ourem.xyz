@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-02T03:06:41.738401",
-  "count": 1,
+  "last_updated": "2026-07-02T05:19:31.845650",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9326",
+      "type": "Não Programada",
+      "location": "Rua 31 de Dezembro - Cercal",
+      "start_datetime": "02/07/2026 03:35",
+      "restoration_datetime": "02/07/2026 12:00",
+      "last_updated": "02/07/2026 03:12",
+      "affected_streets": "Rua 31 de Dezembro - Cercal; Rua Meio - Cercal; Rua Amieiros - Cercal; Rua Baldios - Cercal; Rua Dom Nuno Alvares Pereira - Cercal; Rua Principal - Cercal; Rua Nossa Senhora do Rosário - Cercal; Rua Central- Cercal; Largo da Fonte- Cercal; Rua Encosta- Cercal; Rua da Paz- Cercal; Rua Mosqueiro- Cercal",
+      "discovered_at": "02/07/2026 05:19"
+    },
     {
       "id": "9325",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "02/07/2026 01:35",
       "restoration_datetime": "02/07/2026 10:30",
       "last_updated": "02/07/2026 01:47",
-      "affected_streets": "Largo 1º de Maio- Carapita e ruas adjacentes",
-      "discovered_at": "02/07/2026 03:06"
+      "affected_streets": "Largo 1º de Maio- Carapita e ruas adjacentes"
     }
   ]
 }
