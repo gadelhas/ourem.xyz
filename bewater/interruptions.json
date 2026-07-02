@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-02T12:39:47.198760",
-  "count": 2,
+  "last_updated": "2026-07-02T13:33:41.178546",
+  "count": 3,
   "interruptions": [
+    {
+      "id": "9329",
+      "type": "Não Programada",
+      "location": "Vales",
+      "start_datetime": "02/07/2026 14:11",
+      "restoration_datetime": "02/07/2026 23:12",
+      "last_updated": "02/07/2026 13:12",
+      "affected_streets": "Vales",
+      "discovered_at": "02/07/2026 13:33"
+    },
     {
       "id": "9328",
       "type": "Não Programada",
