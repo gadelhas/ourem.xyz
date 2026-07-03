@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-03T19:30:36.062468",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-03T20:25:37.478124",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9334",
+      "type": "Não Programada",
+      "location": "Cisterna",
+      "start_datetime": "03/07/2026 21:15",
+      "restoration_datetime": "03/07/2026 23:30",
+      "last_updated": "03/07/2026 20:24",
+      "affected_streets": "Cisterna",
+      "discovered_at": "03/07/2026 20:25"
+    }
+  ]
 }
