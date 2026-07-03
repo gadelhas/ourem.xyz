@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T09:03:58.632500",
-  "count": 2,
+  "last_updated": "2026-07-03T10:54:26.162909",
+  "count": 3,
   "interruptions": [
     {
       "id": "9331",
@@ -12,14 +12,23 @@
       "affected_streets": "Rua Nossa Senhora do Rosário - Cercal; Rua Meio - Cercal"
     },
     {
+      "id": "9333",
+      "type": "Não Programada",
+      "location": "Cercal",
+      "start_datetime": "03/07/2026 10:00",
+      "restoration_datetime": "03/07/2026 12:40",
+      "last_updated": "03/07/2026 09:40",
+      "affected_streets": "Cercal",
+      "discovered_at": "03/07/2026 10:54"
+    },
+    {
       "id": "9332",
       "type": "Não Programada",
       "location": "Beco Vale Cruz- Alburitel",
       "start_datetime": "03/07/2026 09:00",
       "restoration_datetime": "03/07/2026 11:00",
       "last_updated": "03/07/2026 08:20",
-      "affected_streets": "Beco Vale Cruz- Alburitel",
-      "discovered_at": "03/07/2026 09:03"
+      "affected_streets": "Beco Vale Cruz- Alburitel"
     }
   ]
 }
