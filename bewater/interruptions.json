@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T10:54:26.162909",
-  "count": 3,
+  "last_updated": "2026-07-03T11:46:56.326931",
+  "count": 2,
   "interruptions": [
     {
       "id": "9331",
@@ -18,17 +18,7 @@
       "start_datetime": "03/07/2026 10:00",
       "restoration_datetime": "03/07/2026 12:40",
       "last_updated": "03/07/2026 09:40",
-      "affected_streets": "Cercal",
-      "discovered_at": "03/07/2026 10:54"
-    },
-    {
-      "id": "9332",
-      "type": "Não Programada",
-      "location": "Beco Vale Cruz- Alburitel",
-      "start_datetime": "03/07/2026 09:00",
-      "restoration_datetime": "03/07/2026 11:00",
-      "last_updated": "03/07/2026 08:20",
-      "affected_streets": "Beco Vale Cruz- Alburitel"
+      "affected_streets": "Cercal"
     }
   ]
 }
