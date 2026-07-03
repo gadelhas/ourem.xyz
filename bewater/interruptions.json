@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-03T01:34:27.131513",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-03T03:04:46.390885",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9331",
+      "type": "Não Programada",
+      "location": "Rua Nossa Senhora do Rosário - Cercal",
+      "start_datetime": "03/07/2026 02:50",
+      "restoration_datetime": "03/07/2026 12:50",
+      "last_updated": "03/07/2026 01:55",
+      "affected_streets": "Rua Nossa Senhora do Rosário - Cercal; Rua Meio - Cercal",
+      "discovered_at": "03/07/2026 03:04"
+    }
+  ]
 }
