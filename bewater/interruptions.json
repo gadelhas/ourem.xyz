@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-05T15:27:12.800942",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-05T16:23:22.511830",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9336",
+      "type": "Não Programada",
+      "location": "Rua Casal- Sobral",
+      "start_datetime": "05/07/2026 17:00",
+      "restoration_datetime": "05/07/2026 19:00",
+      "last_updated": "05/07/2026 16:04",
+      "affected_streets": "Rua Casal- Sobral",
+      "discovered_at": "05/07/2026 16:23"
+    }
+  ]
 }
