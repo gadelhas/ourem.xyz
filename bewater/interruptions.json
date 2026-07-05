@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T09:02:28.770156",
+  "last_updated": "2026-07-05T10:44:11.899354",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "05/07/2026 08:25",
       "restoration_datetime": "05/07/2026 12:25",
       "last_updated": "05/07/2026 07:39",
-      "affected_streets": "Rua Portinho- Gondemaria; Rua Lopes Verdasca- Gondemaria; Rua Arneiro da Cruz- Gondemaria; Estrada Lagoinha- Gondemaria; Rua Barroca Branca- Areias; Rua Fátima- Areias",
-      "discovered_at": "05/07/2026 09:02"
+      "affected_streets": "Rua Portinho- Gondemaria; Rua Lopes Verdasca- Gondemaria; Rua Arneiro da Cruz- Gondemaria; Estrada Lagoinha- Gondemaria; Rua Barroca Branca- Areias; Rua Fátima- Areias"
     }
   ]
 }
