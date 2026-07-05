@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-05T11:31:02.286657",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9335",
-      "type": "Não Programada",
-      "location": "Rua Portinho- Gondemaria",
-      "start_datetime": "05/07/2026 08:25",
-      "restoration_datetime": "05/07/2026 12:25",
-      "last_updated": "05/07/2026 07:39",
-      "affected_streets": "Rua Portinho- Gondemaria; Rua Lopes Verdasca- Gondemaria; Rua Arneiro da Cruz- Gondemaria; Estrada Lagoinha- Gondemaria; Rua Barroca Branca- Areias; Rua Fátima- Areias"
-    }
-  ]
+  "last_updated": "2026-07-05T12:29:07.543682",
+  "count": 0,
+  "interruptions": []
 }
