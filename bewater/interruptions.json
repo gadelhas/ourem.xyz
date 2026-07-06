@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T05:27:27.532356",
+  "last_updated": "2026-07-06T07:33:04.083885",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "06/07/2026 04:00",
       "restoration_datetime": "06/07/2026 13:00",
       "last_updated": "06/07/2026 03:13",
-      "affected_streets": "Rua Principal- Carregal e ruas adjacentes",
-      "discovered_at": "06/07/2026 05:27"
+      "affected_streets": "Rua Principal- Carregal e ruas adjacentes"
     },
     {
       "id": "9337",
