@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-05T23:23:36.197996",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-06T00:35:51.563376",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9337",
+      "type": "Não Programada",
+      "location": "Lourinha",
+      "start_datetime": "06/07/2026 01:10",
+      "restoration_datetime": "06/07/2026 12:10",
+      "last_updated": "06/07/2026 00:08",
+      "affected_streets": "Lourinha; Rua Povo Timor- Ourém; Rua Dr. Armando Henriques Reis Vieira- Ourém; Rua dos Moinhos- Ourém e ruas adjacentes",
+      "discovered_at": "06/07/2026 00:35"
+    }
+  ]
 }
