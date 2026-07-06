@@ -1,24 +1,5 @@
 {
-  "last_updated": "2026-07-06T11:32:09.583628",
-  "count": 2,
-  "interruptions": [
-    {
-      "id": "9338",
-      "type": "Não Programada",
-      "location": "Rua Principal- Carregal",
-      "start_datetime": "06/07/2026 04:00",
-      "restoration_datetime": "06/07/2026 13:00",
-      "last_updated": "06/07/2026 03:13",
-      "affected_streets": "Rua Principal- Carregal e ruas adjacentes"
-    },
-    {
-      "id": "9337",
-      "type": "Não Programada",
-      "location": "Lourinha",
-      "start_datetime": "06/07/2026 01:10",
-      "restoration_datetime": "06/07/2026 12:10",
-      "last_updated": "06/07/2026 00:08",
-      "affected_streets": "Lourinha; Rua Povo Timor- Ourém; Rua Dr. Armando Henriques Reis Vieira- Ourém; Rua dos Moinhos- Ourém e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-07-06T13:15:32.311009",
+  "count": 0,
+  "interruptions": []
 }
