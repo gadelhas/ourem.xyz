@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T05:19:51.711248",
+  "last_updated": "2026-07-07T07:11:46.849842",
   "count": 3,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "07/07/2026 06:00",
       "restoration_datetime": "07/07/2026 15:00",
       "last_updated": "07/07/2026 05:03",
-      "affected_streets": "Rua Santo Andre- Andrés e ruas adjacentes",
-      "discovered_at": "07/07/2026 05:19"
+      "affected_streets": "Rua Santo Andre- Andrés e ruas adjacentes"
     },
     {
       "id": "9340",
