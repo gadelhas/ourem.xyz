@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T18:41:18.711766",
+  "last_updated": "2026-07-07T19:33:32.452337",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "07/07/2026 19:00",
       "restoration_datetime": "07/07/2026 22:30",
       "last_updated": "07/07/2026 18:30",
-      "affected_streets": "Andrés",
-      "discovered_at": "07/07/2026 18:41"
+      "affected_streets": "Andrés"
     }
   ]
 }
