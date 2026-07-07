@@ -1,24 +1,5 @@
 {
-  "last_updated": "2026-07-07T13:43:25.456316",
-  "count": 2,
-  "interruptions": [
-    {
-      "id": "9341",
-      "type": "Não Programada",
-      "location": "Rua Santo Andre- Andrés",
-      "start_datetime": "07/07/2026 06:00",
-      "restoration_datetime": "07/07/2026 15:00",
-      "last_updated": "07/07/2026 05:03",
-      "affected_streets": "Rua Santo Andre- Andrés e ruas adjacentes"
-    },
-    {
-      "id": "9340",
-      "type": "Não Programada",
-      "location": "Rua Cruzeiro- Matas",
-      "start_datetime": "07/07/2026 02:50",
-      "restoration_datetime": "07/07/2026 14:00",
-      "last_updated": "07/07/2026 02:05",
-      "affected_streets": "Rua Cruzeiro- Matas e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-07-07T15:00:56.390105",
+  "count": 0,
+  "interruptions": []
 }
