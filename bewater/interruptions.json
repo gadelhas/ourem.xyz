@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T10:42:00.142347",
+  "last_updated": "2026-07-08T11:34:56.002143",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "08/07/2026 11:40",
       "restoration_datetime": "08/07/2026 15:40",
       "last_updated": "08/07/2026 10:41",
-      "affected_streets": "Carapita; Lagarinho da Carapita",
-      "discovered_at": "08/07/2026 10:42"
+      "affected_streets": "Carapita; Lagarinho da Carapita"
     },
     {
       "id": "9343",
