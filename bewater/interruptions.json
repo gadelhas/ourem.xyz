@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-08T19:30:54.006863",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-08T20:29:14.445200",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9345",
+      "type": "Não Programada",
+      "location": "Rua Principal- Fartaria",
+      "start_datetime": "08/07/2026 21:00",
+      "restoration_datetime": "08/07/2026 23:00",
+      "last_updated": "08/07/2026 20:02",
+      "affected_streets": "Rua Principal- Fartaria",
+      "discovered_at": "08/07/2026 20:29"
+    }
+  ]
 }
