@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-07-09T09:06:20.276879",
+  "last_updated": "2026-07-09T11:01:24.751041",
   "count": 1,
   "interruptions": [
     {
-      "id": "9346",
+      "id": "9347",
       "type": "Não Programada",
-      "location": "Rua Principal- Pinheiro",
-      "start_datetime": "09/07/2026 01:50",
-      "restoration_datetime": "09/07/2026 10:00",
-      "last_updated": "09/07/2026 01:04",
-      "affected_streets": "Rua Principal- Pinheiro"
+      "location": "Outeiro da Calçada",
+      "start_datetime": "09/07/2026 11:02",
+      "restoration_datetime": "09/07/2026 17:02",
+      "last_updated": "09/07/2026 10:02",
+      "affected_streets": "Outeiro da Calçada",
+      "discovered_at": "09/07/2026 11:01"
     }
   ]
 }
