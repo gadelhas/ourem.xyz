@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T15:02:51.551832",
+  "last_updated": "2026-07-09T16:50:33.611779",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "09/07/2026 15:00",
       "restoration_datetime": "09/07/2026 20:30",
       "last_updated": "09/07/2026 14:16",
-      "affected_streets": "Barrocaria",
-      "discovered_at": "09/07/2026 15:02"
+      "affected_streets": "Barrocaria"
     },
     {
       "id": "9347",
