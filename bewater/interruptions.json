@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:32:42.138149",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9348",
-      "type": "Não Programada",
-      "location": "Barrocaria",
-      "start_datetime": "09/07/2026 15:00",
-      "restoration_datetime": "09/07/2026 20:30",
-      "last_updated": "09/07/2026 14:16",
-      "affected_streets": "Barrocaria"
-    }
-  ]
+  "last_updated": "2026-07-09T20:34:48.492701",
+  "count": 0,
+  "interruptions": []
 }
