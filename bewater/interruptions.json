@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T01:34:56.411977",
+  "last_updated": "2026-07-09T03:04:52.866356",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "09/07/2026 01:50",
       "restoration_datetime": "09/07/2026 10:00",
       "last_updated": "09/07/2026 01:04",
-      "affected_streets": "Rua Principal- Pinheiro",
-      "discovered_at": "09/07/2026 01:34"
+      "affected_streets": "Rua Principal- Pinheiro"
     }
   ]
 }
