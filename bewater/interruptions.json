@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T13:39:13.555690",
+  "last_updated": "2026-07-10T14:55:01.495439",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "10/07/2026 14:00",
       "restoration_datetime": "10/07/2026 23:59",
       "last_updated": "10/07/2026 12:55",
-      "affected_streets": "Freixianda; Ribeira do Fárrio",
-      "discovered_at": "10/07/2026 13:39"
+      "affected_streets": "Freixianda; Ribeira do Fárrio"
     }
   ]
 }
