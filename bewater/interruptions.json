@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T15:47:51.545127",
+  "last_updated": "2026-07-10T16:41:51.564683",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "10/07/2026 15:45",
       "restoration_datetime": "10/07/2026 21:45",
       "last_updated": "10/07/2026 15:10",
-      "affected_streets": "Pisão do Oleiro",
-      "discovered_at": "10/07/2026 15:47"
+      "affected_streets": "Pisão do Oleiro"
     }
   ]
 }
