@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-10T23:20:21.803377",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9349",
-      "type": "Não Programada",
-      "location": "Freixianda",
-      "start_datetime": "10/07/2026 14:00",
-      "restoration_datetime": "10/07/2026 23:59",
-      "last_updated": "10/07/2026 12:55",
-      "affected_streets": "Freixianda; Ribeira do Fárrio"
-    }
-  ]
+  "last_updated": "2026-07-11T00:29:09.598199",
+  "count": 0,
+  "interruptions": []
 }
