@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-11T07:33:08.088196",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-11T08:34:16.169094",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9351",
+      "type": "Não Programada",
+      "location": "Travessa Lapa - Fontainhas",
+      "start_datetime": "11/07/2026 09:10",
+      "restoration_datetime": "11/07/2026 12:00",
+      "last_updated": "11/07/2026 07:56",
+      "affected_streets": "Travessa Lapa - Fontainhas",
+      "discovered_at": "11/07/2026 08:34"
+    }
+  ]
 }
