@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-11T13:30:31.546976",
-  "count": 1,
+  "last_updated": "2026-07-11T14:27:21.264607",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9353",
+      "type": "Não Programada",
+      "location": "Marta",
+      "start_datetime": "11/07/2026 15:15",
+      "restoration_datetime": "11/07/2026 18:20",
+      "last_updated": "11/07/2026 14:21",
+      "affected_streets": "Marta; Marta de Cima; Marta de Baixo; Vermoeira",
+      "discovered_at": "11/07/2026 14:27"
+    },
     {
       "id": "9352",
       "type": "Não Programada",
