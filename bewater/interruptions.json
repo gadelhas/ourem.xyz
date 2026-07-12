@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:16:32.735563",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9358",
-      "type": "Não Programada",
-      "location": "Travessa Cardeais- Cardeais",
-      "start_datetime": "12/07/2026 16:30",
-      "restoration_datetime": "12/07/2026 20:20",
-      "last_updated": "12/07/2026 15:18",
-      "affected_streets": "Travessa Cardeais- Cardeais"
-    }
-  ]
+  "last_updated": "2026-07-12T21:17:03.303594",
+  "count": 0,
+  "interruptions": []
 }
