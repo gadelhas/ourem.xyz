@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T15:22:05.811453",
+  "last_updated": "2026-07-12T16:19:53.193797",
   "count": 3,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "12/07/2026 16:30",
       "restoration_datetime": "12/07/2026 20:20",
       "last_updated": "12/07/2026 15:18",
-      "affected_streets": "Travessa Cardeais- Cardeais",
-      "discovered_at": "12/07/2026 15:22"
+      "affected_streets": "Travessa Cardeais- Cardeais"
     },
     {
       "id": "9357",
@@ -19,8 +18,7 @@
       "start_datetime": "12/07/2026 15:50",
       "restoration_datetime": "12/07/2026 19:00",
       "last_updated": "12/07/2026 15:04",
-      "affected_streets": "Estrada de Santarém- Santarém dos Tojos",
-      "discovered_at": "12/07/2026 15:22"
+      "affected_streets": "Estrada de Santarém- Santarém dos Tojos"
     },
     {
       "id": "9356",
