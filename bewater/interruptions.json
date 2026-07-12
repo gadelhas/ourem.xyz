@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T07:43:52.453892",
+  "last_updated": "2026-07-12T08:45:08.592244",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "12/07/2026 06:50",
       "restoration_datetime": "12/07/2026 14:00",
       "last_updated": "12/07/2026 07:20",
-      "affected_streets": "Estrada Nacional 349- Lagoa Furadouro",
-      "discovered_at": "12/07/2026 07:43"
+      "affected_streets": "Estrada Nacional 349- Lagoa Furadouro"
     },
     {
       "id": "9354",
