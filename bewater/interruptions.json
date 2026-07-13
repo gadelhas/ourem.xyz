@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T07:07:12.606219",
+  "last_updated": "2026-07-13T09:05:42.240522",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "13/07/2026 07:00",
       "restoration_datetime": "13/07/2026 09:45",
       "last_updated": "13/07/2026 06:58",
-      "affected_streets": "Barreira; Lameirinha",
-      "discovered_at": "13/07/2026 07:07"
+      "affected_streets": "Barreira; Lameirinha"
     }
   ]
 }
