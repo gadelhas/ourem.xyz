@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T15:30:28.483662",
+  "last_updated": "2026-07-14T16:27:38.918817",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "14/07/2026 16:00",
       "restoration_datetime": "14/07/2026 19:00",
       "last_updated": "14/07/2026 15:20",
-      "affected_streets": "Canhardo; Rua Moinho- Outeiro das Matas; Rua Barreiro- Vale Porto e ruas adjacentes",
-      "discovered_at": "14/07/2026 15:30"
+      "affected_streets": "Canhardo; Rua Moinho- Outeiro das Matas; Rua Barreiro- Vale Porto e ruas adjacentes"
     }
   ]
 }
