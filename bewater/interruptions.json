@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-14T22:20:29.382742",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9363",
-      "type": "Não Programada",
-      "location": "Rua Lagar do Charrueco- Carapita",
-      "start_datetime": "14/07/2026 18:00",
-      "restoration_datetime": "14/07/2026 23:00",
-      "last_updated": "14/07/2026 17:02",
-      "affected_streets": "Rua Lagar do Charrueco- Carapita; Rua 1º de Maio- Carapita; Rua Pereiras- Carapita e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-07-14T23:18:25.431872",
+  "count": 0,
+  "interruptions": []
 }
