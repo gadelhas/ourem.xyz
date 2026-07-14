@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T17:27:30.625652",
+  "last_updated": "2026-07-14T18:24:04.706159",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "14/07/2026 18:00",
       "restoration_datetime": "14/07/2026 23:00",
       "last_updated": "14/07/2026 17:02",
-      "affected_streets": "Rua Lagar do Charrueco- Carapita; Rua 1º de Maio- Carapita; Rua Pereiras- Carapita e ruas adjacentes",
-      "discovered_at": "14/07/2026 17:27"
+      "affected_streets": "Rua Lagar do Charrueco- Carapita; Rua 1º de Maio- Carapita; Rua Pereiras- Carapita e ruas adjacentes"
     },
     {
       "id": "9362",
