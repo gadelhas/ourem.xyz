@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-14T05:00:26.618905",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-14T06:44:44.162141",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9361",
+      "type": "Não Programada",
+      "location": "Lavradio",
+      "start_datetime": "14/07/2026 07:00",
+      "restoration_datetime": "14/07/2026 09:45",
+      "last_updated": "14/07/2026 06:02",
+      "affected_streets": "Lavradio",
+      "discovered_at": "14/07/2026 06:44"
+    }
+  ]
 }
