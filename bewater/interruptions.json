@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-14T14:34:36.038974",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-14T15:30:28.483662",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9362",
+      "type": "Não Programada",
+      "location": "Canhardo",
+      "start_datetime": "14/07/2026 16:00",
+      "restoration_datetime": "14/07/2026 19:00",
+      "last_updated": "14/07/2026 15:20",
+      "affected_streets": "Canhardo; Rua Moinho- Outeiro das Matas; Rua Barreiro- Vale Porto e ruas adjacentes",
+      "discovered_at": "14/07/2026 15:30"
+    }
+  ]
 }
