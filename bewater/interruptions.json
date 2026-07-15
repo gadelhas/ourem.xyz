@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T05:00:34.663941",
+  "last_updated": "2026-07-15T06:45:52.111967",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "15/07/2026 06:00",
       "restoration_datetime": "15/07/2026 09:30",
       "last_updated": "15/07/2026 04:52",
-      "affected_streets": "Estrada Ourém- Vale Porto; Rua Bacelos- Vale Porto",
-      "discovered_at": "15/07/2026 05:00"
+      "affected_streets": "Estrada Ourém- Vale Porto; Rua Bacelos- Vale Porto"
     }
   ]
 }
