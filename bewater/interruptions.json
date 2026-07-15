@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-15T10:34:19.860551",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-15T11:30:53.733996",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9365",
+      "type": "Não Programada",
+      "location": "Santarém dos Tojos",
+      "start_datetime": "15/07/2026 11:55",
+      "restoration_datetime": "15/07/2026 17:00",
+      "last_updated": "15/07/2026 10:56",
+      "affected_streets": "Santarém dos Tojos",
+      "discovered_at": "15/07/2026 11:30"
+    }
+  ]
 }
