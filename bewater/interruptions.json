@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-15T22:20:35.109804",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9366",
-      "type": "Não Programada",
-      "location": "Rua Barreiro- Canhardo",
-      "start_datetime": "15/07/2026 17:20",
-      "restoration_datetime": "15/07/2026 22:30",
-      "last_updated": "15/07/2026 17:55",
-      "affected_streets": "Rua Barreiro- Canhardo e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-07-15T23:20:13.090153",
+  "count": 0,
+  "interruptions": []
 }
