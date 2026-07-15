@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-15T08:47:13.705963",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9364",
-      "type": "Não Programada",
-      "location": "Estrada Ourém- Vale Porto",
-      "start_datetime": "15/07/2026 06:00",
-      "restoration_datetime": "15/07/2026 09:30",
-      "last_updated": "15/07/2026 04:52",
-      "affected_streets": "Estrada Ourém- Vale Porto; Rua Bacelos- Vale Porto"
-    }
-  ]
+  "last_updated": "2026-07-15T09:37:25.926427",
+  "count": 0,
+  "interruptions": []
 }
