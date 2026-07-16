@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-07-16T09:41:06.373044",
+  "last_updated": "2026-07-16T10:38:55.418973",
   "count": 2,
   "interruptions": [
+    {
+      "id": "9386",
+      "type": "Não Programada",
+      "location": "Conceição",
+      "start_datetime": "16/07/2026 10:40",
+      "restoration_datetime": "16/07/2026 13:40",
+      "last_updated": "16/07/2026 09:52",
+      "affected_streets": "Conceição; Gaiteiros; Paiveira; Castelo; Carcavelos de Baixo",
+      "discovered_at": "16/07/2026 10:38"
+    },
     {
       "id": "9367",
       "type": "Não Programada",
@@ -10,15 +20,6 @@
       "restoration_datetime": "16/07/2026 13:00",
       "last_updated": "16/07/2026 02:26",
       "affected_streets": "Travessa Lavadouro- Carapita"
-    },
-    {
-      "id": "9368",
-      "type": "Não Programada",
-      "location": "Rua Pereiras- Carapita",
-      "start_datetime": "16/07/2026 03:15",
-      "restoration_datetime": "16/07/2026 10:25",
-      "last_updated": "16/07/2026 02:26",
-      "affected_streets": "Rua Pereiras- Carapita; Rua 1º de Maio- Carapita e ruas adjacentes"
     }
   ]
 }
