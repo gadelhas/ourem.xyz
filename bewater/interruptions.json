@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T15:32:15.179205",
+  "last_updated": "2026-07-16T16:29:14.516886",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/07/2026 16:26",
       "restoration_datetime": "16/07/2026 22:00",
       "last_updated": "16/07/2026 15:27",
-      "affected_streets": "Rua Fonte- Cavadinha e ruas adjacentes",
-      "discovered_at": "16/07/2026 15:32"
+      "affected_streets": "Rua Fonte- Cavadinha e ruas adjacentes"
     },
     {
       "id": "9387",
