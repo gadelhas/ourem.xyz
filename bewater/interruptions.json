@@ -1,16 +1,25 @@
 {
-  "last_updated": "2026-07-16T01:34:02.203869",
-  "count": 1,
+  "last_updated": "2026-07-16T03:03:02.442232",
+  "count": 2,
   "interruptions": [
     {
       "id": "9367",
       "type": "Não Programada",
       "location": "Travessa Lavadouro- Carapita",
       "start_datetime": "16/07/2026 02:00",
-      "restoration_datetime": "16/07/2026 10:00",
-      "last_updated": "16/07/2026 01:04",
-      "affected_streets": "Travessa Lavadouro- Carapita",
-      "discovered_at": "16/07/2026 01:34"
+      "restoration_datetime": "16/07/2026 13:00",
+      "last_updated": "16/07/2026 02:26",
+      "affected_streets": "Travessa Lavadouro- Carapita"
+    },
+    {
+      "id": "9368",
+      "type": "Não Programada",
+      "location": "Rua Pereiras- Carapita",
+      "start_datetime": "16/07/2026 03:15",
+      "restoration_datetime": "16/07/2026 10:25",
+      "last_updated": "16/07/2026 02:26",
+      "affected_streets": "Rua Pereiras- Carapita; Rua 1º de Maio- Carapita e ruas adjacentes",
+      "discovered_at": "16/07/2026 03:03"
     }
   ]
 }
