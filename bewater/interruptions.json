@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-16T21:22:01.770616",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9388",
-      "type": "Não Programada",
-      "location": "Rua Fonte- Cavadinha",
-      "start_datetime": "16/07/2026 16:26",
-      "restoration_datetime": "16/07/2026 22:00",
-      "last_updated": "16/07/2026 15:27",
-      "affected_streets": "Rua Fonte- Cavadinha e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-07-16T22:20:55.671551",
+  "count": 0,
+  "interruptions": []
 }
