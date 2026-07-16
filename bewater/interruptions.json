@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T10:38:55.418973",
+  "last_updated": "2026-07-16T11:31:50.905060",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/07/2026 10:40",
       "restoration_datetime": "16/07/2026 13:40",
       "last_updated": "16/07/2026 09:52",
-      "affected_streets": "Conceição; Gaiteiros; Paiveira; Castelo; Carcavelos de Baixo",
-      "discovered_at": "16/07/2026 10:38"
+      "affected_streets": "Conceição; Gaiteiros; Paiveira; Castelo; Carcavelos de Baixo"
     },
     {
       "id": "9367",
