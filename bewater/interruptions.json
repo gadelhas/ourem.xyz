@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-07-16T13:32:56.777370",
+  "last_updated": "2026-07-16T14:40:15.518654",
   "count": 1,
   "interruptions": [
     {
-      "id": "9386",
+      "id": "9387",
       "type": "Não Programada",
-      "location": "Conceição",
-      "start_datetime": "16/07/2026 10:40",
-      "restoration_datetime": "16/07/2026 13:40",
-      "last_updated": "16/07/2026 09:52",
-      "affected_streets": "Conceição; Gaiteiros; Paiveira; Castelo; Carcavelos de Baixo"
+      "location": "Rua Vale d`agua- Óbidos",
+      "start_datetime": "16/07/2026 15:30",
+      "restoration_datetime": "16/07/2026 18:30",
+      "last_updated": "16/07/2026 14:36",
+      "affected_streets": "Rua Vale d`agua- Óbidos",
+      "discovered_at": "16/07/2026 14:40"
     }
   ]
 }
