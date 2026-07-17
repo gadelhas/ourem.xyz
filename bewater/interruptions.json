@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-07-17T19:26:14.901073",
+  "last_updated": "2026-07-17T20:19:52.466214",
   "count": 1,
   "interruptions": [
     {
-      "id": "9392",
+      "id": "9393",
       "type": "Não Programada",
-      "location": "Óbidos",
-      "start_datetime": "17/07/2026 18:00",
-      "restoration_datetime": "17/07/2026 20:00",
-      "last_updated": "17/07/2026 17:15",
-      "affected_streets": "Óbidos"
+      "location": "Gaiteiros",
+      "start_datetime": "17/07/2026 21:00",
+      "restoration_datetime": "17/07/2026 22:45",
+      "last_updated": "17/07/2026 20:12",
+      "affected_streets": "Gaiteiros",
+      "discovered_at": "17/07/2026 20:19"
     }
   ]
 }
