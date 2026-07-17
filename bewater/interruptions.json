@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-07-17T10:33:03.071701",
+  "last_updated": "2026-07-17T11:29:13.819900",
   "count": 1,
   "interruptions": [
     {
-      "id": "9389",
+      "id": "9390",
       "type": "Não Programada",
-      "location": "Rua Hospital- Espite",
-      "start_datetime": "17/07/2026 07:30",
-      "restoration_datetime": "17/07/2026 11:00",
-      "last_updated": "17/07/2026 09:48",
-      "affected_streets": "Rua Hospital- Espite; Rua Braga- Braga e ruas adjacentes"
+      "location": "Falgar",
+      "start_datetime": "17/07/2026 11:20",
+      "restoration_datetime": "17/07/2026 13:20",
+      "last_updated": "17/07/2026 10:35",
+      "affected_streets": "Falgar",
+      "discovered_at": "17/07/2026 11:29"
     }
   ]
 }
