@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-17T14:32:55.571690",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-07-17T15:27:52.251385",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9391",
+      "type": "Não Programada",
+      "location": "Caxarias",
+      "start_datetime": "17/07/2026 16:10",
+      "restoration_datetime": "17/07/2026 19:10",
+      "last_updated": "17/07/2026 15:11",
+      "affected_streets": "Caxarias",
+      "discovered_at": "17/07/2026 15:27"
+    }
+  ]
 }
