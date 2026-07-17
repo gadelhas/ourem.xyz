@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T06:47:54.335785",
+  "last_updated": "2026-07-17T07:39:35.340118",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "17/07/2026 07:30",
       "restoration_datetime": "17/07/2026 10:00",
       "last_updated": "17/07/2026 05:57",
-      "affected_streets": "Rua Hospital- Espite; Rua Braga- Braga e ruas adjacentes",
-      "discovered_at": "17/07/2026 06:47"
+      "affected_streets": "Rua Hospital- Espite; Rua Braga- Braga e ruas adjacentes"
     }
   ]
 }
