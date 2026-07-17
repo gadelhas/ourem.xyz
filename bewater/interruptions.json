@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T15:27:52.251385",
+  "last_updated": "2026-07-17T16:26:29.011966",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "17/07/2026 16:10",
       "restoration_datetime": "17/07/2026 19:10",
       "last_updated": "17/07/2026 15:11",
-      "affected_streets": "Caxarias",
-      "discovered_at": "17/07/2026 15:27"
+      "affected_streets": "Caxarias"
     }
   ]
 }
