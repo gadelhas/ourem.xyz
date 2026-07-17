@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T11:29:13.819900",
+  "last_updated": "2026-07-17T12:26:41.535702",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "17/07/2026 11:20",
       "restoration_datetime": "17/07/2026 13:20",
       "last_updated": "17/07/2026 10:35",
-      "affected_streets": "Falgar",
-      "discovered_at": "17/07/2026 11:29"
+      "affected_streets": "Falgar"
     }
   ]
 }
