@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T20:19:52.466214",
+  "last_updated": "2026-07-17T21:16:25.577346",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "17/07/2026 21:00",
       "restoration_datetime": "17/07/2026 22:45",
       "last_updated": "17/07/2026 20:12",
-      "affected_streets": "Gaiteiros",
-      "discovered_at": "17/07/2026 20:19"
+      "affected_streets": "Gaiteiros"
     }
   ]
 }
