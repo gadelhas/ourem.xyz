@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T08:34:17.195403",
+  "last_updated": "2026-07-18T09:31:04.297839",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "18/07/2026 09:40",
       "restoration_datetime": "18/07/2026 12:30",
       "last_updated": "18/07/2026 08:13",
-      "affected_streets": "Rua Central- Ninho de Águia e ruas adjacentes",
-      "discovered_at": "18/07/2026 08:34"
+      "affected_streets": "Rua Central- Ninho de Águia e ruas adjacentes"
     }
   ]
 }
