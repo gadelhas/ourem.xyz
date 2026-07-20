@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T15:36:32.816824",
+  "last_updated": "2026-07-20T16:30:42.912099",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "20/07/2026 15:30",
       "restoration_datetime": "20/07/2026 18:30",
       "last_updated": "20/07/2026 15:17",
-      "affected_streets": "Rua Vale d`agua- Óbidos",
-      "discovered_at": "20/07/2026 15:36"
+      "affected_streets": "Rua Vale d`agua- Óbidos"
     }
   ]
 }
