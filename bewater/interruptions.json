@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-20T17:38:01.561902",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9398",
-      "type": "Não Programada",
-      "location": "Rua Vale d`agua- Óbidos",
-      "start_datetime": "20/07/2026 15:30",
-      "restoration_datetime": "20/07/2026 18:30",
-      "last_updated": "20/07/2026 15:17",
-      "affected_streets": "Rua Vale d`agua- Óbidos"
-    }
-  ]
+  "last_updated": "2026-07-20T18:38:17.246244",
+  "count": 0,
+  "interruptions": []
 }
