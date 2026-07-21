@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T12:32:52.518886",
-  "count": 2,
+  "last_updated": "2026-07-21T13:32:08.369664",
+  "count": 1,
   "interruptions": [
     {
       "id": "9400",
@@ -10,15 +10,6 @@
       "restoration_datetime": "21/07/2026 18:30",
       "last_updated": "21/07/2026 11:25",
       "affected_streets": "Lavradio; Ponte Grande; Vesparia; Perdigão; Casa Caiada"
-    },
-    {
-      "id": "9399",
-      "type": "Não Programada",
-      "location": "Cumeada",
-      "start_datetime": "21/07/2026 10:30",
-      "restoration_datetime": "21/07/2026 13:30",
-      "last_updated": "21/07/2026 11:24",
-      "affected_streets": "Cumeada; Junqueira"
     }
   ]
 }
