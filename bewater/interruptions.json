@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-07-22T21:00:02.147882",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9404",
-      "type": "Não Programada",
-      "location": "Rua Furadouro- Areias",
-      "start_datetime": "22/07/2026 19:00",
-      "restoration_datetime": "22/07/2026 22:00",
-      "last_updated": "22/07/2026 17:55",
-      "affected_streets": "Rua Furadouro- Areias e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-07-22T22:11:32.143941",
+  "count": 0,
+  "interruptions": []
 }
