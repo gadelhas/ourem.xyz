@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T15:28:26.439779",
-  "count": 2,
+  "last_updated": "2026-07-22T17:11:25.869283",
+  "count": 1,
   "interruptions": [
     {
       "id": "9402",
@@ -9,18 +9,7 @@
       "start_datetime": "22/07/2026 14:30",
       "restoration_datetime": "22/07/2026 18:45",
       "last_updated": "22/07/2026 14:55",
-      "affected_streets": "Mosqueiro",
-      "discovered_at": "22/07/2026 15:28"
-    },
-    {
-      "id": "9403",
-      "type": "Não Programada",
-      "location": "Rua Capela- Alqueidão",
-      "start_datetime": "22/07/2026 15:30",
-      "restoration_datetime": "22/07/2026 16:15",
-      "last_updated": "22/07/2026 14:55",
-      "affected_streets": "Rua Capela- Alqueidão",
-      "discovered_at": "22/07/2026 15:28"
+      "affected_streets": "Mosqueiro"
     }
   ]
 }
