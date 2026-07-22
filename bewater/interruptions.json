@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-07-22T17:11:25.869283",
+  "last_updated": "2026-07-22T19:06:29.540956",
   "count": 1,
   "interruptions": [
     {
-      "id": "9402",
+      "id": "9404",
       "type": "Não Programada",
-      "location": "Mosqueiro",
-      "start_datetime": "22/07/2026 14:30",
-      "restoration_datetime": "22/07/2026 18:45",
-      "last_updated": "22/07/2026 14:55",
-      "affected_streets": "Mosqueiro"
+      "location": "Rua Furadouro- Areias",
+      "start_datetime": "22/07/2026 19:00",
+      "restoration_datetime": "22/07/2026 22:00",
+      "last_updated": "22/07/2026 17:55",
+      "affected_streets": "Rua Furadouro- Areias e ruas adjacentes",
+      "discovered_at": "22/07/2026 19:06"
     }
   ]
 }
