@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T09:21:38.730475",
+  "last_updated": "2026-07-23T11:47:26.820800",
   "count": 5,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "31/07/2026 14:00",
       "restoration_datetime": "31/07/2026 17:00",
       "last_updated": "23/07/2026 09:03",
-      "affected_streets": "Rua São Pedro- Freiria e ruas adjacentes",
-      "discovered_at": "23/07/2026 09:21"
+      "affected_streets": "Rua São Pedro- Freiria e ruas adjacentes"
     },
     {
       "id": "9408",
@@ -19,8 +18,7 @@
       "start_datetime": "30/07/2026 09:30",
       "restoration_datetime": "30/07/2026 13:00",
       "last_updated": "23/07/2026 08:57",
-      "affected_streets": "Estrada Principal- Sorieira e ruas adjacentes",
-      "discovered_at": "23/07/2026 09:21"
+      "affected_streets": "Estrada Principal- Sorieira e ruas adjacentes"
     },
     {
       "id": "9406",
@@ -29,8 +27,7 @@
       "start_datetime": "28/07/2026 14:00",
       "restoration_datetime": "28/07/2026 17:00",
       "last_updated": "23/07/2026 08:52",
-      "affected_streets": "Estrada Nacional 349- Vilar Prazeres e ruas adjacentes",
-      "discovered_at": "23/07/2026 09:21"
+      "affected_streets": "Estrada Nacional 349- Vilar Prazeres e ruas adjacentes"
     },
     {
       "id": "9405",
@@ -39,8 +36,7 @@
       "start_datetime": "27/07/2026 14:00",
       "restoration_datetime": "27/07/2026 17:00",
       "last_updated": "23/07/2026 08:35",
-      "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros",
-      "discovered_at": "23/07/2026 09:21"
+      "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros"
     },
     {
       "id": "9407",
@@ -49,8 +45,7 @@
       "start_datetime": "23/07/2026 09:40",
       "restoration_datetime": "23/07/2026 12:45",
       "last_updated": "23/07/2026 08:54",
-      "affected_streets": "Rua Portinho- Gondemaria; Estrada Lagoinha- Gondemaria e ruas adjacentes",
-      "discovered_at": "23/07/2026 09:21"
+      "affected_streets": "Rua Portinho- Gondemaria; Estrada Lagoinha- Gondemaria e ruas adjacentes"
     }
   ]
 }
