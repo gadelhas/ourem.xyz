@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T15:51:45.270377",
-  "count": 5,
+  "last_updated": "2026-07-23T17:14:58.609042",
+  "count": 6,
   "interruptions": [
     {
       "id": "9409",
@@ -39,14 +39,23 @@
       "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros"
     },
     {
+      "id": "9411",
+      "type": "Não Programada",
+      "location": "Marta de Baixo",
+      "start_datetime": "23/07/2026 17:45",
+      "restoration_datetime": "23/07/2026 22:00",
+      "last_updated": "23/07/2026 16:28",
+      "affected_streets": "Marta de Baixo; Marta de Cima; Marta; Vermoeira",
+      "discovered_at": "23/07/2026 17:14"
+    },
+    {
       "id": "9410",
       "type": "Não Programada",
       "location": "Casal da Bica",
       "start_datetime": "23/07/2026 15:15",
       "restoration_datetime": "23/07/2026 17:45",
       "last_updated": "23/07/2026 14:36",
-      "affected_streets": "Casal da Bica",
-      "discovered_at": "23/07/2026 15:51"
+      "affected_streets": "Casal da Bica"
     }
   ]
 }
