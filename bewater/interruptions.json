@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T19:07:03.901308",
+  "last_updated": "2026-07-23T20:57:20.428318",
   "count": 6,
   "interruptions": [
     {
@@ -45,8 +45,7 @@
       "start_datetime": "23/07/2026 18:40",
       "restoration_datetime": "23/07/2026 23:59",
       "last_updated": "23/07/2026 17:57",
-      "affected_streets": "Barrocaria; Vales; Cercal; Cercal",
-      "discovered_at": "23/07/2026 19:07"
+      "affected_streets": "Barrocaria; Vales; Cercal; Cercal"
     },
     {
       "id": "9411",
