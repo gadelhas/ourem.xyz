@@ -271,3 +271,8 @@ id,type,location,start_datetime,restoration_datetime,last_updated,affected_stree
 9403,Não Programada,Rua Capela- Alqueidão,22/07/2026 15:30,22/07/2026 16:15,22/07/2026 14:55,Rua Capela- Alqueidão,22/07/2026 15:28
 9401,Não Programada,Soutaria,22/07/2026 07:10,22/07/2026 12:10,22/07/2026 14:54,Soutaria; Ventilharia; Rua Montalto- Montalto; Quinta da Granja; Cardal; Tomareis; Rua Principal- Paiveira e ruas adjacentes,22/07/2026 15:28
 9404,Não Programada,Rua Furadouro- Areias,22/07/2026 19:00,22/07/2026 22:00,22/07/2026 17:55,Rua Furadouro- Areias e ruas adjacentes,22/07/2026 19:06
+9409,Programada,Rua São Pedro- Freiria,31/07/2026 14:00,31/07/2026 17:00,23/07/2026 09:03,Rua São Pedro- Freiria e ruas adjacentes,23/07/2026 09:21
+9408,Programada,Estrada Principal- Sorieira,30/07/2026 09:30,30/07/2026 13:00,23/07/2026 08:57,Estrada Principal- Sorieira e ruas adjacentes,23/07/2026 09:21
+9406,Programada,Estrada Nacional 349- Vilar Prazeres,28/07/2026 14:00,28/07/2026 17:00,23/07/2026 08:52,Estrada Nacional 349- Vilar Prazeres e ruas adjacentes,23/07/2026 09:21
+9405,Programada,Rua Portalinho- Boleiros,27/07/2026 14:00,27/07/2026 17:00,23/07/2026 08:35,Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros,23/07/2026 09:21
+9407,Não Programada,Rua Portinho- Gondemaria,23/07/2026 09:40,23/07/2026 12:45,23/07/2026 08:54,Rua Portinho- Gondemaria; Estrada Lagoinha- Gondemaria e ruas adjacentes,23/07/2026 09:21
