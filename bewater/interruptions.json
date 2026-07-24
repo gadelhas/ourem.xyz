@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T05:45:15.337939",
-  "count": 4,
+  "last_updated": "2026-07-24T08:17:46.301523",
+  "count": 5,
   "interruptions": [
     {
       "id": "9409",
@@ -37,6 +37,16 @@
       "restoration_datetime": "27/07/2026 17:00",
       "last_updated": "23/07/2026 08:35",
       "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros"
+    },
+    {
+      "id": "9413",
+      "type": "Não Programada",
+      "location": "Rua Baldios - Cercal",
+      "start_datetime": "24/07/2026 06:40",
+      "restoration_datetime": "24/07/2026 12:30",
+      "last_updated": "24/07/2026 08:06",
+      "affected_streets": "Rua Baldios - Cercal; Rua 31 de Dezembro - Cercal e ruas adjacentes",
+      "discovered_at": "24/07/2026 08:17"
     }
   ]
 }
