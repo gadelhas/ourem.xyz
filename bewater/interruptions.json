@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T20:16:21.254086",
+  "last_updated": "2026-07-24T22:00:43.235605",
   "count": 7,
   "interruptions": [
     {
@@ -63,8 +63,7 @@
       "start_datetime": "24/07/2026 20:30",
       "restoration_datetime": "24/07/2026 23:59",
       "last_updated": "24/07/2026 19:41",
-      "affected_streets": "Rua Montalto- Ventilharia e ruas adjacentes",
-      "discovered_at": "24/07/2026 20:16"
+      "affected_streets": "Rua Montalto- Ventilharia e ruas adjacentes"
     }
   ]
 }
