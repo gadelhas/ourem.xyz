@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T05:43:52.566349",
-  "count": 5,
+  "last_updated": "2026-07-25T07:59:18.196150",
+  "count": 7,
   "interruptions": [
     {
       "id": "9409",
@@ -37,6 +37,26 @@
       "restoration_datetime": "27/07/2026 17:00",
       "last_updated": "23/07/2026 08:35",
       "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros"
+    },
+    {
+      "id": "9420",
+      "type": "Não Programada",
+      "location": "Cidral",
+      "start_datetime": "25/07/2026 08:15",
+      "restoration_datetime": "25/07/2026 15:45",
+      "last_updated": "25/07/2026 07:28",
+      "affected_streets": "Cidral",
+      "discovered_at": "25/07/2026 07:59"
+    },
+    {
+      "id": "9419",
+      "type": "Não Programada",
+      "location": "Ninho de Águia",
+      "start_datetime": "25/07/2026 06:45",
+      "restoration_datetime": "25/07/2026 13:45",
+      "last_updated": "25/07/2026 06:03",
+      "affected_streets": "Ninho de Águia",
+      "discovered_at": "25/07/2026 07:59"
     },
     {
       "id": "9418",
