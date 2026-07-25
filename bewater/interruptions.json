@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T11:05:32.465559",
-  "count": 7,
+  "last_updated": "2026-07-25T13:14:00.766401",
+  "count": 6,
   "interruptions": [
     {
       "id": "9409",
@@ -55,15 +55,6 @@
       "restoration_datetime": "25/07/2026 13:45",
       "last_updated": "25/07/2026 06:03",
       "affected_streets": "Ninho de Águia"
-    },
-    {
-      "id": "9418",
-      "type": "Não Programada",
-      "location": "Avenida Dom Afonso Henriques- Sobral",
-      "start_datetime": "24/07/2026 23:35",
-      "restoration_datetime": "25/07/2026 13:00",
-      "last_updated": "24/07/2026 22:41",
-      "affected_streets": "Avenida Dom Afonso Henriques- Sobral e ruas adjacentes"
     }
   ]
 }
