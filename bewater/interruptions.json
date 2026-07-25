@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T07:59:18.196150",
+  "last_updated": "2026-07-25T09:54:49.411624",
   "count": 7,
   "interruptions": [
     {
@@ -45,8 +45,7 @@
       "start_datetime": "25/07/2026 08:15",
       "restoration_datetime": "25/07/2026 15:45",
       "last_updated": "25/07/2026 07:28",
-      "affected_streets": "Cidral",
-      "discovered_at": "25/07/2026 07:59"
+      "affected_streets": "Cidral"
     },
     {
       "id": "9419",
@@ -55,8 +54,7 @@
       "start_datetime": "25/07/2026 06:45",
       "restoration_datetime": "25/07/2026 13:45",
       "last_updated": "25/07/2026 06:03",
-      "affected_streets": "Ninho de Águia",
-      "discovered_at": "25/07/2026 07:59"
+      "affected_streets": "Ninho de Águia"
     },
     {
       "id": "9418",
