@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T13:39:45.770454",
+  "last_updated": "2026-07-26T15:01:35.004679",
   "count": 5,
   "interruptions": [
     {
@@ -45,8 +45,7 @@
       "start_datetime": "26/07/2026 14:30",
       "restoration_datetime": "26/07/2026 17:30",
       "last_updated": "26/07/2026 12:40",
-      "affected_streets": "Rua Principal- Varzea da Cacinheira e ruas adjacentes",
-      "discovered_at": "26/07/2026 13:39"
+      "affected_streets": "Rua Principal- Varzea da Cacinheira e ruas adjacentes"
     }
   ]
 }
