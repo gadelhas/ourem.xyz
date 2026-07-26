@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T08:22:07.199542",
+  "last_updated": "2026-07-26T10:40:39.959819",
   "count": 5,
   "interruptions": [
     {
@@ -44,9 +44,8 @@
       "location": "Rua Barroncos- Cubal",
       "start_datetime": "26/07/2026 08:45",
       "restoration_datetime": "26/07/2026 12:45",
-      "last_updated": "26/07/2026 08:10",
-      "affected_streets": "Rua Barroncos- Cubal e ruas adjacentes",
-      "discovered_at": "26/07/2026 08:22"
+      "last_updated": "26/07/2026 09:35",
+      "affected_streets": "Rua Barroncos- Cubal; Barreirinhas; Ponte Grande; Lavradio; Casa Caiada e ruas adjacentes"
     }
   ]
 }
