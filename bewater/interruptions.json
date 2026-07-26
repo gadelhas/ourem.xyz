@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T11:58:49.065790",
+  "last_updated": "2026-07-26T13:39:45.770454",
   "count": 5,
   "interruptions": [
     {
@@ -39,13 +39,14 @@
       "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros"
     },
     {
-      "id": "9421",
+      "id": "9422",
       "type": "Não Programada",
-      "location": "Rua Barroncos- Cubal",
-      "start_datetime": "26/07/2026 08:45",
-      "restoration_datetime": "26/07/2026 12:45",
-      "last_updated": "26/07/2026 09:35",
-      "affected_streets": "Rua Barroncos- Cubal; Barreirinhas; Ponte Grande; Lavradio; Casa Caiada e ruas adjacentes"
+      "location": "Rua Principal- Varzea da Cacinheira",
+      "start_datetime": "26/07/2026 14:30",
+      "restoration_datetime": "26/07/2026 17:30",
+      "last_updated": "26/07/2026 12:40",
+      "affected_streets": "Rua Principal- Varzea da Cacinheira e ruas adjacentes",
+      "discovered_at": "26/07/2026 13:39"
     }
   ]
 }
