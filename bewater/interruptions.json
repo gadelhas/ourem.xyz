@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T05:55:55.533722",
-  "count": 4,
+  "last_updated": "2026-07-26T08:22:07.199542",
+  "count": 5,
   "interruptions": [
     {
       "id": "9409",
@@ -37,6 +37,16 @@
       "restoration_datetime": "27/07/2026 17:00",
       "last_updated": "23/07/2026 08:35",
       "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros"
+    },
+    {
+      "id": "9421",
+      "type": "Não Programada",
+      "location": "Rua Barroncos- Cubal",
+      "start_datetime": "26/07/2026 08:45",
+      "restoration_datetime": "26/07/2026 12:45",
+      "last_updated": "26/07/2026 08:10",
+      "affected_streets": "Rua Barroncos- Cubal e ruas adjacentes",
+      "discovered_at": "26/07/2026 08:22"
     }
   ]
 }
