@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T06:24:03.902974",
+  "last_updated": "2026-07-27T10:37:46.497008",
   "count": 5,
   "interruptions": [
     {
@@ -39,13 +39,14 @@
       "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros"
     },
     {
-      "id": "9424",
+      "id": "9425",
       "type": "Não Programada",
-      "location": "Casaria",
-      "start_datetime": "27/07/2026 02:50",
-      "restoration_datetime": "27/07/2026 09:45",
-      "last_updated": "27/07/2026 01:58",
-      "affected_streets": "Casaria"
+      "location": "Outeiro da Calçada",
+      "start_datetime": "27/07/2026 10:20",
+      "restoration_datetime": "27/07/2026 12:20",
+      "last_updated": "27/07/2026 09:21",
+      "affected_streets": "Outeiro da Calçada",
+      "discovered_at": "27/07/2026 10:37"
     }
   ]
 }
