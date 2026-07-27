@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T18:20:57.774848",
+  "last_updated": "2026-07-27T20:18:30.537614",
   "count": 4,
   "interruptions": [
     {
@@ -36,8 +36,7 @@
       "start_datetime": "27/07/2026 17:55",
       "restoration_datetime": "27/07/2026 20:55",
       "last_updated": "27/07/2026 17:06",
-      "affected_streets": "Casal do Pinheiro; Casal da Sobreira; Ramalheira",
-      "discovered_at": "27/07/2026 18:20"
+      "affected_streets": "Casal do Pinheiro; Casal da Sobreira; Ramalheira"
     }
   ]
 }
