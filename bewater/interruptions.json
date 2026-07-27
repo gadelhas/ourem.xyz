@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T16:12:47.412753",
+  "last_updated": "2026-07-27T18:20:57.774848",
   "count": 4,
   "interruptions": [
     {
@@ -30,13 +30,14 @@
       "affected_streets": "Estrada Nacional 349- Vilar Prazeres e ruas adjacentes"
     },
     {
-      "id": "9405",
-      "type": "Programada",
-      "location": "Rua Portalinho- Boleiros",
-      "start_datetime": "27/07/2026 14:00",
-      "restoration_datetime": "27/07/2026 17:00",
-      "last_updated": "23/07/2026 08:35",
-      "affected_streets": "Rua Portalinho- Boleiros; Travessa Calcada- Boleiros; Rua Mauricio Velho- Boleiros; Rua António Fonina- Boleiros; Rua Bacelos - Boleiros; Rua Serrado Novo- Boleiros"
+      "id": "9426",
+      "type": "Não Programada",
+      "location": "Casal do Pinheiro",
+      "start_datetime": "27/07/2026 17:55",
+      "restoration_datetime": "27/07/2026 20:55",
+      "last_updated": "27/07/2026 17:06",
+      "affected_streets": "Casal do Pinheiro; Casal da Sobreira; Ramalheira",
+      "discovered_at": "27/07/2026 18:20"
     }
   ]
 }
