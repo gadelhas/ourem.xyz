@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T16:02:18.752299",
-  "count": 4,
+  "last_updated": "2026-07-28T18:09:30.017519",
+  "count": 3,
   "interruptions": [
     {
       "id": "9409",
@@ -21,22 +21,14 @@
       "affected_streets": "Estrada Principal- Sorieira e ruas adjacentes"
     },
     {
-      "id": "9406",
-      "type": "Programada",
-      "location": "Estrada Nacional 349- Vilar Prazeres",
-      "start_datetime": "28/07/2026 14:00",
-      "restoration_datetime": "28/07/2026 17:00",
-      "last_updated": "23/07/2026 08:52",
-      "affected_streets": "Estrada Nacional 349- Vilar Prazeres e ruas adjacentes"
-    },
-    {
-      "id": "9428",
+      "id": "9429",
       "type": "Não Programada",
-      "location": "Engenho",
-      "start_datetime": "28/07/2026 09:59",
-      "restoration_datetime": "28/07/2026 17:00",
-      "last_updated": "28/07/2026 09:00",
-      "affected_streets": "Engenho"
+      "location": "Rua Rainha Santa Isabel- Caxarias",
+      "start_datetime": "28/07/2026 17:30",
+      "restoration_datetime": "28/07/2026 19:30",
+      "last_updated": "28/07/2026 16:45",
+      "affected_streets": "Rua Rainha Santa Isabel- Caxarias",
+      "discovered_at": "28/07/2026 18:09"
     }
   ]
 }
