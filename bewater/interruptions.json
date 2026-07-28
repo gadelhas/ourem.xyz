@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T08:25:23.313238",
+  "last_updated": "2026-07-28T11:12:49.417325",
   "count": 4,
   "interruptions": [
     {
@@ -30,13 +30,14 @@
       "affected_streets": "Estrada Nacional 349- Vilar Prazeres e ruas adjacentes"
     },
     {
-      "id": "9427",
+      "id": "9428",
       "type": "Não Programada",
-      "location": "Rua Rei D. Carlos- Soalheira",
-      "start_datetime": "28/07/2026 06:30",
-      "restoration_datetime": "28/07/2026 09:45",
-      "last_updated": "28/07/2026 05:18",
-      "affected_streets": "Rua Rei D. Carlos- Soalheira"
+      "location": "Engenho",
+      "start_datetime": "28/07/2026 09:59",
+      "restoration_datetime": "28/07/2026 17:00",
+      "last_updated": "28/07/2026 09:00",
+      "affected_streets": "Engenho",
+      "discovered_at": "28/07/2026 11:12"
     }
   ]
 }
