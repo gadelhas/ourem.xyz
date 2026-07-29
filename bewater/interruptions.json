@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T08:31:27.788018",
-  "count": 2,
+  "last_updated": "2026-07-29T11:20:39.408723",
+  "count": 4,
   "interruptions": [
     {
       "id": "9409",
@@ -19,6 +19,26 @@
       "restoration_datetime": "30/07/2026 13:00",
       "last_updated": "23/07/2026 08:57",
       "affected_streets": "Estrada Principal- Sorieira e ruas adjacentes"
+    },
+    {
+      "id": "9431",
+      "type": "Não Programada",
+      "location": "Mossomodia",
+      "start_datetime": "29/07/2026 11:42",
+      "restoration_datetime": "29/07/2026 16:42",
+      "last_updated": "29/07/2026 10:43",
+      "affected_streets": "Mossomodia; Valinho",
+      "discovered_at": "29/07/2026 11:20"
+    },
+    {
+      "id": "9430",
+      "type": "Não Programada",
+      "location": "Óbidos",
+      "start_datetime": "29/07/2026 09:41",
+      "restoration_datetime": "29/07/2026 13:41",
+      "last_updated": "29/07/2026 08:41",
+      "affected_streets": "Óbidos",
+      "discovered_at": "29/07/2026 11:20"
     }
   ]
 }
