@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T11:47:35.305937",
-  "count": 3,
+  "last_updated": "2026-07-30T13:47:38.527439",
+  "count": 2,
   "interruptions": [
     {
       "id": "9409",
@@ -19,15 +19,6 @@
       "restoration_datetime": "30/07/2026 14:00",
       "last_updated": "30/07/2026 09:10",
       "affected_streets": "Óbidos"
-    },
-    {
-      "id": "9408",
-      "type": "Programada",
-      "location": "Estrada Principal- Sorieira",
-      "start_datetime": "30/07/2026 09:30",
-      "restoration_datetime": "30/07/2026 13:00",
-      "last_updated": "23/07/2026 08:57",
-      "affected_streets": "Estrada Principal- Sorieira e ruas adjacentes"
     }
   ]
 }
