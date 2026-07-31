@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T06:06:42.026504",
-  "count": 2,
+  "last_updated": "2026-07-31T09:39:06.488900",
+  "count": 3,
   "interruptions": [
     {
       "id": "9409",
@@ -12,14 +12,23 @@
       "affected_streets": "Rua São Pedro- Freiria e ruas adjacentes"
     },
     {
+      "id": "9435",
+      "type": "Não Programada",
+      "location": "Vales",
+      "start_datetime": "31/07/2026 10:00",
+      "restoration_datetime": "31/07/2026 15:00",
+      "last_updated": "31/07/2026 09:01",
+      "affected_streets": "Vales",
+      "discovered_at": "31/07/2026 09:39"
+    },
+    {
       "id": "9434",
       "type": "Não Programada",
       "location": "Peras Ruivas",
       "start_datetime": "31/07/2026 06:30",
       "restoration_datetime": "31/07/2026 10:30",
       "last_updated": "31/07/2026 05:22",
-      "affected_streets": "Peras Ruivas",
-      "discovered_at": "31/07/2026 06:06"
+      "affected_streets": "Peras Ruivas"
     }
   ]
 }
