@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T13:52:10.278271",
-  "count": 3,
+  "last_updated": "2026-07-31T15:58:33.374166",
+  "count": 2,
   "interruptions": [
     {
       "id": "9436",
@@ -9,8 +9,7 @@
       "start_datetime": "31/07/2026 14:20",
       "restoration_datetime": "31/07/2026 18:00",
       "last_updated": "31/07/2026 13:18",
-      "affected_streets": "Vales; Cercal; Ninho de Águia; Matos; Vale Feto",
-      "discovered_at": "31/07/2026 13:52"
+      "affected_streets": "Vales; Cercal; Ninho de Águia; Matos; Vale Feto"
     },
     {
       "id": "9409",
@@ -20,15 +19,6 @@
       "restoration_datetime": "31/07/2026 17:00",
       "last_updated": "23/07/2026 09:03",
       "affected_streets": "Rua São Pedro- Freiria e ruas adjacentes"
-    },
-    {
-      "id": "9435",
-      "type": "Não Programada",
-      "location": "Vales",
-      "start_datetime": "31/07/2026 10:00",
-      "restoration_datetime": "31/07/2026 15:00",
-      "last_updated": "31/07/2026 09:01",
-      "affected_streets": "Vales"
     }
   ]
 }
