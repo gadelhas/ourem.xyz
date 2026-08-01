@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-07-31T23:57:05.376063",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-01T02:49:06.070190",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9437",
+      "type": "Não Programada",
+      "location": "Ninho de Águia",
+      "start_datetime": "01/08/2026 01:55",
+      "restoration_datetime": "01/08/2026 11:55",
+      "last_updated": "01/08/2026 01:02",
+      "affected_streets": "Ninho de Águia; Matos",
+      "discovered_at": "01/08/2026 02:49"
+    }
+  ]
 }
