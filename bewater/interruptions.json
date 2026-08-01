@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T02:49:06.070190",
+  "last_updated": "2026-08-01T05:50:57.003171",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "01/08/2026 01:55",
       "restoration_datetime": "01/08/2026 11:55",
       "last_updated": "01/08/2026 01:02",
-      "affected_streets": "Ninho de Águia; Matos",
-      "discovered_at": "01/08/2026 02:49"
+      "affected_streets": "Ninho de Águia; Matos"
     }
   ]
 }
