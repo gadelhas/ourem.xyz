@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-01T15:57:52.799770",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9438",
-      "type": "Não Programada",
-      "location": "Rua Clube Desportivo Vilarense- Vilar Prazeres",
-      "start_datetime": "01/08/2026 08:35",
-      "restoration_datetime": "01/08/2026 16:35",
-      "last_updated": "01/08/2026 07:45",
-      "affected_streets": "Rua Clube Desportivo Vilarense- Vilar Prazeres"
-    }
-  ]
+  "last_updated": "2026-08-01T17:02:02.754973",
+  "count": 0,
+  "interruptions": []
 }
