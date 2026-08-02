@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T17:57:41.893741",
+  "last_updated": "2026-08-02T19:12:12.486023",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "02/08/2026 18:00",
       "restoration_datetime": "02/08/2026 22:00",
       "last_updated": "02/08/2026 17:14",
-      "affected_streets": "Avenida Beato Nuno- Cova da Iria; Rua 13 de Maio- Cova da Iria e ruas adjacentes",
-      "discovered_at": "02/08/2026 17:57"
+      "affected_streets": "Avenida Beato Nuno- Cova da Iria; Rua 13 de Maio- Cova da Iria e ruas adjacentes"
     }
   ]
 }
