@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-02T02:18:22.803422",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-02T05:51:48.610342",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9439",
+      "type": "Não Programada",
+      "location": "Brejo",
+      "start_datetime": "02/08/2026 03:30",
+      "restoration_datetime": "02/08/2026 12:30",
+      "last_updated": "02/08/2026 02:39",
+      "affected_streets": "Brejo",
+      "discovered_at": "02/08/2026 05:51"
+    }
+  ]
 }
