@@ -1,16 +1,25 @@
 {
-  "last_updated": "2026-08-02T05:51:48.610342",
-  "count": 1,
+  "last_updated": "2026-08-02T08:13:38.026041",
+  "count": 2,
   "interruptions": [
     {
       "id": "9439",
       "type": "Não Programada",
       "location": "Brejo",
       "start_datetime": "02/08/2026 03:30",
-      "restoration_datetime": "02/08/2026 12:30",
-      "last_updated": "02/08/2026 02:39",
-      "affected_streets": "Brejo",
-      "discovered_at": "02/08/2026 05:51"
+      "restoration_datetime": "02/08/2026 15:30",
+      "last_updated": "02/08/2026 08:06",
+      "affected_streets": "Brejo"
+    },
+    {
+      "id": "9440",
+      "type": "Não Programada",
+      "location": "Lavradio",
+      "start_datetime": "02/08/2026 09:05",
+      "restoration_datetime": "02/08/2026 13:05",
+      "last_updated": "02/08/2026 08:06",
+      "affected_streets": "Lavradio; Ponte Grande; Casa Caiada",
+      "discovered_at": "02/08/2026 08:13"
     }
   ]
 }
