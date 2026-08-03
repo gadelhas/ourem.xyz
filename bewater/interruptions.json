@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-03T16:18:55.634023",
+  "last_updated": "2026-08-03T18:46:33.943590",
   "count": 2,
   "interruptions": [
+    {
+      "id": "9446",
+      "type": "Não Programada",
+      "location": "Barrocaria",
+      "start_datetime": "03/08/2026 18:57",
+      "restoration_datetime": "03/08/2026 23:57",
+      "last_updated": "03/08/2026 17:57",
+      "affected_streets": "Barrocaria",
+      "discovered_at": "03/08/2026 18:46"
+    },
     {
       "id": "9445",
       "type": "Não Programada",
@@ -9,17 +19,7 @@
       "start_datetime": "03/08/2026 15:42",
       "restoration_datetime": "03/08/2026 21:42",
       "last_updated": "03/08/2026 14:42",
-      "affected_streets": "Casal dos Bernardos",
-      "discovered_at": "03/08/2026 16:18"
-    },
-    {
-      "id": "9444",
-      "type": "Não Programada",
-      "location": "Rua São Cristovão- Abades",
-      "start_datetime": "03/08/2026 10:55",
-      "restoration_datetime": "03/08/2026 16:45",
-      "last_updated": "03/08/2026 09:57",
-      "affected_streets": "Rua São Cristovão- Abades"
+      "affected_streets": "Casal dos Bernardos"
     }
   ]
 }
