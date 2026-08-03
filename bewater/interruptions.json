@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-03T13:36:27.329404",
-  "count": 1,
+  "last_updated": "2026-08-03T16:18:55.634023",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9445",
+      "type": "Não Programada",
+      "location": "Casal dos Bernardos",
+      "start_datetime": "03/08/2026 15:42",
+      "restoration_datetime": "03/08/2026 21:42",
+      "last_updated": "03/08/2026 14:42",
+      "affected_streets": "Casal dos Bernardos",
+      "discovered_at": "03/08/2026 16:18"
+    },
     {
       "id": "9444",
       "type": "Não Programada",
