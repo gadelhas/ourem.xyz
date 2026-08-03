@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T10:37:26.655747",
-  "count": 2,
+  "last_updated": "2026-08-03T13:36:27.329404",
+  "count": 1,
   "interruptions": [
     {
       "id": "9444",
@@ -9,18 +9,7 @@
       "start_datetime": "03/08/2026 10:55",
       "restoration_datetime": "03/08/2026 16:45",
       "last_updated": "03/08/2026 09:57",
-      "affected_streets": "Rua São Cristovão- Abades",
-      "discovered_at": "03/08/2026 10:37"
-    },
-    {
-      "id": "9443",
-      "type": "Não Programada",
-      "location": "Cisterna",
-      "start_datetime": "03/08/2026 09:30",
-      "restoration_datetime": "03/08/2026 11:30",
-      "last_updated": "03/08/2026 08:33",
-      "affected_streets": "Cisterna",
-      "discovered_at": "03/08/2026 10:37"
+      "affected_streets": "Rua São Cristovão- Abades"
     }
   ]
 }
