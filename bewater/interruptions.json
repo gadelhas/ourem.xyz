@@ -1,16 +1,26 @@
 {
-  "last_updated": "2026-08-03T06:16:32.184388",
-  "count": 1,
+  "last_updated": "2026-08-03T10:37:26.655747",
+  "count": 2,
   "interruptions": [
     {
-      "id": "9442",
+      "id": "9444",
       "type": "Não Programada",
-      "location": "Beco Fornalha- Bairro",
-      "start_datetime": "03/08/2026 07:00",
-      "restoration_datetime": "03/08/2026 10:00",
-      "last_updated": "03/08/2026 06:02",
-      "affected_streets": "Beco Fornalha- Bairro",
-      "discovered_at": "03/08/2026 06:16"
+      "location": "Rua São Cristovão- Abades",
+      "start_datetime": "03/08/2026 10:55",
+      "restoration_datetime": "03/08/2026 16:45",
+      "last_updated": "03/08/2026 09:57",
+      "affected_streets": "Rua São Cristovão- Abades",
+      "discovered_at": "03/08/2026 10:37"
+    },
+    {
+      "id": "9443",
+      "type": "Não Programada",
+      "location": "Cisterna",
+      "start_datetime": "03/08/2026 09:30",
+      "restoration_datetime": "03/08/2026 11:30",
+      "last_updated": "03/08/2026 08:33",
+      "affected_streets": "Cisterna",
+      "discovered_at": "03/08/2026 10:37"
     }
   ]
 }
