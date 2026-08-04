@@ -1,5 +1,26 @@
 {
-  "last_updated": "2026-08-04T07:33:37.620641",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-04T10:32:05.071191",
+  "count": 2,
+  "interruptions": [
+    {
+      "id": "9448",
+      "type": "Não Programada",
+      "location": "Rua Principal- Carvalhal",
+      "start_datetime": "04/08/2026 10:30",
+      "restoration_datetime": "04/08/2026 19:50",
+      "last_updated": "04/08/2026 09:56",
+      "affected_streets": "Rua Principal- Carvalhal",
+      "discovered_at": "04/08/2026 10:32"
+    },
+    {
+      "id": "9447",
+      "type": "Não Programada",
+      "location": "Cisterna",
+      "start_datetime": "04/08/2026 09:15",
+      "restoration_datetime": "04/08/2026 14:00",
+      "last_updated": "04/08/2026 07:47",
+      "affected_streets": "Cisterna",
+      "discovered_at": "04/08/2026 10:32"
+    }
+  ]
 }
