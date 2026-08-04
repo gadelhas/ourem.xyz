@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T15:23:25.419957",
+  "last_updated": "2026-08-04T17:40:46.516491",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "04/08/2026 14:00",
       "restoration_datetime": "04/08/2026 18:00",
       "last_updated": "04/08/2026 13:06",
-      "affected_streets": "Rua Cacho- Fontainhas da Serra e ruas adjacentes",
-      "discovered_at": "04/08/2026 15:23"
+      "affected_streets": "Rua Cacho- Fontainhas da Serra e ruas adjacentes"
     }
   ]
 }
