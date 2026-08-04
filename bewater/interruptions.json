@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T10:32:05.071191",
+  "last_updated": "2026-08-04T12:56:38.107754",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "04/08/2026 10:30",
       "restoration_datetime": "04/08/2026 19:50",
       "last_updated": "04/08/2026 09:56",
-      "affected_streets": "Rua Principal- Carvalhal",
-      "discovered_at": "04/08/2026 10:32"
+      "affected_streets": "Rua Principal- Carvalhal"
     },
     {
       "id": "9447",
@@ -19,8 +18,7 @@
       "start_datetime": "04/08/2026 09:15",
       "restoration_datetime": "04/08/2026 14:00",
       "last_updated": "04/08/2026 07:47",
-      "affected_streets": "Cisterna",
-      "discovered_at": "04/08/2026 10:32"
+      "affected_streets": "Cisterna"
     }
   ]
 }
