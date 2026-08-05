@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-05T17:31:06.830473",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9455",
-      "type": "Não Programada",
-      "location": "Rua Carvoeira- Alburitel",
-      "start_datetime": "05/08/2026 13:10",
-      "restoration_datetime": "05/08/2026 18:30",
-      "last_updated": "05/08/2026 12:23",
-      "affected_streets": "Rua Carvoeira- Alburitel"
-    }
-  ]
+  "last_updated": "2026-08-05T18:32:19.635309",
+  "count": 0,
+  "interruptions": []
 }
