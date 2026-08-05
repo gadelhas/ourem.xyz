@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T20:30:39.964888",
+  "last_updated": "2026-08-05T21:26:05.847932",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "05/08/2026 20:45",
       "restoration_datetime": "05/08/2026 23:45",
       "last_updated": "05/08/2026 19:34",
-      "affected_streets": "Rua Pisões- Caxarias e ruas adjacentes",
-      "discovered_at": "05/08/2026 20:30"
+      "affected_streets": "Rua Pisões- Caxarias e ruas adjacentes"
     }
   ]
 }
