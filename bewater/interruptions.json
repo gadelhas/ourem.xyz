@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T09:32:34.175575",
-  "count": 4,
+  "last_updated": "2026-08-05T10:50:53.900486",
+  "count": 3,
   "interruptions": [
     {
       "id": "9454",
@@ -9,8 +9,7 @@
       "start_datetime": "05/08/2026 09:40",
       "restoration_datetime": "05/08/2026 14:00",
       "last_updated": "05/08/2026 08:50",
-      "affected_streets": "Favacal; Alqueidão",
-      "discovered_at": "05/08/2026 09:32"
+      "affected_streets": "Favacal; Alqueidão"
     },
     {
       "id": "9452",
@@ -19,8 +18,7 @@
       "start_datetime": "05/08/2026 09:00",
       "restoration_datetime": "05/08/2026 13:00",
       "last_updated": "05/08/2026 07:54",
-      "affected_streets": "Rua Povo Timor- Ourém; Rua do Centro de Saúde- Ourém e ruas adjacentes",
-      "discovered_at": "05/08/2026 09:32"
+      "affected_streets": "Rua Povo Timor- Ourém; Rua do Centro de Saúde- Ourém e ruas adjacentes"
     },
     {
       "id": "9453",
@@ -29,18 +27,7 @@
       "start_datetime": "05/08/2026 09:30",
       "restoration_datetime": "05/08/2026 13:00",
       "last_updated": "05/08/2026 07:55",
-      "affected_streets": "Estrada Nacional 356- Mosqueiro e ruas adjacentes",
-      "discovered_at": "05/08/2026 09:32"
-    },
-    {
-      "id": "9451",
-      "type": "Não Programada",
-      "location": "Rua Fontainhas- Canhardo",
-      "start_datetime": "05/08/2026 07:00",
-      "restoration_datetime": "05/08/2026 09:45",
-      "last_updated": "05/08/2026 06:25",
-      "affected_streets": "Rua Fontainhas- Canhardo",
-      "discovered_at": "05/08/2026 09:32"
+      "affected_streets": "Estrada Nacional 356- Mosqueiro e ruas adjacentes"
     }
   ]
 }
