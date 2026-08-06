@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T09:56:27.711904",
+  "last_updated": "2026-08-06T10:54:12.044368",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "06/08/2026 10:10",
       "restoration_datetime": "06/08/2026 13:10",
       "last_updated": "06/08/2026 09:11",
-      "affected_streets": "Rua Principal- Casal do Ribeiro e ruas adjacentes",
-      "discovered_at": "06/08/2026 09:56"
+      "affected_streets": "Rua Principal- Casal do Ribeiro e ruas adjacentes"
     }
   ]
 }
