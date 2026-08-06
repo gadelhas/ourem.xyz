@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-05T23:21:36.843518",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9456",
-      "type": "Não Programada",
-      "location": "Rua Pisões- Caxarias",
-      "start_datetime": "05/08/2026 20:45",
-      "restoration_datetime": "05/08/2026 23:45",
-      "last_updated": "05/08/2026 19:34",
-      "affected_streets": "Rua Pisões- Caxarias e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-08-06T00:26:31.494137",
+  "count": 0,
+  "interruptions": []
 }
