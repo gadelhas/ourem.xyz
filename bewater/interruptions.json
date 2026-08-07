@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-07T04:39:22.513314",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-07T05:31:54.706293",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9462",
+      "type": "Não Programada",
+      "location": "Travessa Dr. João Silva Neves Sousa Alvim- Ourém",
+      "start_datetime": "07/08/2026 06:15",
+      "restoration_datetime": "07/08/2026 09:30",
+      "last_updated": "07/08/2026 05:24",
+      "affected_streets": "Travessa Dr. João Silva Neves Sousa Alvim- Ourém",
+      "discovered_at": "07/08/2026 05:31"
+    }
+  ]
 }
