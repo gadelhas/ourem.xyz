@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T05:31:54.706293",
+  "last_updated": "2026-08-07T06:24:22.191907",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "07/08/2026 06:15",
       "restoration_datetime": "07/08/2026 09:30",
       "last_updated": "07/08/2026 05:24",
-      "affected_streets": "Travessa Dr. João Silva Neves Sousa Alvim- Ourém",
-      "discovered_at": "07/08/2026 05:31"
+      "affected_streets": "Travessa Dr. João Silva Neves Sousa Alvim- Ourém"
     }
   ]
 }
