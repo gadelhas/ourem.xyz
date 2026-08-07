@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T09:21:26.240175",
-  "count": 2,
+  "last_updated": "2026-08-07T10:18:46.992934",
+  "count": 1,
   "interruptions": [
     {
       "id": "9463",
@@ -9,17 +9,7 @@
       "start_datetime": "07/08/2026 09:30",
       "restoration_datetime": "07/08/2026 12:30",
       "last_updated": "07/08/2026 08:46",
-      "affected_streets": "Valada",
-      "discovered_at": "07/08/2026 09:21"
-    },
-    {
-      "id": "9462",
-      "type": "Não Programada",
-      "location": "Travessa Dr. João Silva Neves Sousa Alvim- Ourém",
-      "start_datetime": "07/08/2026 06:15",
-      "restoration_datetime": "07/08/2026 09:30",
-      "last_updated": "07/08/2026 05:24",
-      "affected_streets": "Travessa Dr. João Silva Neves Sousa Alvim- Ourém"
+      "affected_streets": "Valada"
     }
   ]
 }
