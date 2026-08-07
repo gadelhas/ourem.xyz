@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-07T16:17:22.311293",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-07T17:16:57.406881",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9464",
+      "type": "Não Programada",
+      "location": "Rua Moinhos - Cercal",
+      "start_datetime": "07/08/2026 18:00",
+      "restoration_datetime": "07/08/2026 21:00",
+      "last_updated": "07/08/2026 16:43",
+      "affected_streets": "Rua Moinhos - Cercal e ruas adjacentes",
+      "discovered_at": "07/08/2026 17:16"
+    }
+  ]
 }
