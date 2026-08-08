@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-08T16:07:24.996362",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9465",
-      "type": "Não Programada",
-      "location": "Cortes",
-      "start_datetime": "08/08/2026 10:15",
-      "restoration_datetime": "08/08/2026 16:15",
-      "last_updated": "08/08/2026 09:28",
-      "affected_streets": "Cortes; Barreira; Arieiro; Casal do Monte; Braga; Chã; Pinhal Carreira; Vale Ugreiro"
-    }
-  ]
+  "last_updated": "2026-08-08T17:08:40.051784",
+  "count": 0,
+  "interruptions": []
 }
