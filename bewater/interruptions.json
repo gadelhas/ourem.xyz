@@ -1,24 +1,5 @@
 {
-  "last_updated": "2026-08-10T12:16:22.032674",
-  "count": 2,
-  "interruptions": [
-    {
-      "id": "9467",
-      "type": "Não Programada",
-      "location": "Fontainhas da Serra",
-      "start_datetime": "10/08/2026 11:20",
-      "restoration_datetime": "10/08/2026 13:20",
-      "last_updated": "10/08/2026 10:32",
-      "affected_streets": "Fontainhas da Serra"
-    },
-    {
-      "id": "9466",
-      "type": "Não Programada",
-      "location": "Rua Escola- Barrocaria",
-      "start_datetime": "10/08/2026 07:00",
-      "restoration_datetime": "10/08/2026 13:00",
-      "last_updated": "10/08/2026 05:33",
-      "affected_streets": "Rua Escola- Barrocaria; Cercal"
-    }
-  ]
+  "last_updated": "2026-08-10T13:29:39.357416",
+  "count": 0,
+  "interruptions": []
 }
