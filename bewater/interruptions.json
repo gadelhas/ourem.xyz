@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-10T05:30:41.941012",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-10T06:28:27.233805",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9466",
+      "type": "Não Programada",
+      "location": "Rua Escola- Barrocaria",
+      "start_datetime": "10/08/2026 07:00",
+      "restoration_datetime": "10/08/2026 13:00",
+      "last_updated": "10/08/2026 05:33",
+      "affected_streets": "Rua Escola- Barrocaria; Cercal",
+      "discovered_at": "10/08/2026 06:28"
+    }
+  ]
 }
