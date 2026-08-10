@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-10T10:28:30.783912",
-  "count": 1,
+  "last_updated": "2026-08-10T11:23:13.881211",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9467",
+      "type": "Não Programada",
+      "location": "Fontainhas da Serra",
+      "start_datetime": "10/08/2026 11:20",
+      "restoration_datetime": "10/08/2026 13:20",
+      "last_updated": "10/08/2026 10:32",
+      "affected_streets": "Fontainhas da Serra",
+      "discovered_at": "10/08/2026 11:23"
+    },
     {
       "id": "9466",
       "type": "Não Programada",
