@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-11T05:24:31.869217",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-11T06:18:28.019523",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9468",
+      "type": "Não Programada",
+      "location": "Rua Bacelos - Giesteira",
+      "start_datetime": "11/08/2026 07:15",
+      "restoration_datetime": "11/08/2026 13:00",
+      "last_updated": "11/08/2026 05:28",
+      "affected_streets": "Rua Bacelos - Giesteira; Rua Charneca- Giesteira e ruas adjacentes",
+      "discovered_at": "11/08/2026 06:18"
+    }
+  ]
 }
