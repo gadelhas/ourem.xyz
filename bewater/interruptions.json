@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T02:52:33.876084",
+  "last_updated": "2026-08-12T03:43:59.362363",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "12/08/2026 03:00",
       "restoration_datetime": "12/08/2026 10:00",
       "last_updated": "12/08/2026 02:07",
-      "affected_streets": "Rua Pedro Pais Faria Couper- Caneiro; Outeiro das Matas; Matas",
-      "discovered_at": "12/08/2026 02:52"
+      "affected_streets": "Rua Pedro Pais Faria Couper- Caneiro; Outeiro das Matas; Matas"
     }
   ]
 }
