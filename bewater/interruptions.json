@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T12:16:59.782404",
-  "count": 2,
+  "last_updated": "2026-08-12T13:30:13.229731",
+  "count": 1,
   "interruptions": [
     {
       "id": "9472",
@@ -10,15 +10,6 @@
       "restoration_datetime": "12/08/2026 13:45",
       "last_updated": "12/08/2026 10:46",
       "affected_streets": "Tijolo; Mulher Morta; Quinta do Feto; Valaria; Beltroa"
-    },
-    {
-      "id": "9471",
-      "type": "Não Programada",
-      "location": "Rua Casal- Sobral",
-      "start_datetime": "12/08/2026 10:30",
-      "restoration_datetime": "12/08/2026 13:30",
-      "last_updated": "12/08/2026 09:27",
-      "affected_streets": "Rua Casal- Sobral e ruas adjacentes"
     }
   ]
 }
