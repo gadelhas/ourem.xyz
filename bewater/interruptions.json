@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-12T10:22:52.393930",
-  "count": 1,
+  "last_updated": "2026-08-12T11:16:50.785907",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9472",
+      "type": "Não Programada",
+      "location": "Tijolo",
+      "start_datetime": "12/08/2026 11:45",
+      "restoration_datetime": "12/08/2026 13:45",
+      "last_updated": "12/08/2026 10:46",
+      "affected_streets": "Tijolo; Mulher Morta; Quinta do Feto; Valaria; Beltroa",
+      "discovered_at": "12/08/2026 11:16"
+    },
     {
       "id": "9471",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "12/08/2026 10:30",
       "restoration_datetime": "12/08/2026 13:30",
       "last_updated": "12/08/2026 09:27",
-      "affected_streets": "Rua Casal- Sobral e ruas adjacentes",
-      "discovered_at": "12/08/2026 10:22"
+      "affected_streets": "Rua Casal- Sobral e ruas adjacentes"
     }
   ]
 }
