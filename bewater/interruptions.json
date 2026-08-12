@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T11:16:50.785907",
+  "last_updated": "2026-08-12T12:16:59.782404",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "12/08/2026 11:45",
       "restoration_datetime": "12/08/2026 13:45",
       "last_updated": "12/08/2026 10:46",
-      "affected_streets": "Tijolo; Mulher Morta; Quinta do Feto; Valaria; Beltroa",
-      "discovered_at": "12/08/2026 11:16"
+      "affected_streets": "Tijolo; Mulher Morta; Quinta do Feto; Valaria; Beltroa"
     },
     {
       "id": "9471",
