@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-13T18:18:41.525284",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9474",
-      "type": "Não Programada",
-      "location": "Travessa Carvalhais- Boleiros",
-      "start_datetime": "13/08/2026 12:00",
-      "restoration_datetime": "13/08/2026 19:00",
-      "last_updated": "13/08/2026 11:02",
-      "affected_streets": "Travessa Carvalhais- Boleiros e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-08-13T19:22:54.172186",
+  "count": 0,
+  "interruptions": []
 }
