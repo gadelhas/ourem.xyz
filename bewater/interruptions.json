@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-13T11:16:50.127398",
-  "count": 1,
+  "last_updated": "2026-08-13T12:17:25.386755",
+  "count": 2,
   "interruptions": [
     {
       "id": "9474",
@@ -9,8 +9,17 @@
       "start_datetime": "13/08/2026 12:00",
       "restoration_datetime": "13/08/2026 19:00",
       "last_updated": "13/08/2026 11:02",
-      "affected_streets": "Travessa Carvalhais- Boleiros e ruas adjacentes",
-      "discovered_at": "13/08/2026 11:16"
+      "affected_streets": "Travessa Carvalhais- Boleiros e ruas adjacentes"
+    },
+    {
+      "id": "9475",
+      "type": "Não Programada",
+      "location": "Rua São Francisco de Assis- Chã",
+      "start_datetime": "13/08/2026 12:00",
+      "restoration_datetime": "13/08/2026 18:00",
+      "last_updated": "13/08/2026 11:36",
+      "affected_streets": "Rua São Francisco de Assis- Chã e ruas adjacentes",
+      "discovered_at": "13/08/2026 12:17"
     }
   ]
 }
