@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-14T22:04:28.778484",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9476",
-      "type": "Não Programada",
-      "location": "Casaria",
-      "start_datetime": "14/08/2026 12:45",
-      "restoration_datetime": "14/08/2026 23:00",
-      "last_updated": "14/08/2026 11:58",
-      "affected_streets": "Casaria"
-    }
-  ]
+  "last_updated": "2026-08-14T23:04:52.964738",
+  "count": 0,
+  "interruptions": []
 }
