@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T13:28:36.236133",
-  "count": 1,
+  "last_updated": "2026-08-14T14:22:32.386641",
+  "count": 2,
   "interruptions": [
     {
       "id": "9476",
@@ -10,6 +10,16 @@
       "restoration_datetime": "14/08/2026 23:00",
       "last_updated": "14/08/2026 11:58",
       "affected_streets": "Casaria"
+    },
+    {
+      "id": "9477",
+      "type": "Não Programada",
+      "location": "Cercal",
+      "start_datetime": "14/08/2026 15:30",
+      "restoration_datetime": "14/08/2026 20:20",
+      "last_updated": "14/08/2026 14:17",
+      "affected_streets": "Cercal; Rua Escola- Barrocaria e ruas adjacentes",
+      "discovered_at": "14/08/2026 14:22"
     }
   ]
 }
