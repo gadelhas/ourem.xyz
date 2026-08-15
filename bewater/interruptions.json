@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-15T08:05:33.230962",
-  "count": 1,
+  "last_updated": "2026-08-15T09:07:03.850334",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9479",
+      "type": "Não Programada",
+      "location": "Carapita",
+      "start_datetime": "15/08/2026 09:15",
+      "restoration_datetime": "15/08/2026 18:25",
+      "last_updated": "15/08/2026 08:29",
+      "affected_streets": "Carapita; Hortas; Pereiras",
+      "discovered_at": "15/08/2026 09:07"
+    },
     {
       "id": "9478",
       "type": "Não Programada",
