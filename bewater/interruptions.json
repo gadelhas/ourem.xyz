@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T00:10:43.696699",
+  "last_updated": "2026-08-15T01:29:55.100024",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "14/08/2026 23:20",
       "restoration_datetime": "15/08/2026 10:30",
       "last_updated": "14/08/2026 23:10",
-      "affected_streets": "Rua Principal - Cercal e ruas adjacentes",
-      "discovered_at": "15/08/2026 00:10"
+      "affected_streets": "Rua Principal - Cercal e ruas adjacentes"
     }
   ]
 }
