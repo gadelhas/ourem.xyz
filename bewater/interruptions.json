@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-16T17:04:45.050345",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9483",
-      "type": "Não Programada",
-      "location": "Rua Nossa Senhora do Rosário - Cercal",
-      "start_datetime": "16/08/2026 14:20",
-      "restoration_datetime": "16/08/2026 17:30",
-      "last_updated": "16/08/2026 13:29",
-      "affected_streets": "Rua Nossa Senhora do Rosário - Cercal e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-08-16T18:04:04.181291",
+  "count": 0,
+  "interruptions": []
 }
