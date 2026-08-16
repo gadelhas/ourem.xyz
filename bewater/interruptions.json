@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T00:11:03.506474",
+  "last_updated": "2026-08-16T01:30:30.032887",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/08/2026 01:00",
       "restoration_datetime": "16/08/2026 11:00",
       "last_updated": "15/08/2026 23:42",
-      "affected_streets": "Rua Meio - Cercal; Rua Nossa Senhora do Rosário - Cercal",
-      "discovered_at": "16/08/2026 00:11"
+      "affected_streets": "Rua Meio - Cercal; Rua Nossa Senhora do Rosário - Cercal"
     }
   ]
 }
