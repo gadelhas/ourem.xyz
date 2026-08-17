@@ -1,5 +1,36 @@
 {
-  "last_updated": "2026-08-17T16:05:35.308983",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-17T17:07:31.368164",
+  "count": 3,
+  "interruptions": [
+    {
+      "id": "9485",
+      "type": "Programada",
+      "location": "Rua Arroteia- Lagoa Furadouro",
+      "start_datetime": "20/08/2026 14:00",
+      "restoration_datetime": "20/08/2026 18:00",
+      "last_updated": "17/08/2026 16:51",
+      "affected_streets": "Rua Arroteia- Lagoa Furadouro e ruas adjacentes",
+      "discovered_at": "17/08/2026 17:07"
+    },
+    {
+      "id": "9486",
+      "type": "Programada",
+      "location": "Rua Padre Gens- Lagoa Furadouro",
+      "start_datetime": "20/08/2026 09:00",
+      "restoration_datetime": "20/08/2026 13:00",
+      "last_updated": "17/08/2026 16:53",
+      "affected_streets": "Rua Padre Gens- Lagoa Furadouro; Rua Dom Nuno Álvares Pereira- Lagoa Furadouro; Largo Oliveiras- Lagoa Furadouro e ruas adjacentes",
+      "discovered_at": "17/08/2026 17:07"
+    },
+    {
+      "id": "9487",
+      "type": "Não Programada",
+      "location": "Rua Centro- Vales",
+      "start_datetime": "17/08/2026 16:30",
+      "restoration_datetime": "17/08/2026 20:00",
+      "last_updated": "17/08/2026 17:03",
+      "affected_streets": "Rua Centro- Vales e ruas adjacentes",
+      "discovered_at": "17/08/2026 17:07"
+    }
+  ]
 }

@@ -351,3 +351,6 @@ id,type,location,start_datetime,restoration_datetime,last_updated,affected_stree
 9482,Não Programada,Rua Bairro da Encarnação- Alveijar,16/08/2026 08:50,16/08/2026 15:00,16/08/2026 08:05,Rua Bairro da Encarnação- Alveijar e ruas adjacentes,16/08/2026 08:05
 9483,Não Programada,Rua Nossa Senhora do Rosário - Cercal,16/08/2026 14:20,16/08/2026 17:30,16/08/2026 13:29,Rua Nossa Senhora do Rosário - Cercal e ruas adjacentes,16/08/2026 14:05
 9484,Não Programada,Rua Nossa Senhora da Graça- Sobral,17/08/2026 04:00,17/08/2026 12:00,17/08/2026 02:36,Rua Nossa Senhora da Graça- Sobral e ruas adjacentes,17/08/2026 03:19
+9485,Programada,Rua Arroteia- Lagoa Furadouro,20/08/2026 14:00,20/08/2026 18:00,17/08/2026 16:51,Rua Arroteia- Lagoa Furadouro e ruas adjacentes,17/08/2026 17:07
+9486,Programada,Rua Padre Gens- Lagoa Furadouro,20/08/2026 09:00,20/08/2026 13:00,17/08/2026 16:53,Rua Padre Gens- Lagoa Furadouro; Rua Dom Nuno Álvares Pereira- Lagoa Furadouro; Largo Oliveiras- Lagoa Furadouro e ruas adjacentes,17/08/2026 17:07
+9487,Não Programada,Rua Centro- Vales,17/08/2026 16:30,17/08/2026 20:00,17/08/2026 17:03,Rua Centro- Vales e ruas adjacentes,17/08/2026 17:07
