@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T03:19:42.427499",
+  "last_updated": "2026-08-17T04:15:11.885974",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "17/08/2026 04:00",
       "restoration_datetime": "17/08/2026 12:00",
       "last_updated": "17/08/2026 02:36",
-      "affected_streets": "Rua Nossa Senhora da Graça- Sobral e ruas adjacentes",
-      "discovered_at": "17/08/2026 03:19"
+      "affected_streets": "Rua Nossa Senhora da Graça- Sobral e ruas adjacentes"
     }
   ]
 }
