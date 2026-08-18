@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T05:09:02.996285",
+  "last_updated": "2026-08-18T06:08:34.055511",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "18/08/2026 04:45",
       "restoration_datetime": "18/08/2026 10:30",
       "last_updated": "18/08/2026 04:29",
-      "affected_streets": "Rua Capucho- Capucho; Mossomodia; Pedreira; Valinho e ruas adjacentes",
-      "discovered_at": "18/08/2026 05:09"
+      "affected_streets": "Rua Capucho- Capucho; Mossomodia; Pedreira; Valinho e ruas adjacentes"
     }
   ]
 }
