@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T10:06:59.868548",
-  "count": 4,
+  "last_updated": "2026-08-18T11:06:49.214961",
+  "count": 3,
   "interruptions": [
     {
       "id": "9485",
@@ -27,17 +27,7 @@
       "start_datetime": "18/08/2026 10:10",
       "restoration_datetime": "18/08/2026 13:20",
       "last_updated": "18/08/2026 09:17",
-      "affected_streets": "Atouguia; Zambujal; Pinhel; Melroeira; São Sebastião; Casal Novo",
-      "discovered_at": "18/08/2026 10:06"
-    },
-    {
-      "id": "9488",
-      "type": "Não Programada",
-      "location": "Rua Capucho- Capucho",
-      "start_datetime": "18/08/2026 04:45",
-      "restoration_datetime": "18/08/2026 10:30",
-      "last_updated": "18/08/2026 04:29",
-      "affected_streets": "Rua Capucho- Capucho; Mossomodia; Pedreira; Valinho e ruas adjacentes"
+      "affected_streets": "Atouguia; Zambujal; Pinhel; Melroeira; São Sebastião; Casal Novo"
     }
   ]
 }
