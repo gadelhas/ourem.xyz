@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T18:07:34.446406",
+  "last_updated": "2026-08-18T19:11:25.843706",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "18/08/2026 18:30",
       "restoration_datetime": "18/08/2026 20:15",
       "last_updated": "18/08/2026 17:15",
-      "affected_streets": "Rua Barroquinha- Barroquinha",
-      "discovered_at": "18/08/2026 18:07"
+      "affected_streets": "Rua Barroquinha- Barroquinha"
     }
   ]
 }
