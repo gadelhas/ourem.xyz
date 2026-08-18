@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T17:07:32.290972",
-  "count": 2,
+  "last_updated": "2026-08-18T18:07:34.446406",
+  "count": 3,
   "interruptions": [
     {
       "id": "9485",
@@ -19,6 +19,16 @@
       "restoration_datetime": "20/08/2026 13:00",
       "last_updated": "17/08/2026 16:53",
       "affected_streets": "Rua Padre Gens- Lagoa Furadouro; Rua Dom Nuno Álvares Pereira- Lagoa Furadouro; Largo Oliveiras- Lagoa Furadouro e ruas adjacentes"
+    },
+    {
+      "id": "9490",
+      "type": "Não Programada",
+      "location": "Rua Barroquinha- Barroquinha",
+      "start_datetime": "18/08/2026 18:30",
+      "restoration_datetime": "18/08/2026 20:15",
+      "last_updated": "18/08/2026 17:15",
+      "affected_streets": "Rua Barroquinha- Barroquinha",
+      "discovered_at": "18/08/2026 18:07"
     }
   ]
 }
