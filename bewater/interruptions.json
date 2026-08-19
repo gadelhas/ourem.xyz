@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T16:06:56.057784",
+  "last_updated": "2026-08-19T17:06:51.173640",
   "count": 4,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "19/08/2026 15:45",
       "restoration_datetime": "19/08/2026 19:45",
       "last_updated": "19/08/2026 15:14",
-      "affected_streets": "Rua Alvaro Teles - Alburitel e ruas adjacentes",
-      "discovered_at": "19/08/2026 16:06"
+      "affected_streets": "Rua Alvaro Teles - Alburitel e ruas adjacentes"
     },
     {
       "id": "9492",
