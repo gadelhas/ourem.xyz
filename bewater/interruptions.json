@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T10:07:12.867857",
+  "last_updated": "2026-08-19T11:06:28.711349",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "19/08/2026 09:00",
       "restoration_datetime": "19/08/2026 16:00",
       "last_updated": "19/08/2026 09:12",
-      "affected_streets": "Fartaria; Gondemaria; Areias; Barroquinha",
-      "discovered_at": "19/08/2026 10:07"
+      "affected_streets": "Fartaria; Gondemaria; Areias; Barroquinha"
     }
   ]
 }
