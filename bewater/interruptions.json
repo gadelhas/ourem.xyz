@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T07:17:11.698931",
+  "last_updated": "2026-08-20T08:11:44.980642",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "20/08/2026 07:00",
       "restoration_datetime": "20/08/2026 10:30",
       "last_updated": "20/08/2026 06:52",
-      "affected_streets": "Faletia; Lameirinha; Barreira; Marta",
-      "discovered_at": "20/08/2026 07:17"
+      "affected_streets": "Faletia; Lameirinha; Barreira; Marta"
     }
   ]
 }
