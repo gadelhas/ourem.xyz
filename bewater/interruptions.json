@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-08-20T20:06:35.111736",
+  "last_updated": "2026-08-20T21:07:34.224658",
   "count": 1,
   "interruptions": [
     {
-      "id": "9496",
+      "id": "9497",
       "type": "Não Programada",
-      "location": "Estrada Principal- Alqueidão",
-      "start_datetime": "20/08/2026 16:40",
-      "restoration_datetime": "20/08/2026 20:50",
-      "last_updated": "20/08/2026 15:48",
-      "affected_streets": "Estrada Principal- Alqueidão e ruas adjacentes"
+      "location": "Rua Moinhos - Cercal",
+      "start_datetime": "20/08/2026 21:10",
+      "restoration_datetime": "20/08/2026 23:15",
+      "last_updated": "20/08/2026 20:14",
+      "affected_streets": "Rua Moinhos - Cercal e ruas adjacentes",
+      "discovered_at": "20/08/2026 21:07"
     }
   ]
 }
