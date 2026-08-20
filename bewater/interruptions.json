@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T16:08:04.598456",
+  "last_updated": "2026-08-20T17:08:26.515299",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "20/08/2026 16:40",
       "restoration_datetime": "20/08/2026 20:50",
       "last_updated": "20/08/2026 15:48",
-      "affected_streets": "Estrada Principal- Alqueidão e ruas adjacentes",
-      "discovered_at": "20/08/2026 16:08"
+      "affected_streets": "Estrada Principal- Alqueidão e ruas adjacentes"
     },
     {
       "id": "9485",
