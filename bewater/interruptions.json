@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T11:06:50.487441",
+  "last_updated": "2026-08-21T12:07:51.220889",
   "count": 3,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "21/08/2026 11:23",
       "restoration_datetime": "21/08/2026 18:23",
       "last_updated": "21/08/2026 10:23",
-      "affected_streets": "Rua Dom Afonso Henriques- Caxarias",
-      "discovered_at": "21/08/2026 11:06"
+      "affected_streets": "Rua Dom Afonso Henriques- Caxarias"
     },
     {
       "id": "9499",
