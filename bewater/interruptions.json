@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-21T06:09:35.585939",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-21T07:17:52.000062",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9498",
+      "type": "Não Programada",
+      "location": "Rua Soalheira- Campina",
+      "start_datetime": "21/08/2026 07:00",
+      "restoration_datetime": "21/08/2026 11:00",
+      "last_updated": "21/08/2026 07:10",
+      "affected_streets": "Rua Soalheira- Campina e ruas adjacentes",
+      "discovered_at": "21/08/2026 07:17"
+    }
+  ]
 }
