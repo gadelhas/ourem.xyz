@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T16:07:28.693182",
+  "last_updated": "2026-08-21T17:08:10.899158",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "21/08/2026 20:42",
       "restoration_datetime": "21/08/2026 23:59",
       "last_updated": "21/08/2026 15:44",
-      "affected_streets": "Caxarias; Vendas; Pontes; Pisões; Carvoeira; Cavadinha; Castelo",
-      "discovered_at": "21/08/2026 16:07"
+      "affected_streets": "Caxarias; Vendas; Pontes; Pisões; Carvoeira; Cavadinha; Castelo"
     }
   ]
 }
