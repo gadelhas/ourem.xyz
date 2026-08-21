@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T22:04:34.422671",
+  "last_updated": "2026-08-21T23:05:50.450839",
   "count": 2,
   "interruptions": [
     {
@@ -7,8 +7,8 @@
       "type": "Não Programada",
       "location": "Rua Dom Afonso Henriques- Caxarias",
       "start_datetime": "21/08/2026 11:23",
-      "restoration_datetime": "21/08/2026 23:59",
-      "last_updated": "21/08/2026 15:37",
+      "restoration_datetime": "22/08/2026 12:59",
+      "last_updated": "21/08/2026 23:02",
       "affected_streets": "Rua Dom Afonso Henriques- Caxarias"
     },
     {
