@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-21T08:12:27.151552",
-  "count": 1,
+  "last_updated": "2026-08-21T09:12:56.926998",
+  "count": 3,
   "interruptions": [
+    {
+      "id": "9499",
+      "type": "Não Programada",
+      "location": "Favacal",
+      "start_datetime": "21/08/2026 09:38",
+      "restoration_datetime": "21/08/2026 15:38",
+      "last_updated": "21/08/2026 08:38",
+      "affected_streets": "Favacal; Alqueidão",
+      "discovered_at": "21/08/2026 09:12"
+    },
+    {
+      "id": "9500",
+      "type": "Não Programada",
+      "location": "Rua Amieiros - Cercal",
+      "start_datetime": "21/08/2026 09:39",
+      "restoration_datetime": "21/08/2026 14:39",
+      "last_updated": "21/08/2026 08:40",
+      "affected_streets": "Rua Amieiros - Cercal",
+      "discovered_at": "21/08/2026 09:12"
+    },
     {
       "id": "9498",
       "type": "Não Programada",
