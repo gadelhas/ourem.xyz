@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-22T22:03:39.225459",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-22T23:04:06.950520",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9503",
+      "type": "Não Programada",
+      "location": "Valinho",
+      "start_datetime": "23/08/2026 00:00",
+      "restoration_datetime": "23/08/2026 11:30",
+      "last_updated": "22/08/2026 23:02",
+      "affected_streets": "Valinho",
+      "discovered_at": "22/08/2026 23:04"
+    }
+  ]
 }
