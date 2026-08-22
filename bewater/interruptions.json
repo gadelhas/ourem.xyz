@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-21T23:05:50.450839",
-  "count": 2,
+  "last_updated": "2026-08-22T00:10:45.900849",
+  "count": 1,
   "interruptions": [
     {
       "id": "9501",
@@ -10,15 +10,6 @@
       "restoration_datetime": "22/08/2026 12:59",
       "last_updated": "21/08/2026 23:02",
       "affected_streets": "Rua Dom Afonso Henriques- Caxarias"
-    },
-    {
-      "id": "9502",
-      "type": "Não Programada",
-      "location": "Caxarias",
-      "start_datetime": "21/08/2026 20:42",
-      "restoration_datetime": "21/08/2026 23:59",
-      "last_updated": "21/08/2026 15:44",
-      "affected_streets": "Caxarias; Vendas; Pontes; Pisões; Carvoeira; Cavadinha; Castelo"
     }
   ]
 }
