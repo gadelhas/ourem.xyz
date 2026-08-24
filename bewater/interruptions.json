@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-24T06:13:02.919594",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-24T07:24:05.243965",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9504",
+      "type": "Não Programada",
+      "location": "Valada",
+      "start_datetime": "24/08/2026 07:00",
+      "restoration_datetime": "24/08/2026 11:00",
+      "last_updated": "24/08/2026 06:52",
+      "affected_streets": "Valada",
+      "discovered_at": "24/08/2026 07:24"
+    }
+  ]
 }
