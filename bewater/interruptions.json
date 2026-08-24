@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-24T14:14:55.820400",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9505",
-      "type": "Não Programada",
-      "location": "Peras Ruivas",
-      "start_datetime": "24/08/2026 10:43",
-      "restoration_datetime": "24/08/2026 14:43",
-      "last_updated": "24/08/2026 09:43",
-      "affected_streets": "Peras Ruivas"
-    }
-  ]
+  "last_updated": "2026-08-24T15:14:16.013894",
+  "count": 0,
+  "interruptions": []
 }
