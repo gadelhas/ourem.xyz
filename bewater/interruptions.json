@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-25T17:10:46.039885",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-25T18:08:29.689652",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9507",
+      "type": "Não Programada",
+      "location": "Casal do Monte",
+      "start_datetime": "25/08/2026 18:00",
+      "restoration_datetime": "25/08/2026 23:30",
+      "last_updated": "25/08/2026 17:18",
+      "affected_streets": "Casal do Monte; Braga",
+      "discovered_at": "25/08/2026 18:08"
+    }
+  ]
 }
