@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-25T09:13:06.788606",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-25T10:08:16.367532",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9506",
+      "type": "Não Programada",
+      "location": "Rua Carvalhos- Casal do Monte",
+      "start_datetime": "25/08/2026 10:40",
+      "restoration_datetime": "25/08/2026 14:40",
+      "last_updated": "25/08/2026 09:40",
+      "affected_streets": "Rua Carvalhos- Casal do Monte",
+      "discovered_at": "25/08/2026 10:08"
+    }
+  ]
 }
