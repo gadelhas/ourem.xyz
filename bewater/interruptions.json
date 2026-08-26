@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-26T05:10:57.622358",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-26T06:10:14.104394",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9508",
+      "type": "Não Programada",
+      "location": "Seiça",
+      "start_datetime": "26/08/2026 04:40",
+      "restoration_datetime": "26/08/2026 12:00",
+      "last_updated": "26/08/2026 05:23",
+      "affected_streets": "Seiça",
+      "discovered_at": "26/08/2026 06:10"
+    }
+  ]
 }
