@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T14:15:26.057492",
+  "last_updated": "2026-08-26T15:47:45.918545",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "26/08/2026 14:30",
       "restoration_datetime": "26/08/2026 18:30",
       "last_updated": "26/08/2026 13:49",
-      "affected_streets": "Rua Professor Pimentel- Seiça e ruas adjacentes",
-      "discovered_at": "26/08/2026 14:15"
+      "affected_streets": "Rua Professor Pimentel- Seiça e ruas adjacentes"
     },
     {
       "id": "9508",
