@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T18:37:34.787568",
-  "count": 2,
+  "last_updated": "2026-08-26T19:33:47.205096",
+  "count": 1,
   "interruptions": [
     {
       "id": "9511",
@@ -9,17 +9,7 @@
       "start_datetime": "26/08/2026 19:15",
       "restoration_datetime": "26/08/2026 21:45",
       "last_updated": "26/08/2026 18:32",
-      "affected_streets": "Toucinhos",
-      "discovered_at": "26/08/2026 18:37"
-    },
-    {
-      "id": "9510",
-      "type": "Não Programada",
-      "location": "Rua Olaria- Ourém",
-      "start_datetime": "26/08/2026 16:00",
-      "restoration_datetime": "26/08/2026 19:00",
-      "last_updated": "26/08/2026 15:48",
-      "affected_streets": "Rua Olaria- Ourém"
+      "affected_streets": "Toucinhos"
     }
   ]
 }
