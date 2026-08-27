@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T10:16:53.760608",
+  "last_updated": "2026-08-27T14:40:33.946345",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "27/08/2026 11:10",
       "restoration_datetime": "27/08/2026 17:15",
       "last_updated": "27/08/2026 10:13",
-      "affected_streets": "Rua Água Má- Casal de Baixo; Travessa Água Má- Casal de Baixo; Rua Principal- Casal de Baixo e ruas adjacentes",
-      "discovered_at": "27/08/2026 10:16"
+      "affected_streets": "Rua Água Má- Casal de Baixo; Travessa Água Má- Casal de Baixo; Rua Principal- Casal de Baixo e ruas adjacentes"
     }
   ]
 }
