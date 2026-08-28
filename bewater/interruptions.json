@@ -1,16 +1,25 @@
 {
-  "last_updated": "2026-08-28T07:34:31.819455",
-  "count": 1,
+  "last_updated": "2026-08-28T11:49:21.337310",
+  "count": 2,
   "interruptions": [
     {
       "id": "9514",
       "type": "Não Programada",
       "location": "Urqueira",
       "start_datetime": "28/08/2026 08:29",
-      "restoration_datetime": "28/08/2026 15:29",
-      "last_updated": "28/08/2026 07:31",
-      "affected_streets": "Urqueira; Mata; Amieira",
-      "discovered_at": "28/08/2026 07:34"
+      "restoration_datetime": "28/08/2026 17:00",
+      "last_updated": "28/08/2026 10:33",
+      "affected_streets": "Urqueira; Mata; Amieira; Vale das Antas; Pederneira; Resouro"
+    },
+    {
+      "id": "9515",
+      "type": "Não Programada",
+      "location": "Alburitel",
+      "start_datetime": "28/08/2026 11:00",
+      "restoration_datetime": "28/08/2026 14:00",
+      "last_updated": "28/08/2026 10:14",
+      "affected_streets": "Alburitel",
+      "discovered_at": "28/08/2026 11:49"
     }
   ]
 }
