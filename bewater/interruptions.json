@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T20:52:19.489022",
+  "last_updated": "2026-08-28T22:06:03.779152",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "28/08/2026 18:15",
       "restoration_datetime": "28/08/2026 23:45",
       "last_updated": "28/08/2026 20:32",
-      "affected_streets": "Valinho",
-      "discovered_at": "28/08/2026 20:52"
+      "affected_streets": "Valinho"
     },
     {
       "id": "9516",
@@ -19,8 +18,7 @@
       "start_datetime": "28/08/2026 17:15",
       "restoration_datetime": "28/08/2026 22:15",
       "last_updated": "28/08/2026 20:33",
-      "affected_streets": "Rua 1º Dezembro- Ourém",
-      "discovered_at": "28/08/2026 20:52"
+      "affected_streets": "Rua 1º Dezembro- Ourém"
     }
   ]
 }
