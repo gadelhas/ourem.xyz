@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-30T17:05:44.198964",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9519",
-      "type": "Não Programada",
-      "location": "Travessa Brejinho- Rio de Couros",
-      "start_datetime": "30/08/2026 13:13",
-      "restoration_datetime": "30/08/2026 17:13",
-      "last_updated": "30/08/2026 12:14",
-      "affected_streets": "Travessa Brejinho- Rio de Couros"
-    }
-  ]
+  "last_updated": "2026-08-30T18:08:38.094111",
+  "count": 0,
+  "interruptions": []
 }
