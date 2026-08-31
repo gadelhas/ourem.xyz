@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-08-31T15:08:02.360475",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-08-31T16:08:25.091108",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9522",
+      "type": "Não Programada",
+      "location": "Alqueidão",
+      "start_datetime": "31/08/2026 17:00",
+      "restoration_datetime": "31/08/2026 22:00",
+      "last_updated": "31/08/2026 16:07",
+      "affected_streets": "Alqueidão; Favacal",
+      "discovered_at": "31/08/2026 16:08"
+    }
+  ]
 }
