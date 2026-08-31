@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-08-31T14:09:08.741045",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9521",
-      "type": "Não Programada",
-      "location": "Barrocaria",
-      "start_datetime": "31/08/2026 09:30",
-      "restoration_datetime": "31/08/2026 14:30",
-      "last_updated": "31/08/2026 12:25",
-      "affected_streets": "Barrocaria; Vales; Cercal; Ninho de Águia"
-    }
-  ]
+  "last_updated": "2026-08-31T15:08:02.360475",
+  "count": 0,
+  "interruptions": []
 }
