@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T08:12:49.359544",
+  "last_updated": "2026-08-31T09:11:42.042629",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "31/08/2026 09:30",
       "restoration_datetime": "31/08/2026 12:30",
       "last_updated": "31/08/2026 08:01",
-      "affected_streets": "Barrocaria; Vales; Cercal; Ninho de Águia",
-      "discovered_at": "31/08/2026 08:12"
+      "affected_streets": "Barrocaria; Vales; Cercal; Ninho de Águia"
     },
     {
       "id": "9520",
