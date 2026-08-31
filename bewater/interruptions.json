@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-31T21:07:14.601479",
-  "count": 2,
+  "last_updated": "2026-08-31T22:07:11.707488",
+  "count": 1,
   "interruptions": [
     {
       "id": "9524",
@@ -10,15 +10,6 @@
       "restoration_datetime": "31/08/2026 23:30",
       "last_updated": "31/08/2026 18:29",
       "affected_streets": "Trav. São Miguel- Balancho e ruas adjacentes"
-    },
-    {
-      "id": "9522",
-      "type": "Não Programada",
-      "location": "Alqueidão",
-      "start_datetime": "31/08/2026 17:00",
-      "restoration_datetime": "31/08/2026 22:00",
-      "last_updated": "31/08/2026 16:07",
-      "affected_streets": "Alqueidão; Favacal"
     }
   ]
 }
