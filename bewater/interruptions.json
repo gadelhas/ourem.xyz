@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T19:06:12.543935",
+  "last_updated": "2026-08-31T20:07:57.438042",
   "count": 3,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "31/08/2026 19:30",
       "restoration_datetime": "31/08/2026 23:30",
       "last_updated": "31/08/2026 18:29",
-      "affected_streets": "Trav. São Miguel- Balancho e ruas adjacentes",
-      "discovered_at": "31/08/2026 19:06"
+      "affected_streets": "Trav. São Miguel- Balancho e ruas adjacentes"
     },
     {
       "id": "9522",
