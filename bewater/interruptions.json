@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T17:06:55.361567",
+  "last_updated": "2026-08-31T18:09:55.534535",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "31/08/2026 17:35",
       "restoration_datetime": "31/08/2026 21:00",
       "last_updated": "31/08/2026 16:43",
-      "affected_streets": "Travessa Brejinho- Rio de Couros e ruas adjacentes",
-      "discovered_at": "31/08/2026 17:06"
+      "affected_streets": "Travessa Brejinho- Rio de Couros e ruas adjacentes"
     }
   ]
 }
