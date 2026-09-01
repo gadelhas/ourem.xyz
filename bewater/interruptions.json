@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-09-01T11:07:24.952933",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9525",
-      "type": "Não Programada",
-      "location": "Rua Centro- Vales",
-      "start_datetime": "31/08/2026 23:50",
-      "restoration_datetime": "01/09/2026 12:00",
-      "last_updated": "31/08/2026 23:09",
-      "affected_streets": "Rua Centro- Vales e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-09-01T12:12:15.001061",
+  "count": 0,
+  "interruptions": []
 }
