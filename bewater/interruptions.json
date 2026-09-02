@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T15:10:34.590090",
+  "last_updated": "2026-09-02T16:09:18.888971",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "02/09/2026 13:15",
       "restoration_datetime": "02/09/2026 18:30",
       "last_updated": "02/09/2026 14:29",
-      "affected_streets": "Rua Eirinha- Sobral e ruas adjacentes",
-      "discovered_at": "02/09/2026 15:10"
+      "affected_streets": "Rua Eirinha- Sobral e ruas adjacentes"
     }
   ]
 }
