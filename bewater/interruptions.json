@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-02T10:08:56.570554",
-  "count": 1,
+  "last_updated": "2026-09-02T11:07:20.476342",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9527",
+      "type": "Não Programada",
+      "location": "Barrocaria",
+      "start_datetime": "02/09/2026 10:30",
+      "restoration_datetime": "02/09/2026 15:00",
+      "last_updated": "02/09/2026 10:43",
+      "affected_streets": "Barrocaria; Vales; Cercal",
+      "discovered_at": "02/09/2026 11:07"
+    },
     {
       "id": "9526",
       "type": "Não Programada",
