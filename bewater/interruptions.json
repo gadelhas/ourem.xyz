@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-09-02T14:08:06.060059",
+  "last_updated": "2026-09-02T15:10:34.590090",
   "count": 1,
   "interruptions": [
     {
-      "id": "9527",
+      "id": "9528",
       "type": "Não Programada",
-      "location": "Barrocaria",
-      "start_datetime": "02/09/2026 10:30",
-      "restoration_datetime": "02/09/2026 15:00",
-      "last_updated": "02/09/2026 10:43",
-      "affected_streets": "Barrocaria; Vales; Cercal"
+      "location": "Rua Eirinha- Sobral",
+      "start_datetime": "02/09/2026 13:15",
+      "restoration_datetime": "02/09/2026 18:30",
+      "last_updated": "02/09/2026 14:29",
+      "affected_streets": "Rua Eirinha- Sobral e ruas adjacentes",
+      "discovered_at": "02/09/2026 15:10"
     }
   ]
 }
