@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T05:07:43.834439",
+  "last_updated": "2026-09-02T06:18:13.147127",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "02/09/2026 05:30",
       "restoration_datetime": "02/09/2026 13:30",
       "last_updated": "02/09/2026 04:58",
-      "affected_streets": "Rua Luis Camões- Ourém; Rua António Pereira Afonso- Ourém; Travessa 10 Junho- Ourém",
-      "discovered_at": "02/09/2026 05:07"
+      "affected_streets": "Rua Luis Camões- Ourém; Rua António Pereira Afonso- Ourém; Travessa 10 Junho- Ourém"
     }
   ]
 }
