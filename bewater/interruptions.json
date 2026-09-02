@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-02T22:07:40.144923",
-  "count": 1,
+  "last_updated": "2026-09-02T23:06:51.288472",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9530",
+      "type": "Não Programada",
+      "location": "Rua Ribeiro- Matos",
+      "start_datetime": "02/09/2026 23:15",
+      "restoration_datetime": "03/09/2026 10:15",
+      "last_updated": "02/09/2026 22:39",
+      "affected_streets": "Rua Ribeiro- Matos",
+      "discovered_at": "02/09/2026 23:06"
+    },
     {
       "id": "9529",
       "type": "Não Programada",
