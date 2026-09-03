@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T00:22:44.785740",
-  "count": 1,
+  "last_updated": "2026-09-03T01:23:55.623742",
+  "count": 2,
   "interruptions": [
     {
       "id": "9530",
@@ -10,6 +10,16 @@
       "restoration_datetime": "03/09/2026 10:15",
       "last_updated": "02/09/2026 22:39",
       "affected_streets": "Rua Ribeiro- Matos"
+    },
+    {
+      "id": "9531",
+      "type": "Não Programada",
+      "location": "Rua Cedros- Casal dos Matos",
+      "start_datetime": "03/09/2026 02:05",
+      "restoration_datetime": "03/09/2026 09:05",
+      "last_updated": "03/09/2026 01:16",
+      "affected_streets": "Rua Cedros- Casal dos Matos",
+      "discovered_at": "03/09/2026 01:23"
     }
   ]
 }
