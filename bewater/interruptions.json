@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-09-03T20:07:15.996444",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9534",
-      "type": "Não Programada",
-      "location": "Cardeais",
-      "start_datetime": "03/09/2026 15:05",
-      "restoration_datetime": "03/09/2026 20:20",
-      "last_updated": "03/09/2026 14:20",
-      "affected_streets": "Cardeais; Santarém dos Tojos"
-    }
-  ]
+  "last_updated": "2026-09-03T21:07:24.476616",
+  "count": 0,
+  "interruptions": []
 }
