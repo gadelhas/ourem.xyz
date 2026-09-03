@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-03T14:08:53.720030",
+  "last_updated": "2026-09-03T15:08:06.915721",
   "count": 2,
   "interruptions": [
+    {
+      "id": "9534",
+      "type": "Não Programada",
+      "location": "Cardeais",
+      "start_datetime": "03/09/2026 15:05",
+      "restoration_datetime": "03/09/2026 20:20",
+      "last_updated": "03/09/2026 14:20",
+      "affected_streets": "Cardeais; Santarém dos Tojos",
+      "discovered_at": "03/09/2026 15:08"
+    },
     {
       "id": "9533",
       "type": "Não Programada",
@@ -10,15 +20,6 @@
       "restoration_datetime": "03/09/2026 17:15",
       "last_updated": "03/09/2026 11:09",
       "affected_streets": "Giesteira"
-    },
-    {
-      "id": "9532",
-      "type": "Não Programada",
-      "location": "Capucho",
-      "start_datetime": "03/09/2026 11:45",
-      "restoration_datetime": "03/09/2026 15:00",
-      "last_updated": "03/09/2026 10:51",
-      "affected_streets": "Capucho; Pedreira; Valinho"
     }
   ]
 }
