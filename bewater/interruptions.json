@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T01:23:55.623742",
+  "last_updated": "2026-09-03T02:16:21.115299",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "03/09/2026 02:05",
       "restoration_datetime": "03/09/2026 09:05",
       "last_updated": "03/09/2026 01:16",
-      "affected_streets": "Rua Cedros- Casal dos Matos",
-      "discovered_at": "03/09/2026 01:23"
+      "affected_streets": "Rua Cedros- Casal dos Matos"
     }
   ]
 }
