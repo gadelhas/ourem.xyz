@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-09-04T08:10:50.310766",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-09-04T09:08:58.142769",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9535",
+      "type": "Não Programada",
+      "location": "Soutaria",
+      "start_datetime": "04/09/2026 09:05",
+      "restoration_datetime": "04/09/2026 15:00",
+      "last_updated": "04/09/2026 08:22",
+      "affected_streets": "Soutaria; Montalto; Ventilharia; Quinta da Granja; Cardal; Tomareis; Casal da Bica; Folgado; Calçada; Cidral; Gondemaria; Areias",
+      "discovered_at": "04/09/2026 09:08"
+    }
+  ]
 }
