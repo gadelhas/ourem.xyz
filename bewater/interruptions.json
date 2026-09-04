@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T09:08:58.142769",
+  "last_updated": "2026-09-04T10:08:12.211016",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "04/09/2026 09:05",
       "restoration_datetime": "04/09/2026 15:00",
       "last_updated": "04/09/2026 08:22",
-      "affected_streets": "Soutaria; Montalto; Ventilharia; Quinta da Granja; Cardal; Tomareis; Casal da Bica; Folgado; Calçada; Cidral; Gondemaria; Areias",
-      "discovered_at": "04/09/2026 09:08"
+      "affected_streets": "Soutaria; Montalto; Ventilharia; Quinta da Granja; Cardal; Tomareis; Casal da Bica; Folgado; Calçada; Cidral; Gondemaria; Areias"
     }
   ]
 }
