@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T12:11:55.496266",
+  "last_updated": "2026-09-04T13:07:35.764943",
   "count": 3,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "09/09/2026 14:15",
       "restoration_datetime": "09/09/2026 17:00",
       "last_updated": "04/09/2026 11:18",
-      "affected_streets": "Estrada Fátima- São Sebastião e ruas adjacentes",
-      "discovered_at": "04/09/2026 12:11"
+      "affected_streets": "Estrada Fátima- São Sebastião e ruas adjacentes"
     },
     {
       "id": "9536",
@@ -19,8 +18,7 @@
       "start_datetime": "08/09/2026 09:30",
       "restoration_datetime": "08/09/2026 13:00",
       "last_updated": "04/09/2026 11:12",
-      "affected_streets": "Rua Encosta da Fazarga- Fazarga e ruas adjacentes",
-      "discovered_at": "04/09/2026 12:11"
+      "affected_streets": "Rua Encosta da Fazarga- Fazarga e ruas adjacentes"
     },
     {
       "id": "9535",
