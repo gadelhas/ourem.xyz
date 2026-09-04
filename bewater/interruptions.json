@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T20:07:27.374027",
-  "count": 4,
+  "last_updated": "2026-09-04T21:06:36.267127",
+  "count": 3,
   "interruptions": [
     {
       "id": "9537",
@@ -27,17 +27,7 @@
       "start_datetime": "04/09/2026 20:45",
       "restoration_datetime": "04/09/2026 23:59",
       "last_updated": "04/09/2026 19:57",
-      "affected_streets": "Rua São Francisco de Assis- Caxarias e ruas adjacentes",
-      "discovered_at": "04/09/2026 20:07"
-    },
-    {
-      "id": "9538",
-      "type": "Não Programada",
-      "location": "Peras Ruivas",
-      "start_datetime": "04/09/2026 15:45",
-      "restoration_datetime": "04/09/2026 20:30",
-      "last_updated": "04/09/2026 14:32",
-      "affected_streets": "Peras Ruivas"
+      "affected_streets": "Rua São Francisco de Assis- Caxarias e ruas adjacentes"
     }
   ]
 }
