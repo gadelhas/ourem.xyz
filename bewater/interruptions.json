@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T13:06:28.692053",
+  "last_updated": "2026-09-05T14:06:24.487368",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "05/09/2026 14:05",
       "restoration_datetime": "05/09/2026 16:05",
       "last_updated": "05/09/2026 12:47",
-      "affected_streets": "Vale Travesso",
-      "discovered_at": "05/09/2026 13:06"
+      "affected_streets": "Vale Travesso"
     }
   ]
 }
