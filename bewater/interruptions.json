@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T12:10:09.202881",
-  "count": 2,
+  "last_updated": "2026-09-05T13:06:28.692053",
+  "count": 3,
   "interruptions": [
     {
       "id": "9537",
@@ -19,6 +19,16 @@
       "restoration_datetime": "08/09/2026 13:00",
       "last_updated": "04/09/2026 11:12",
       "affected_streets": "Rua Encosta da Fazarga- Fazarga e ruas adjacentes"
+    },
+    {
+      "id": "9540",
+      "type": "Não Programada",
+      "location": "Vale Travesso",
+      "start_datetime": "05/09/2026 14:05",
+      "restoration_datetime": "05/09/2026 16:05",
+      "last_updated": "05/09/2026 12:47",
+      "affected_streets": "Vale Travesso",
+      "discovered_at": "05/09/2026 13:06"
     }
   ]
 }
