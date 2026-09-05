@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T23:06:28.451141",
-  "count": 3,
+  "last_updated": "2026-09-05T00:20:46.404367",
+  "count": 2,
   "interruptions": [
     {
       "id": "9537",
@@ -19,15 +19,6 @@
       "restoration_datetime": "08/09/2026 13:00",
       "last_updated": "04/09/2026 11:12",
       "affected_streets": "Rua Encosta da Fazarga- Fazarga e ruas adjacentes"
-    },
-    {
-      "id": "9539",
-      "type": "Não Programada",
-      "location": "Rua São Francisco de Assis- Caxarias",
-      "start_datetime": "04/09/2026 20:45",
-      "restoration_datetime": "04/09/2026 23:59",
-      "last_updated": "04/09/2026 19:57",
-      "affected_streets": "Rua São Francisco de Assis- Caxarias e ruas adjacentes"
     }
   ]
 }
