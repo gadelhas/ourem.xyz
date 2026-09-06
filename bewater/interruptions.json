@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T22:06:21.971534",
-  "count": 2,
+  "last_updated": "2026-09-06T23:06:19.317035",
+  "count": 3,
   "interruptions": [
     {
       "id": "9537",
@@ -19,6 +19,16 @@
       "restoration_datetime": "08/09/2026 13:00",
       "last_updated": "04/09/2026 11:12",
       "affected_streets": "Rua Encosta da Fazarga- Fazarga e ruas adjacentes"
+    },
+    {
+      "id": "9543",
+      "type": "Não Programada",
+      "location": "Rua Capitão Salgueiro Maia- Ourém",
+      "start_datetime": "06/09/2026 22:55",
+      "restoration_datetime": "07/09/2026 13:00",
+      "last_updated": "06/09/2026 22:13",
+      "affected_streets": "Rua Capitão Salgueiro Maia- Ourém; Rua Nossa Senhora Fátima- Ourém e ruas adjacentes",
+      "discovered_at": "06/09/2026 23:06"
     }
   ]
 }
