@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T09:07:38.028544",
+  "last_updated": "2026-09-06T10:06:35.900158",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "06/09/2026 09:20",
       "restoration_datetime": "06/09/2026 12:20",
       "last_updated": "06/09/2026 08:30",
-      "affected_streets": "Fartaria",
-      "discovered_at": "06/09/2026 09:07"
+      "affected_streets": "Fartaria"
     }
   ]
 }
