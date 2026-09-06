@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T15:06:54.603462",
-  "count": 3,
+  "last_updated": "2026-09-06T16:07:44.800056",
+  "count": 2,
   "interruptions": [
     {
       "id": "9537",
@@ -19,15 +19,6 @@
       "restoration_datetime": "08/09/2026 13:00",
       "last_updated": "04/09/2026 11:12",
       "affected_streets": "Rua Encosta da Fazarga- Fazarga e ruas adjacentes"
-    },
-    {
-      "id": "9542",
-      "type": "Não Programada",
-      "location": "Rua Principal- Casal do Ribeiro",
-      "start_datetime": "06/09/2026 14:00",
-      "restoration_datetime": "06/09/2026 15:45",
-      "last_updated": "06/09/2026 13:06",
-      "affected_streets": "Rua Principal- Casal do Ribeiro e ruas adjacentes"
     }
   ]
 }
