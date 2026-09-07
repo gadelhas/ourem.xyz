@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T23:06:19.317035",
+  "last_updated": "2026-09-07T00:23:42.618094",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "06/09/2026 22:55",
       "restoration_datetime": "07/09/2026 13:00",
       "last_updated": "06/09/2026 22:13",
-      "affected_streets": "Rua Capitão Salgueiro Maia- Ourém; Rua Nossa Senhora Fátima- Ourém e ruas adjacentes",
-      "discovered_at": "06/09/2026 23:06"
+      "affected_streets": "Rua Capitão Salgueiro Maia- Ourém; Rua Nossa Senhora Fátima- Ourém e ruas adjacentes"
     }
   ]
 }
