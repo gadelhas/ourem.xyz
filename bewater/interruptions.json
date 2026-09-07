@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T08:12:48.676228",
-  "count": 3,
+  "last_updated": "2026-09-07T09:11:35.598271",
+  "count": 4,
   "interruptions": [
     {
       "id": "9537",
@@ -28,6 +28,16 @@
       "restoration_datetime": "07/09/2026 13:00",
       "last_updated": "06/09/2026 22:13",
       "affected_streets": "Rua Capitão Salgueiro Maia- Ourém; Rua Nossa Senhora Fátima- Ourém e ruas adjacentes"
+    },
+    {
+      "id": "9544",
+      "type": "Não Programada",
+      "location": "São Jorge",
+      "start_datetime": "07/09/2026 10:00",
+      "restoration_datetime": "07/09/2026 12:45",
+      "last_updated": "07/09/2026 08:17",
+      "affected_streets": "São Jorge; Arneiro; Parcerias",
+      "discovered_at": "07/09/2026 09:11"
     }
   ]
 }
