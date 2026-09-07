@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T14:08:46.424634",
+  "last_updated": "2026-09-07T15:07:47.293740",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "07/09/2026 14:30",
       "restoration_datetime": "07/09/2026 18:30",
       "last_updated": "07/09/2026 13:38",
-      "affected_streets": "Rua Vale Freixo- Olival; Beco Vale Freixo- Olival",
-      "discovered_at": "07/09/2026 14:08"
+      "affected_streets": "Rua Vale Freixo- Olival; Beco Vale Freixo- Olival"
     }
   ]
 }
