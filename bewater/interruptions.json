@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T12:12:27.139649",
-  "count": 5,
+  "last_updated": "2026-09-08T13:08:43.871754",
+  "count": 4,
   "interruptions": [
     {
       "id": "9537",
@@ -37,15 +37,6 @@
       "restoration_datetime": "08/09/2026 13:45",
       "last_updated": "08/09/2026 08:46",
       "affected_streets": "Rua Fonte- Pedreira; Rua Malhinha- Ribeira Mossomodia e ruas adjacentes"
-    },
-    {
-      "id": "9536",
-      "type": "Programada",
-      "location": "Rua Encosta da Fazarga- Fazarga",
-      "start_datetime": "08/09/2026 09:30",
-      "restoration_datetime": "08/09/2026 13:00",
-      "last_updated": "04/09/2026 11:12",
-      "affected_streets": "Rua Encosta da Fazarga- Fazarga e ruas adjacentes"
     }
   ]
 }
