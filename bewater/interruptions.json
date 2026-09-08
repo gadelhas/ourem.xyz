@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T11:07:26.225884",
+  "last_updated": "2026-09-08T12:12:27.139649",
   "count": 5,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "08/09/2026 12:00",
       "restoration_datetime": "08/09/2026 17:00",
       "last_updated": "08/09/2026 11:06",
-      "affected_streets": "Casais dos Montes; Casal da Mata",
-      "discovered_at": "08/09/2026 11:07"
+      "affected_streets": "Casais dos Montes; Casal da Mata"
     },
     {
       "id": "9548",
@@ -28,8 +27,7 @@
       "start_datetime": "08/09/2026 11:20",
       "restoration_datetime": "08/09/2026 15:20",
       "last_updated": "08/09/2026 10:18",
-      "affected_streets": "Valada",
-      "discovered_at": "08/09/2026 11:07"
+      "affected_streets": "Valada"
     },
     {
       "id": "9547",
