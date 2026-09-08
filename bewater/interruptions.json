@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T13:08:43.871754",
+  "last_updated": "2026-09-08T14:09:07.602360",
   "count": 4,
   "interruptions": [
     {
@@ -10,6 +10,16 @@
       "restoration_datetime": "09/09/2026 17:00",
       "last_updated": "04/09/2026 11:18",
       "affected_streets": "Estrada Fátima- São Sebastião e ruas adjacentes"
+    },
+    {
+      "id": "9550",
+      "type": "Não Programada",
+      "location": "Rua Senhora Penha de França- Valada",
+      "start_datetime": "08/09/2026 14:30",
+      "restoration_datetime": "08/09/2026 17:35",
+      "last_updated": "08/09/2026 13:34",
+      "affected_streets": "Rua Senhora Penha de França- Valada e ruas adjacentes",
+      "discovered_at": "08/09/2026 14:09"
     },
     {
       "id": "9549",
@@ -28,15 +38,6 @@
       "restoration_datetime": "08/09/2026 15:20",
       "last_updated": "08/09/2026 10:18",
       "affected_streets": "Valada"
-    },
-    {
-      "id": "9547",
-      "type": "Não Programada",
-      "location": "Rua Fonte- Pedreira",
-      "start_datetime": "08/09/2026 09:45",
-      "restoration_datetime": "08/09/2026 13:45",
-      "last_updated": "08/09/2026 08:46",
-      "affected_streets": "Rua Fonte- Pedreira; Rua Malhinha- Ribeira Mossomodia e ruas adjacentes"
     }
   ]
 }
