@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T14:07:58.409801",
+  "last_updated": "2026-09-09T15:07:28.299785",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "09/09/2026 15:10",
       "restoration_datetime": "09/09/2026 19:00",
       "last_updated": "09/09/2026 14:00",
-      "affected_streets": "Rua Alqueidão- Alqueidão e ruas adjacentes",
-      "discovered_at": "09/09/2026 14:07"
+      "affected_streets": "Rua Alqueidão- Alqueidão e ruas adjacentes"
     },
     {
       "id": "9537",
