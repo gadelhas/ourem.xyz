@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T16:08:34.847605",
-  "count": 2,
+  "last_updated": "2026-09-09T17:06:37.158816",
+  "count": 1,
   "interruptions": [
     {
       "id": "9603",
@@ -10,15 +10,6 @@
       "restoration_datetime": "09/09/2026 19:00",
       "last_updated": "09/09/2026 14:00",
       "affected_streets": "Rua Alqueidão- Alqueidão e ruas adjacentes"
-    },
-    {
-      "id": "9537",
-      "type": "Programada",
-      "location": "Estrada Fátima- São Sebastião",
-      "start_datetime": "09/09/2026 14:15",
-      "restoration_datetime": "09/09/2026 17:00",
-      "last_updated": "04/09/2026 11:18",
-      "affected_streets": "Estrada Fátima- São Sebastião e ruas adjacentes"
     }
   ]
 }
