@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T10:08:06.369027",
-  "count": 1,
+  "last_updated": "2026-09-09T11:07:10.294998",
+  "count": 2,
   "interruptions": [
     {
       "id": "9537",
@@ -10,6 +10,16 @@
       "restoration_datetime": "09/09/2026 17:00",
       "last_updated": "04/09/2026 11:18",
       "affected_streets": "Estrada Fátima- São Sebastião e ruas adjacentes"
+    },
+    {
+      "id": "9602",
+      "type": "Não Programada",
+      "location": "Cumeada",
+      "start_datetime": "09/09/2026 11:30",
+      "restoration_datetime": "09/09/2026 14:00",
+      "last_updated": "09/09/2026 10:39",
+      "affected_streets": "Cumeada",
+      "discovered_at": "09/09/2026 11:07"
     }
   ]
 }
