@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-09T13:07:18.130479",
+  "last_updated": "2026-09-09T14:07:58.409801",
   "count": 2,
   "interruptions": [
+    {
+      "id": "9603",
+      "type": "Não Programada",
+      "location": "Rua Alqueidão- Alqueidão",
+      "start_datetime": "09/09/2026 15:10",
+      "restoration_datetime": "09/09/2026 19:00",
+      "last_updated": "09/09/2026 14:00",
+      "affected_streets": "Rua Alqueidão- Alqueidão e ruas adjacentes",
+      "discovered_at": "09/09/2026 14:07"
+    },
     {
       "id": "9537",
       "type": "Programada",
@@ -10,15 +20,6 @@
       "restoration_datetime": "09/09/2026 17:00",
       "last_updated": "04/09/2026 11:18",
       "affected_streets": "Estrada Fátima- São Sebastião e ruas adjacentes"
-    },
-    {
-      "id": "9602",
-      "type": "Não Programada",
-      "location": "Cumeada",
-      "start_datetime": "09/09/2026 11:30",
-      "restoration_datetime": "09/09/2026 14:00",
-      "last_updated": "09/09/2026 10:39",
-      "affected_streets": "Cumeada"
     }
   ]
 }
