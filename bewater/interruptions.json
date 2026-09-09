@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T18:10:02.336440",
-  "count": 2,
+  "last_updated": "2026-09-09T19:06:02.719839",
+  "count": 1,
   "interruptions": [
     {
       "id": "9604",
@@ -9,17 +9,7 @@
       "start_datetime": "09/09/2026 18:45",
       "restoration_datetime": "09/09/2026 22:45",
       "last_updated": "09/09/2026 17:51",
-      "affected_streets": "Rua Vale de Cavalos- Outeiro das Matas e ruas adjacentes",
-      "discovered_at": "09/09/2026 18:10"
-    },
-    {
-      "id": "9603",
-      "type": "Não Programada",
-      "location": "Rua Alqueidão- Alqueidão",
-      "start_datetime": "09/09/2026 15:10",
-      "restoration_datetime": "09/09/2026 19:00",
-      "last_updated": "09/09/2026 14:00",
-      "affected_streets": "Rua Alqueidão- Alqueidão e ruas adjacentes"
+      "affected_streets": "Rua Vale de Cavalos- Outeiro das Matas e ruas adjacentes"
     }
   ]
 }
