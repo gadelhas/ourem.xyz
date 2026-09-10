@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T16:08:02.293055",
+  "last_updated": "2026-09-10T17:06:56.134066",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "10/09/2026 16:00",
       "restoration_datetime": "10/09/2026 21:00",
       "last_updated": "10/09/2026 15:08",
-      "affected_streets": "Cidral",
-      "discovered_at": "10/09/2026 16:08"
+      "affected_streets": "Cidral"
     }
   ]
 }
