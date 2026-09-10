@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-09-10T11:07:17.136079",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9606",
-      "type": "Não Programada",
-      "location": "Andrés",
-      "start_datetime": "10/09/2026 09:50",
-      "restoration_datetime": "10/09/2026 11:45",
-      "last_updated": "10/09/2026 08:57",
-      "affected_streets": "Andrés"
-    }
-  ]
+  "last_updated": "2026-09-10T12:11:50.441633",
+  "count": 0,
+  "interruptions": []
 }
