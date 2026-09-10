@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-09-10T05:08:02.827629",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-09-10T06:14:14.882266",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9605",
+      "type": "Não Programada",
+      "location": "Rua Domingos Dias- Peras Ruivas",
+      "start_datetime": "10/09/2026 06:45",
+      "restoration_datetime": "10/09/2026 09:45",
+      "last_updated": "10/09/2026 05:48",
+      "affected_streets": "Rua Domingos Dias- Peras Ruivas e ruas adjacentes",
+      "discovered_at": "10/09/2026 06:14"
+    }
+  ]
 }
