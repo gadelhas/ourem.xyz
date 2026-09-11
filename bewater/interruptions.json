@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-09-11T02:11:25.859015",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-09-11T03:09:39.688102",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9608",
+      "type": "Não Programada",
+      "location": "Gondemaria",
+      "start_datetime": "11/09/2026 03:20",
+      "restoration_datetime": "11/09/2026 16:00",
+      "last_updated": "11/09/2026 02:44",
+      "affected_streets": "Gondemaria; Cidral; Areias; Fartaria; Cardeais; Santarém dos Tojos; Barroquinha",
+      "discovered_at": "11/09/2026 03:09"
+    }
+  ]
 }
