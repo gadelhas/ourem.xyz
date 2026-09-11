@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-09-11T16:08:41.068947",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-09-11T17:06:11.513328",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9610",
+      "type": "Programada",
+      "location": "Rua Principal- Rio de Couros",
+      "start_datetime": "16/09/2026 09:00",
+      "restoration_datetime": "16/09/2026 13:00",
+      "last_updated": "11/09/2026 16:51",
+      "affected_streets": "Rua Principal- Rio de Couros; Rua Gaspar Moreira- Rio de Couros; Casal de Baixo; Sandoeira; Castelejo; Soalheira; Formigais; Botelha; Casal da Igreja; Porto Velho; Palmaria; Agroal e ruas adjacentes",
+      "discovered_at": "11/09/2026 17:06"
+    }
+  ]
 }
