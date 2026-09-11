@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T18:09:00.321500",
-  "count": 2,
+  "last_updated": "2026-09-11T19:06:12.629308",
+  "count": 1,
   "interruptions": [
     {
       "id": "9610",
@@ -10,15 +10,6 @@
       "restoration_datetime": "16/09/2026 13:00",
       "last_updated": "11/09/2026 16:51",
       "affected_streets": "Rua Principal- Rio de Couros; Rua Gaspar Moreira- Rio de Couros; Casal de Baixo; Sandoeira; Castelejo; Soalheira; Formigais; Botelha; Casal da Igreja; Porto Velho; Palmaria; Agroal e ruas adjacentes"
-    },
-    {
-      "id": "9608",
-      "type": "Não Programada",
-      "location": "Gondemaria",
-      "start_datetime": "11/09/2026 03:20",
-      "restoration_datetime": "11/09/2026 18:30",
-      "last_updated": "11/09/2026 17:24",
-      "affected_streets": "Gondemaria; Cidral; Areias; Fartaria; Cardeais; Santarém dos Tojos; Barroquinha"
     }
   ]
 }
