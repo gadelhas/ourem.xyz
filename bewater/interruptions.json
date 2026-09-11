@@ -1,24 +1,5 @@
 {
-  "last_updated": "2026-09-11T15:07:32.847722",
-  "count": 2,
-  "interruptions": [
-    {
-      "id": "9608",
-      "type": "Não Programada",
-      "location": "Gondemaria",
-      "start_datetime": "11/09/2026 03:20",
-      "restoration_datetime": "11/09/2026 16:00",
-      "last_updated": "11/09/2026 08:28",
-      "affected_streets": "Gondemaria; Cidral; Areias; Fartaria; Cardeais; Santarém dos Tojos; Barroquinha"
-    },
-    {
-      "id": "9609",
-      "type": "Não Programada",
-      "location": "Alqueidão",
-      "start_datetime": "11/09/2026 14:45",
-      "restoration_datetime": "11/09/2026 15:30",
-      "last_updated": "11/09/2026 13:58",
-      "affected_streets": "Alqueidão"
-    }
-  ]
+  "last_updated": "2026-09-11T16:08:41.068947",
+  "count": 0,
+  "interruptions": []
 }
