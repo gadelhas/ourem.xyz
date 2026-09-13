@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T09:25:56.961901",
-  "count": 2,
+  "last_updated": "2026-09-13T10:14:37.850928",
+  "count": 3,
   "interruptions": [
     {
       "id": "9610",
@@ -10,6 +10,16 @@
       "restoration_datetime": "16/09/2026 13:00",
       "last_updated": "11/09/2026 16:51",
       "affected_streets": "Rua Principal- Rio de Couros; Rua Gaspar Moreira- Rio de Couros; Casal de Baixo; Sandoeira; Castelejo; Soalheira; Formigais; Botelha; Casal da Igreja; Porto Velho; Palmaria; Agroal e ruas adjacentes"
+    },
+    {
+      "id": "9612",
+      "type": "Não Programada",
+      "location": "Peras Ruivas",
+      "start_datetime": "13/09/2026 09:25",
+      "restoration_datetime": "13/09/2026 15:00",
+      "last_updated": "13/09/2026 09:38",
+      "affected_streets": "Peras Ruivas",
+      "discovered_at": "13/09/2026 10:14"
     },
     {
       "id": "9611",
