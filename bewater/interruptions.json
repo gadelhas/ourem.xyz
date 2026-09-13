@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T10:14:37.850928",
+  "last_updated": "2026-09-13T11:05:53.576597",
   "count": 3,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "13/09/2026 09:25",
       "restoration_datetime": "13/09/2026 15:00",
       "last_updated": "13/09/2026 09:38",
-      "affected_streets": "Peras Ruivas",
-      "discovered_at": "13/09/2026 10:14"
+      "affected_streets": "Peras Ruivas"
     },
     {
       "id": "9611",
