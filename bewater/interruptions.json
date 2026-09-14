@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T14:08:58.450589",
-  "count": 2,
+  "last_updated": "2026-09-14T15:08:53.221059",
+  "count": 3,
   "interruptions": [
     {
       "id": "9610",
@@ -10,6 +10,16 @@
       "restoration_datetime": "16/09/2026 13:00",
       "last_updated": "11/09/2026 16:51",
       "affected_streets": "Rua Principal- Rio de Couros; Rua Gaspar Moreira- Rio de Couros; Casal de Baixo; Sandoeira; Castelejo; Soalheira; Formigais; Botelha; Casal da Igreja; Porto Velho; Palmaria; Agroal e ruas adjacentes"
+    },
+    {
+      "id": "9615",
+      "type": "Não Programada",
+      "location": "Rua Nossa Senhora de Fátima- Caxarias",
+      "start_datetime": "14/09/2026 15:50",
+      "restoration_datetime": "14/09/2026 18:50",
+      "last_updated": "14/09/2026 15:06",
+      "affected_streets": "Rua Nossa Senhora de Fátima- Caxarias",
+      "discovered_at": "14/09/2026 15:08"
     },
     {
       "id": "9614",
