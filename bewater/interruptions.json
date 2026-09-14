@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T10:07:56.190806",
+  "last_updated": "2026-09-14T11:07:42.341921",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "14/09/2026 10:50",
       "restoration_datetime": "14/09/2026 15:50",
       "last_updated": "14/09/2026 09:57",
-      "affected_streets": "Rua Loureiros - Caxarias e ruas adjacentes",
-      "discovered_at": "14/09/2026 10:07"
+      "affected_streets": "Rua Loureiros - Caxarias e ruas adjacentes"
     }
   ]
 }
