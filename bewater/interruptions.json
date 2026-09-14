@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T09:11:29.428404",
+  "last_updated": "2026-09-14T10:07:56.190806",
   "count": 2,
   "interruptions": [
     {
@@ -12,13 +12,14 @@
       "affected_streets": "Rua Principal- Rio de Couros; Rua Gaspar Moreira- Rio de Couros; Casal de Baixo; Sandoeira; Castelejo; Soalheira; Formigais; Botelha; Casal da Igreja; Porto Velho; Palmaria; Agroal e ruas adjacentes"
     },
     {
-      "id": "9613",
+      "id": "9614",
       "type": "Não Programada",
-      "location": "Rua Feteira - Fontainhas da Serra",
-      "start_datetime": "14/09/2026 07:00",
-      "restoration_datetime": "14/09/2026 09:45",
-      "last_updated": "14/09/2026 06:14",
-      "affected_streets": "Rua Feteira - Fontainhas da Serra e ruas adjacentes"
+      "location": "Rua Loureiros - Caxarias",
+      "start_datetime": "14/09/2026 10:50",
+      "restoration_datetime": "14/09/2026 15:50",
+      "last_updated": "14/09/2026 09:57",
+      "affected_streets": "Rua Loureiros - Caxarias e ruas adjacentes",
+      "discovered_at": "14/09/2026 10:07"
     }
   ]
 }
