@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-15T14:08:26.228469",
-  "count": 1,
+  "last_updated": "2026-09-15T15:07:54.267146",
+  "count": 3,
   "interruptions": [
+    {
+      "id": "9618",
+      "type": "Programada",
+      "location": "Sobral",
+      "start_datetime": "21/09/2026 09:00",
+      "restoration_datetime": "21/09/2026 13:00",
+      "last_updated": "15/09/2026 14:42",
+      "affected_streets": "Sobral",
+      "discovered_at": "15/09/2026 15:07"
+    },
     {
       "id": "9610",
       "type": "Programada",
@@ -10,6 +20,16 @@
       "restoration_datetime": "16/09/2026 13:00",
       "last_updated": "11/09/2026 16:51",
       "affected_streets": "Rua Principal- Rio de Couros; Rua Gaspar Moreira- Rio de Couros; Casal de Baixo; Sandoeira; Castelejo; Soalheira; Formigais; Botelha; Casal da Igreja; Porto Velho; Palmaria; Agroal e ruas adjacentes"
+    },
+    {
+      "id": "9617",
+      "type": "Não Programada",
+      "location": "Rua Centro- Vales",
+      "start_datetime": "15/09/2026 14:45",
+      "restoration_datetime": "15/09/2026 18:30",
+      "last_updated": "15/09/2026 14:33",
+      "affected_streets": "Rua Centro- Vales e ruas adjacentes",
+      "discovered_at": "15/09/2026 15:07"
     }
   ]
 }
