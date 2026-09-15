@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T18:09:06.416829",
+  "last_updated": "2026-09-15T19:06:39.547486",
   "count": 3,
   "interruptions": [
     {
@@ -21,13 +21,14 @@
       "affected_streets": "Rua Principal- Rio de Couros; Rua Gaspar Moreira- Rio de Couros; Casal de Baixo; Sandoeira; Castelejo; Soalheira; Formigais; Botelha; Casal da Igreja; Porto Velho; Palmaria; Agroal e ruas adjacentes"
     },
     {
-      "id": "9617",
+      "id": "9619",
       "type": "Não Programada",
-      "location": "Rua Centro- Vales",
-      "start_datetime": "15/09/2026 14:45",
-      "restoration_datetime": "15/09/2026 18:30",
-      "last_updated": "15/09/2026 14:33",
-      "affected_streets": "Rua Centro- Vales e ruas adjacentes"
+      "location": "Rua Escola- Óbidos",
+      "start_datetime": "15/09/2026 19:05",
+      "restoration_datetime": "15/09/2026 23:05",
+      "last_updated": "15/09/2026 18:10",
+      "affected_streets": "Rua Escola- Óbidos e ruas adjacentes",
+      "discovered_at": "15/09/2026 19:06"
     }
   ]
 }
