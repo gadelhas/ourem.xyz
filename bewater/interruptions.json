@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T09:08:47.372750",
+  "last_updated": "2026-09-16T10:08:02.765949",
   "count": 3,
   "interruptions": [
     {
@@ -21,13 +21,14 @@
       "affected_streets": "Rua Principal- Rio de Couros; Rua Gaspar Moreira- Rio de Couros; Casal de Baixo; Sandoeira; Castelejo; Soalheira; Formigais; Botelha; Casal da Igreja; Porto Velho; Palmaria; Agroal e ruas adjacentes"
     },
     {
-      "id": "9620",
+      "id": "9621",
       "type": "Não Programada",
-      "location": "Rua Casal D&#039;Alem- Casais dos Montes",
-      "start_datetime": "15/09/2026 23:15",
-      "restoration_datetime": "16/09/2026 09:15",
-      "last_updated": "15/09/2026 22:34",
-      "affected_streets": "Rua Casal D&#039;Alem- Casais dos Montes"
+      "location": "Regato",
+      "start_datetime": "16/09/2026 10:00",
+      "restoration_datetime": "16/09/2026 12:30",
+      "last_updated": "16/09/2026 09:30",
+      "affected_streets": "Regato; Carregal; Carapita",
+      "discovered_at": "16/09/2026 10:08"
     }
   ]
 }
