@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T10:08:02.765949",
-  "count": 3,
+  "last_updated": "2026-09-16T11:07:41.507564",
+  "count": 4,
   "interruptions": [
     {
       "id": "9618",
@@ -10,6 +10,16 @@
       "restoration_datetime": "21/09/2026 13:00",
       "last_updated": "15/09/2026 14:42",
       "affected_streets": "Sobral"
+    },
+    {
+      "id": "9622",
+      "type": "Não Programada",
+      "location": "Alqueidão",
+      "start_datetime": "16/09/2026 11:48",
+      "restoration_datetime": "16/09/2026 15:48",
+      "last_updated": "16/09/2026 10:48",
+      "affected_streets": "Alqueidão",
+      "discovered_at": "16/09/2026 11:07"
     },
     {
       "id": "9610",
@@ -27,8 +37,7 @@
       "start_datetime": "16/09/2026 10:00",
       "restoration_datetime": "16/09/2026 12:30",
       "last_updated": "16/09/2026 09:30",
-      "affected_streets": "Regato; Carregal; Carapita",
-      "discovered_at": "16/09/2026 10:08"
+      "affected_streets": "Regato; Carregal; Carapita"
     }
   ]
 }
