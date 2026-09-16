@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T21:07:08.449121",
-  "count": 1,
+  "last_updated": "2026-09-16T22:06:52.912828",
+  "count": 2,
   "interruptions": [
     {
       "id": "9618",
@@ -10,6 +10,16 @@
       "restoration_datetime": "21/09/2026 13:00",
       "last_updated": "15/09/2026 14:42",
       "affected_streets": "Sobral"
+    },
+    {
+      "id": "9623",
+      "type": "Não Programada",
+      "location": "Rua Pedreiras- Moimento",
+      "start_datetime": "16/09/2026 22:20",
+      "restoration_datetime": "17/09/2026 12:00",
+      "last_updated": "16/09/2026 21:48",
+      "affected_streets": "Rua Pedreiras- Moimento e ruas adjacentes",
+      "discovered_at": "16/09/2026 22:06"
     }
   ]
 }
