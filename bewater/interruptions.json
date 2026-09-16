@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T23:07:02.250164",
+  "last_updated": "2026-09-16T00:20:52.105723",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "15/09/2026 23:15",
       "restoration_datetime": "16/09/2026 09:15",
       "last_updated": "15/09/2026 22:34",
-      "affected_streets": "Rua Casal D&#039;Alem- Casais dos Montes",
-      "discovered_at": "15/09/2026 23:07"
+      "affected_streets": "Rua Casal D&#039;Alem- Casais dos Montes"
     }
   ]
 }
