@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T17:06:33.629699",
-  "count": 3,
+  "last_updated": "2026-09-17T18:09:42.924476",
+  "count": 2,
   "interruptions": [
     {
       "id": "9618",
@@ -18,17 +18,7 @@
       "start_datetime": "17/09/2026 17:50",
       "restoration_datetime": "17/09/2026 20:00",
       "last_updated": "17/09/2026 16:59",
-      "affected_streets": "Rua Estrada Real- São Jorge e ruas adjacentes",
-      "discovered_at": "17/09/2026 17:06"
-    },
-    {
-      "id": "9625",
-      "type": "Não Programada",
-      "location": "Rua António Ferreira - Cercal",
-      "start_datetime": "17/09/2026 12:41",
-      "restoration_datetime": "17/09/2026 17:30",
-      "last_updated": "17/09/2026 11:42",
-      "affected_streets": "Rua António Ferreira - Cercal e ruas adjacentes"
+      "affected_streets": "Rua Estrada Real- São Jorge e ruas adjacentes"
     }
   ]
 }
