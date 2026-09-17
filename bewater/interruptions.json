@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T12:12:08.460578",
+  "last_updated": "2026-09-17T13:08:06.455447",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "17/09/2026 12:41",
       "restoration_datetime": "17/09/2026 17:30",
       "last_updated": "17/09/2026 11:42",
-      "affected_streets": "Rua António Ferreira - Cercal e ruas adjacentes",
-      "discovered_at": "17/09/2026 12:12"
+      "affected_streets": "Rua António Ferreira - Cercal e ruas adjacentes"
     }
   ]
 }
