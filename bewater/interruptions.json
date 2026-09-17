@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T16:09:39.640451",
-  "count": 2,
+  "last_updated": "2026-09-17T17:06:33.629699",
+  "count": 3,
   "interruptions": [
     {
       "id": "9618",
@@ -10,6 +10,16 @@
       "restoration_datetime": "21/09/2026 13:00",
       "last_updated": "15/09/2026 14:42",
       "affected_streets": "Sobral"
+    },
+    {
+      "id": "9626",
+      "type": "Não Programada",
+      "location": "Rua Estrada Real- São Jorge",
+      "start_datetime": "17/09/2026 17:50",
+      "restoration_datetime": "17/09/2026 20:00",
+      "last_updated": "17/09/2026 16:59",
+      "affected_streets": "Rua Estrada Real- São Jorge e ruas adjacentes",
+      "discovered_at": "17/09/2026 17:06"
     },
     {
       "id": "9625",
