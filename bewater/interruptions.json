@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T19:06:47.688646",
+  "last_updated": "2026-09-17T20:08:06.103652",
   "count": 2,
   "interruptions": [
     {
@@ -12,13 +12,14 @@
       "affected_streets": "Sobral"
     },
     {
-      "id": "9626",
+      "id": "9627",
       "type": "Não Programada",
-      "location": "Rua Estrada Real- São Jorge",
-      "start_datetime": "17/09/2026 17:50",
-      "restoration_datetime": "17/09/2026 20:00",
-      "last_updated": "17/09/2026 16:59",
-      "affected_streets": "Rua Estrada Real- São Jorge e ruas adjacentes"
+      "location": "Rua Domingos Dias- Peras Ruivas",
+      "start_datetime": "17/09/2026 20:50",
+      "restoration_datetime": "17/09/2026 23:59",
+      "last_updated": "17/09/2026 19:59",
+      "affected_streets": "Rua Domingos Dias- Peras Ruivas e ruas adjacentes",
+      "discovered_at": "17/09/2026 20:08"
     }
   ]
 }
