@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T14:07:56.173623",
+  "last_updated": "2026-09-18T15:07:27.546389",
   "count": 3,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "18/09/2026 14:15",
       "restoration_datetime": "18/09/2026 17:20",
       "last_updated": "18/09/2026 13:16",
-      "affected_streets": "Rua Moinhos- Caneiro",
-      "discovered_at": "18/09/2026 14:07"
+      "affected_streets": "Rua Moinhos- Caneiro"
     },
     {
       "id": "9630",
@@ -28,8 +27,7 @@
       "start_datetime": "18/09/2026 12:00",
       "restoration_datetime": "18/09/2026 17:00",
       "last_updated": "18/09/2026 13:14",
-      "affected_streets": "Rua Principal- Urqueira",
-      "discovered_at": "18/09/2026 14:07"
+      "affected_streets": "Rua Principal- Urqueira"
     }
   ]
 }
