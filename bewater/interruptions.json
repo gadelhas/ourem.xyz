@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T08:10:53.890059",
-  "count": 2,
+  "last_updated": "2026-09-18T09:08:27.745995",
+  "count": 3,
   "interruptions": [
     {
       "id": "9618",
@@ -10,6 +10,16 @@
       "restoration_datetime": "21/09/2026 13:00",
       "last_updated": "15/09/2026 14:42",
       "affected_streets": "Sobral"
+    },
+    {
+      "id": "9629",
+      "type": "Não Programada",
+      "location": "Sobral",
+      "start_datetime": "18/09/2026 09:20",
+      "restoration_datetime": "18/09/2026 11:20",
+      "last_updated": "18/09/2026 08:20",
+      "affected_streets": "Sobral",
+      "discovered_at": "18/09/2026 09:08"
     },
     {
       "id": "9628",
