@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T13:07:21.082222",
-  "count": 1,
+  "last_updated": "2026-09-18T14:07:56.173623",
+  "count": 3,
   "interruptions": [
     {
       "id": "9618",
@@ -10,6 +10,26 @@
       "restoration_datetime": "21/09/2026 13:00",
       "last_updated": "15/09/2026 14:42",
       "affected_streets": "Sobral"
+    },
+    {
+      "id": "9631",
+      "type": "Não Programada",
+      "location": "Rua Moinhos- Caneiro",
+      "start_datetime": "18/09/2026 14:15",
+      "restoration_datetime": "18/09/2026 17:20",
+      "last_updated": "18/09/2026 13:16",
+      "affected_streets": "Rua Moinhos- Caneiro",
+      "discovered_at": "18/09/2026 14:07"
+    },
+    {
+      "id": "9630",
+      "type": "Não Programada",
+      "location": "Rua Principal- Urqueira",
+      "start_datetime": "18/09/2026 12:00",
+      "restoration_datetime": "18/09/2026 17:00",
+      "last_updated": "18/09/2026 13:14",
+      "affected_streets": "Rua Principal- Urqueira",
+      "discovered_at": "18/09/2026 14:07"
     }
   ]
 }
