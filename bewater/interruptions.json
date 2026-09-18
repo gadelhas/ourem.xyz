@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T09:08:27.745995",
-  "count": 3,
+  "last_updated": "2026-09-18T10:07:53.809874",
+  "count": 2,
   "interruptions": [
     {
       "id": "9618",
@@ -18,17 +18,7 @@
       "start_datetime": "18/09/2026 09:20",
       "restoration_datetime": "18/09/2026 11:20",
       "last_updated": "18/09/2026 08:20",
-      "affected_streets": "Sobral",
-      "discovered_at": "18/09/2026 09:08"
-    },
-    {
-      "id": "9628",
-      "type": "Não Programada",
-      "location": "Barrocaria",
-      "start_datetime": "18/09/2026 00:35",
-      "restoration_datetime": "18/09/2026 10:00",
-      "last_updated": "17/09/2026 23:42",
-      "affected_streets": "Barrocaria; Vales; Cercal; Ninho de Águia; Matos"
+      "affected_streets": "Sobral"
     }
   ]
 }
