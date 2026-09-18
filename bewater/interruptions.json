@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T23:06:15.845692",
+  "last_updated": "2026-09-18T00:21:20.369769",
   "count": 2,
   "interruptions": [
     {
@@ -12,13 +12,14 @@
       "affected_streets": "Sobral"
     },
     {
-      "id": "9627",
+      "id": "9628",
       "type": "Não Programada",
-      "location": "Rua Domingos Dias- Peras Ruivas",
-      "start_datetime": "17/09/2026 20:50",
-      "restoration_datetime": "17/09/2026 23:59",
-      "last_updated": "17/09/2026 19:59",
-      "affected_streets": "Rua Domingos Dias- Peras Ruivas e ruas adjacentes"
+      "location": "Barrocaria",
+      "start_datetime": "18/09/2026 00:35",
+      "restoration_datetime": "18/09/2026 10:00",
+      "last_updated": "17/09/2026 23:42",
+      "affected_streets": "Barrocaria; Vales; Cercal; Ninho de Águia; Matos",
+      "discovered_at": "18/09/2026 00:21"
     }
   ]
 }
