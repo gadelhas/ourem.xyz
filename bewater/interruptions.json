@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T11:07:17.950217",
+  "last_updated": "2026-09-21T12:11:34.181155",
   "count": 4,
   "interruptions": [
     {
@@ -10,6 +10,16 @@
       "restoration_datetime": "23/09/2026 11:00",
       "last_updated": "21/09/2026 08:53",
       "affected_streets": "Rua São Francisco Assis- Cova da Iria; Rua Arcanjo São Miguel- Cova da Iria; Avenida Beato Nuno- Cova da Iria"
+    },
+    {
+      "id": "9636",
+      "type": "Não Programada",
+      "location": "Estrada Nacional 349- Lagoa Furadouro",
+      "start_datetime": "21/09/2026 13:00",
+      "restoration_datetime": "21/09/2026 17:00",
+      "last_updated": "21/09/2026 11:11",
+      "affected_streets": "Estrada Nacional 349- Lagoa Furadouro e ruas adjacentes",
+      "discovered_at": "21/09/2026 12:11"
     },
     {
       "id": "9618",
@@ -27,17 +37,7 @@
       "start_datetime": "21/09/2026 11:40",
       "restoration_datetime": "21/09/2026 13:00",
       "last_updated": "21/09/2026 11:03",
-      "affected_streets": "Beco Saudade- Sobral e ruas adjacentes",
-      "discovered_at": "21/09/2026 11:07"
-    },
-    {
-      "id": "9633",
-      "type": "Não Programada",
-      "location": "",
-      "start_datetime": "21/09/2026 07:30",
-      "restoration_datetime": "21/09/2026 11:30",
-      "last_updated": "21/09/2026 07:41",
-      "affected_streets": ""
+      "affected_streets": "Beco Saudade- Sobral e ruas adjacentes"
     }
   ]
 }
