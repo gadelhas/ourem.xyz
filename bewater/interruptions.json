@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T16:08:47.632238",
-  "count": 2,
+  "last_updated": "2026-09-21T17:06:30.129751",
+  "count": 3,
   "interruptions": [
     {
       "id": "9634",
@@ -10,6 +10,16 @@
       "restoration_datetime": "23/09/2026 11:00",
       "last_updated": "21/09/2026 08:53",
       "affected_streets": "Rua São Francisco Assis- Cova da Iria; Rua Arcanjo São Miguel- Cova da Iria; Avenida Beato Nuno- Cova da Iria"
+    },
+    {
+      "id": "9637",
+      "type": "Não Programada",
+      "location": "Rua Vale do Lobo- Carapita",
+      "start_datetime": "21/09/2026 17:20",
+      "restoration_datetime": "21/09/2026 19:20",
+      "last_updated": "21/09/2026 16:27",
+      "affected_streets": "Rua Vale do Lobo- Carapita; Rua D. Afonso (IV Conde de Ourém)- Carapita e ruas adjacentes",
+      "discovered_at": "21/09/2026 17:06"
     },
     {
       "id": "9636",
