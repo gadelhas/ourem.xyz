@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T12:11:34.181155",
-  "count": 4,
+  "last_updated": "2026-09-21T13:07:36.686734",
+  "count": 2,
   "interruptions": [
     {
       "id": "9634",
@@ -15,29 +15,10 @@
       "id": "9636",
       "type": "Não Programada",
       "location": "Estrada Nacional 349- Lagoa Furadouro",
-      "start_datetime": "21/09/2026 13:00",
-      "restoration_datetime": "21/09/2026 17:00",
-      "last_updated": "21/09/2026 11:11",
-      "affected_streets": "Estrada Nacional 349- Lagoa Furadouro e ruas adjacentes",
-      "discovered_at": "21/09/2026 12:11"
-    },
-    {
-      "id": "9618",
-      "type": "Programada",
-      "location": "Sobral",
-      "start_datetime": "21/09/2026 09:00",
-      "restoration_datetime": "21/09/2026 13:00",
-      "last_updated": "15/09/2026 14:42",
-      "affected_streets": "Sobral"
-    },
-    {
-      "id": "9635",
-      "type": "Não Programada",
-      "location": "Beco Saudade- Sobral",
-      "start_datetime": "21/09/2026 11:40",
-      "restoration_datetime": "21/09/2026 13:00",
-      "last_updated": "21/09/2026 11:03",
-      "affected_streets": "Beco Saudade- Sobral e ruas adjacentes"
+      "start_datetime": "21/09/2026 15:30",
+      "restoration_datetime": "21/09/2026 19:00",
+      "last_updated": "21/09/2026 13:02",
+      "affected_streets": "Estrada Nacional 349- Lagoa Furadouro e ruas adjacentes"
     }
   ]
 }
