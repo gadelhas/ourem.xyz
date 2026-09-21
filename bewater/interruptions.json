@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T10:08:20.631242",
-  "count": 3,
+  "last_updated": "2026-09-21T11:07:17.950217",
+  "count": 4,
   "interruptions": [
     {
       "id": "9634",
@@ -19,6 +19,16 @@
       "restoration_datetime": "21/09/2026 13:00",
       "last_updated": "15/09/2026 14:42",
       "affected_streets": "Sobral"
+    },
+    {
+      "id": "9635",
+      "type": "Não Programada",
+      "location": "Beco Saudade- Sobral",
+      "start_datetime": "21/09/2026 11:40",
+      "restoration_datetime": "21/09/2026 13:00",
+      "last_updated": "21/09/2026 11:03",
+      "affected_streets": "Beco Saudade- Sobral e ruas adjacentes",
+      "discovered_at": "21/09/2026 11:07"
     },
     {
       "id": "9633",
