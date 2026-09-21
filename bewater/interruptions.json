@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T09:11:29.186439",
+  "last_updated": "2026-09-21T10:08:20.631242",
   "count": 3,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "23/09/2026 10:00",
       "restoration_datetime": "23/09/2026 11:00",
       "last_updated": "21/09/2026 08:53",
-      "affected_streets": "Rua São Francisco Assis- Cova da Iria; Rua Arcanjo São Miguel- Cova da Iria; Avenida Beato Nuno- Cova da Iria",
-      "discovered_at": "21/09/2026 09:11"
+      "affected_streets": "Rua São Francisco Assis- Cova da Iria; Rua Arcanjo São Miguel- Cova da Iria; Avenida Beato Nuno- Cova da Iria"
     },
     {
       "id": "9618",
