@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T16:08:03.169413",
-  "count": 3,
+  "last_updated": "2026-09-22T17:06:55.576159",
+  "count": 2,
   "interruptions": [
     {
       "id": "9634",
@@ -19,15 +19,6 @@
       "restoration_datetime": "22/09/2026 19:00",
       "last_updated": "22/09/2026 10:54",
       "affected_streets": "Boieiro"
-    },
-    {
-      "id": "9638",
-      "type": "Não Programada",
-      "location": "Rua António José Almeida- Ourém",
-      "start_datetime": "22/09/2026 10:20",
-      "restoration_datetime": "22/09/2026 16:25",
-      "last_updated": "22/09/2026 09:28",
-      "affected_streets": "Rua António José Almeida- Ourém e ruas adjacentes"
     }
   ]
 }
