@@ -1,24 +1,5 @@
 {
-  "last_updated": "2026-09-23T10:08:17.205464",
-  "count": 2,
-  "interruptions": [
-    {
-      "id": "9634",
-      "type": "Programada",
-      "location": "Rua São Francisco Assis- Cova da Iria",
-      "start_datetime": "23/09/2026 10:00",
-      "restoration_datetime": "23/09/2026 11:00",
-      "last_updated": "21/09/2026 08:53",
-      "affected_streets": "Rua São Francisco Assis- Cova da Iria; Rua Arcanjo São Miguel- Cova da Iria; Avenida Beato Nuno- Cova da Iria"
-    },
-    {
-      "id": "9641",
-      "type": "Não Programada",
-      "location": "Rua Principal - Giesteira",
-      "start_datetime": "23/09/2026 06:15",
-      "restoration_datetime": "23/09/2026 10:45",
-      "last_updated": "23/09/2026 06:12",
-      "affected_streets": "Rua Principal - Giesteira"
-    }
-  ]
+  "last_updated": "2026-09-23T11:07:32.587221",
+  "count": 0,
+  "interruptions": []
 }
