@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T10:08:26.111734",
+  "last_updated": "2026-09-24T11:07:31.788263",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "24/09/2026 10:45",
       "restoration_datetime": "24/09/2026 17:45",
       "last_updated": "24/09/2026 09:53",
-      "affected_streets": "Rua Casal- Santo Amaro",
-      "discovered_at": "24/09/2026 10:08"
+      "affected_streets": "Rua Casal- Santo Amaro"
     },
     {
       "id": "9644",
