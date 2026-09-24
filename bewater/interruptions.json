@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-09-24T20:08:58.295667",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9646",
-      "type": "Não Programada",
-      "location": "Rua Amieiros - Cercal",
-      "start_datetime": "24/09/2026 16:45",
-      "restoration_datetime": "24/09/2026 20:45",
-      "last_updated": "24/09/2026 15:52",
-      "affected_streets": "Rua Amieiros - Cercal e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-09-24T21:07:56.162310",
+  "count": 0,
+  "interruptions": []
 }
