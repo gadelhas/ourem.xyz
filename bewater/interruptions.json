@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T07:10:37.325393",
+  "last_updated": "2026-09-24T08:11:58.997215",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "24/09/2026 08:00",
       "restoration_datetime": "24/09/2026 11:45",
       "last_updated": "24/09/2026 07:04",
-      "affected_streets": "Rua Casalinho- Vales",
-      "discovered_at": "24/09/2026 07:10"
+      "affected_streets": "Rua Casalinho- Vales"
     },
     {
       "id": "9643",
