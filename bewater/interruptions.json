@@ -1,24 +1,25 @@
 {
-  "last_updated": "2026-09-24T09:08:44.580925",
+  "last_updated": "2026-09-24T10:08:26.111734",
   "count": 2,
   "interruptions": [
+    {
+      "id": "9645",
+      "type": "Não Programada",
+      "location": "Rua Casal- Santo Amaro",
+      "start_datetime": "24/09/2026 10:45",
+      "restoration_datetime": "24/09/2026 17:45",
+      "last_updated": "24/09/2026 09:53",
+      "affected_streets": "Rua Casal- Santo Amaro",
+      "discovered_at": "24/09/2026 10:08"
+    },
     {
       "id": "9644",
       "type": "Não Programada",
       "location": "Rua Casalinho- Vales",
       "start_datetime": "24/09/2026 08:00",
-      "restoration_datetime": "24/09/2026 11:45",
-      "last_updated": "24/09/2026 07:04",
+      "restoration_datetime": "24/09/2026 15:45",
+      "last_updated": "24/09/2026 09:16",
       "affected_streets": "Rua Casalinho- Vales"
-    },
-    {
-      "id": "9643",
-      "type": "Não Programada",
-      "location": "Travessa Salgada- Carcavelos de Cima",
-      "start_datetime": "24/09/2026 02:00",
-      "restoration_datetime": "24/09/2026 09:45",
-      "last_updated": "24/09/2026 01:19",
-      "affected_streets": "Travessa Salgada- Carcavelos de Cima"
     }
   ]
 }
