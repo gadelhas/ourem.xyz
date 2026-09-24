@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-09-24T00:20:58.055072",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-09-24T01:19:43.748094",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9643",
+      "type": "Não Programada",
+      "location": "Travessa Salgada- Carcavelos de Cima",
+      "start_datetime": "24/09/2026 02:00",
+      "restoration_datetime": "24/09/2026 09:45",
+      "last_updated": "24/09/2026 01:19",
+      "affected_streets": "Travessa Salgada- Carcavelos de Cima",
+      "discovered_at": "24/09/2026 01:19"
+    }
+  ]
 }
