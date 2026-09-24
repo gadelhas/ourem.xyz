@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T16:09:12.738612",
+  "last_updated": "2026-09-24T17:07:29.986464",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "24/09/2026 16:45",
       "restoration_datetime": "24/09/2026 20:45",
       "last_updated": "24/09/2026 15:52",
-      "affected_streets": "Rua Amieiros - Cercal e ruas adjacentes",
-      "discovered_at": "24/09/2026 16:09"
+      "affected_streets": "Rua Amieiros - Cercal e ruas adjacentes"
     },
     {
       "id": "9645",
