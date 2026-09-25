@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T07:11:34.020002",
+  "last_updated": "2026-09-25T08:11:19.020902",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "25/09/2026 07:30",
       "restoration_datetime": "25/09/2026 12:00",
       "last_updated": "25/09/2026 06:44",
-      "affected_streets": "Murtal",
-      "discovered_at": "25/09/2026 07:11"
+      "affected_streets": "Murtal"
     },
     {
       "id": "9647",
