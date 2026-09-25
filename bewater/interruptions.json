@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T08:11:19.020902",
+  "last_updated": "2026-09-25T09:08:48.954581",
   "count": 2,
   "interruptions": [
     {
@@ -7,8 +7,8 @@
       "type": "Não Programada",
       "location": "Murtal",
       "start_datetime": "25/09/2026 07:30",
-      "restoration_datetime": "25/09/2026 12:00",
-      "last_updated": "25/09/2026 06:44",
+      "restoration_datetime": "25/09/2026 18:00",
+      "last_updated": "25/09/2026 08:52",
       "affected_streets": "Murtal"
     },
     {
@@ -16,8 +16,8 @@
       "type": "Não Programada",
       "location": "Estrada Moita- Moita Redonda",
       "start_datetime": "25/09/2026 06:45",
-      "restoration_datetime": "25/09/2026 11:00",
-      "last_updated": "25/09/2026 05:27",
+      "restoration_datetime": "25/09/2026 14:00",
+      "last_updated": "25/09/2026 08:52",
       "affected_streets": "Estrada Moita- Moita Redonda e ruas adjacentes"
     }
   ]
