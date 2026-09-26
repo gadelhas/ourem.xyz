@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-09-26T07:07:40.201114",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-09-26T08:10:43.664611",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9650",
+      "type": "Não Programada",
+      "location": "Rua da Cavadinha- Mata do Farrio",
+      "start_datetime": "26/09/2026 09:04",
+      "restoration_datetime": "26/09/2026 14:04",
+      "last_updated": "26/09/2026 08:05",
+      "affected_streets": "Rua da Cavadinha- Mata do Farrio",
+      "discovered_at": "26/09/2026 08:10"
+    }
+  ]
 }
