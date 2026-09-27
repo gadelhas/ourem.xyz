@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T08:10:25.129536",
+  "last_updated": "2026-09-27T09:08:30.105598",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "27/09/2026 08:56",
       "restoration_datetime": "27/09/2026 14:56",
       "last_updated": "27/09/2026 07:57",
-      "affected_streets": "Rua Padre Raimundo Anjos Beirão- Cova da Iria",
-      "discovered_at": "27/09/2026 08:10"
+      "affected_streets": "Rua Padre Raimundo Anjos Beirão- Cova da Iria"
     }
   ]
 }
