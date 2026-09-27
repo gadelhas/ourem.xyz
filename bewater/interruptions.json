@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-09-27T14:07:10.859890",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9651",
-      "type": "Não Programada",
-      "location": "Rua Padre Raimundo Anjos Beirão- Cova da Iria",
-      "start_datetime": "27/09/2026 08:56",
-      "restoration_datetime": "27/09/2026 14:56",
-      "last_updated": "27/09/2026 07:57",
-      "affected_streets": "Rua Padre Raimundo Anjos Beirão- Cova da Iria"
-    }
-  ]
+  "last_updated": "2026-09-27T15:07:27.628221",
+  "count": 0,
+  "interruptions": []
 }
