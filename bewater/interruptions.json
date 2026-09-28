@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T11:07:55.426362",
+  "last_updated": "2026-09-28T12:14:03.216408",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "28/09/2026 12:30",
       "restoration_datetime": "28/09/2026 18:30",
       "last_updated": "28/09/2026 11:06",
-      "affected_streets": "Rua Pinheiro Velho- Casal do Pinheiro e ruas adjacentes",
-      "discovered_at": "28/09/2026 11:07"
+      "affected_streets": "Rua Pinheiro Velho- Casal do Pinheiro e ruas adjacentes"
     }
   ]
 }
