@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-09-29T04:10:00.836047",
-  "count": 1,
+  "last_updated": "2026-09-29T05:08:45.623905",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9654",
+      "type": "Não Programada",
+      "location": "Óbidos",
+      "start_datetime": "29/09/2026 05:10",
+      "restoration_datetime": "29/09/2026 16:00",
+      "last_updated": "29/09/2026 04:28",
+      "affected_streets": "Óbidos",
+      "discovered_at": "29/09/2026 05:08"
+    },
     {
       "id": "9653",
       "type": "Não Programada",
