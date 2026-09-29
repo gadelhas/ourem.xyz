@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-09-29T00:24:00.613137",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-09-29T01:24:42.149900",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9653",
+      "type": "Não Programada",
+      "location": "Rua Senhora Penha de França- Valada",
+      "start_datetime": "29/09/2026 01:25",
+      "restoration_datetime": "29/09/2026 13:00",
+      "last_updated": "29/09/2026 00:41",
+      "affected_streets": "Rua Senhora Penha de França- Valada e ruas adjacentes",
+      "discovered_at": "29/09/2026 01:24"
+    }
+  ]
 }
