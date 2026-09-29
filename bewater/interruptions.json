@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T05:08:45.623905",
+  "last_updated": "2026-09-29T06:14:37.454925",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "29/09/2026 05:10",
       "restoration_datetime": "29/09/2026 16:00",
       "last_updated": "29/09/2026 04:28",
-      "affected_streets": "Óbidos",
-      "discovered_at": "29/09/2026 05:08"
+      "affected_streets": "Óbidos"
     },
     {
       "id": "9653",
