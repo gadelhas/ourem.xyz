@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-10-01T05:08:31.708133",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-10-01T06:15:13.843911",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9660",
+      "type": "Não Programada",
+      "location": "Rua 25 de Maio- Caxarias",
+      "start_datetime": "01/10/2026 06:50",
+      "restoration_datetime": "01/10/2026 11:00",
+      "last_updated": "01/10/2026 05:13",
+      "affected_streets": "Rua 25 de Maio- Caxarias",
+      "discovered_at": "01/10/2026 06:15"
+    }
+  ]
 }
