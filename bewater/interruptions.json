@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-10-01T13:10:54.906703",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-10-01T14:09:22.966642",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9661",
+      "type": "Programada",
+      "location": "Coucões",
+      "start_datetime": "06/10/2026 09:00",
+      "restoration_datetime": "06/10/2026 13:00",
+      "last_updated": "01/10/2026 13:31",
+      "affected_streets": "Coucões; Castelo; Freiria; Vale do Freixo; Costa; Sesmarias; Pinhais Novos; Vale da Joana; Cumieira; Lagoa da Pedra",
+      "discovered_at": "01/10/2026 14:09"
+    }
+  ]
 }
