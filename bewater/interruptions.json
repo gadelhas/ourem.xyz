@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T18:11:48.546928",
-  "count": 1,
+  "last_updated": "2026-10-01T19:07:02.436127",
+  "count": 2,
   "interruptions": [
     {
       "id": "9661",
@@ -10,6 +10,16 @@
       "restoration_datetime": "06/10/2026 13:00",
       "last_updated": "01/10/2026 13:31",
       "affected_streets": "Coucões; Castelo; Freiria; Vale do Freixo; Costa; Sesmarias; Pinhais Novos; Vale da Joana; Cumieira; Lagoa da Pedra"
+    },
+    {
+      "id": "9662",
+      "type": "Não Programada",
+      "location": "Rua Nossa Senhora da Graça- Sobral",
+      "start_datetime": "01/10/2026 19:20",
+      "restoration_datetime": "01/10/2026 22:20",
+      "last_updated": "01/10/2026 18:44",
+      "affected_streets": "Rua Nossa Senhora da Graça- Sobral e ruas adjacentes",
+      "discovered_at": "01/10/2026 19:07"
     }
   ]
 }
