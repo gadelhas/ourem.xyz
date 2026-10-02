@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T17:07:25.780549",
-  "count": 3,
+  "last_updated": "2026-10-02T18:10:55.253950",
+  "count": 4,
   "interruptions": [
     {
       "id": "9661",
@@ -19,6 +19,16 @@
       "restoration_datetime": "07/10/2026 13:00",
       "last_updated": "02/10/2026 15:25",
       "affected_streets": "Atouguia; São Sebastião; Alvega"
+    },
+    {
+      "id": "9667",
+      "type": "Não Programada",
+      "location": "Rua Charneca- Giesteira",
+      "start_datetime": "02/10/2026 18:45",
+      "restoration_datetime": "02/10/2026 21:45",
+      "last_updated": "02/10/2026 17:56",
+      "affected_streets": "Rua Charneca- Giesteira e ruas adjacentes",
+      "discovered_at": "02/10/2026 18:10"
     },
     {
       "id": "9665",
