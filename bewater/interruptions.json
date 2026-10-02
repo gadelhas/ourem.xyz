@@ -1,15 +1,25 @@
 {
-  "last_updated": "2026-10-02T14:08:56.789660",
-  "count": 1,
+  "last_updated": "2026-10-02T15:08:16.224129",
+  "count": 2,
   "interruptions": [
     {
       "id": "9661",
       "type": "Programada",
       "location": "Coucões",
-      "start_datetime": "06/10/2026 09:00",
-      "restoration_datetime": "06/10/2026 13:00",
-      "last_updated": "01/10/2026 13:31",
+      "start_datetime": "07/10/2026 09:00",
+      "restoration_datetime": "07/10/2026 13:00",
+      "last_updated": "02/10/2026 15:06",
       "affected_streets": "Coucões; Castelo; Freiria; Vale do Freixo; Costa; Sesmarias; Pinhais Novos; Vale da Joana; Cumieira; Lagoa da Pedra"
+    },
+    {
+      "id": "9665",
+      "type": "Não Programada",
+      "location": "Rua Vale de Leiria- Mourã",
+      "start_datetime": "02/10/2026 15:25",
+      "restoration_datetime": "02/10/2026 18:25",
+      "last_updated": "02/10/2026 14:30",
+      "affected_streets": "Rua Vale de Leiria- Mourã; Vale de Leiria e ruas adjacentes",
+      "discovered_at": "02/10/2026 15:08"
     }
   ]
 }
