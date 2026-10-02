@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T16:08:22.465147",
+  "last_updated": "2026-10-02T17:07:25.780549",
   "count": 3,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "07/10/2026 09:00",
       "restoration_datetime": "07/10/2026 13:00",
       "last_updated": "02/10/2026 15:25",
-      "affected_streets": "Atouguia; São Sebastião; Alvega",
-      "discovered_at": "02/10/2026 16:08"
+      "affected_streets": "Atouguia; São Sebastião; Alvega"
     },
     {
       "id": "9665",
