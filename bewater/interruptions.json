@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T10:08:06.170399",
-  "count": 2,
+  "last_updated": "2026-10-02T11:07:40.118427",
+  "count": 3,
   "interruptions": [
     {
       "id": "9661",
@@ -10,6 +10,16 @@
       "restoration_datetime": "06/10/2026 13:00",
       "last_updated": "01/10/2026 13:31",
       "affected_streets": "Coucões; Castelo; Freiria; Vale do Freixo; Costa; Sesmarias; Pinhais Novos; Vale da Joana; Cumieira; Lagoa da Pedra"
+    },
+    {
+      "id": "9664",
+      "type": "Não Programada",
+      "location": "Rua da Cavadinha- Mata do Farrio",
+      "start_datetime": "02/10/2026 11:40",
+      "restoration_datetime": "02/10/2026 13:40",
+      "last_updated": "02/10/2026 10:43",
+      "affected_streets": "Rua da Cavadinha- Mata do Farrio e ruas adjacentes",
+      "discovered_at": "02/10/2026 11:07"
     },
     {
       "id": "9663",
