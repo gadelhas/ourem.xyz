@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T11:07:59.249831",
+  "last_updated": "2026-10-05T12:13:34.241154",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "05/10/2026 11:42",
       "restoration_datetime": "05/10/2026 17:42",
       "last_updated": "05/10/2026 10:43",
-      "affected_streets": "Travessa Rossio- Aldeia Nova",
-      "discovered_at": "05/10/2026 11:07"
+      "affected_streets": "Travessa Rossio- Aldeia Nova"
     }
   ]
 }
