@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T10:11:28.932998",
-  "count": 2,
+  "last_updated": "2026-10-05T11:07:59.249831",
+  "count": 3,
   "interruptions": [
     {
       "id": "9661",
@@ -19,6 +19,16 @@
       "restoration_datetime": "07/10/2026 13:00",
       "last_updated": "02/10/2026 15:25",
       "affected_streets": "Atouguia; São Sebastião; Alvega"
+    },
+    {
+      "id": "9669",
+      "type": "Não Programada",
+      "location": "Travessa Rossio- Aldeia Nova",
+      "start_datetime": "05/10/2026 11:42",
+      "restoration_datetime": "05/10/2026 17:42",
+      "last_updated": "05/10/2026 10:43",
+      "affected_streets": "Travessa Rossio- Aldeia Nova",
+      "discovered_at": "05/10/2026 11:07"
     }
   ]
 }
