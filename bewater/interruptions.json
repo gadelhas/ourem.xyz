@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T10:08:33.077071",
+  "last_updated": "2026-10-06T11:07:33.640113",
   "count": 4,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "06/10/2026 10:00",
       "restoration_datetime": "06/10/2026 17:00",
       "last_updated": "06/10/2026 09:21",
-      "affected_streets": "Rua Rainha Santa Isabel- Caxarias",
-      "discovered_at": "06/10/2026 10:08"
+      "affected_streets": "Rua Rainha Santa Isabel- Caxarias"
     },
     {
       "id": "9670",
