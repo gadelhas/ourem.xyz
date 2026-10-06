@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T18:10:21.272840",
+  "last_updated": "2026-10-06T19:06:17.420869",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "06/10/2026 18:50",
       "restoration_datetime": "06/10/2026 23:00",
       "last_updated": "06/10/2026 18:05",
-      "affected_streets": "Rua Fontinha- Brejo e ruas adjacentes",
-      "discovered_at": "06/10/2026 18:10"
+      "affected_streets": "Rua Fontinha- Brejo e ruas adjacentes"
     }
   ]
 }
