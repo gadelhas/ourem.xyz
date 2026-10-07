@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-10-07T21:07:28.558577",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9675",
-      "type": "Não Programada",
-      "location": "Costa",
-      "start_datetime": "07/10/2026 17:00",
-      "restoration_datetime": "07/10/2026 22:00",
-      "last_updated": "07/10/2026 16:03",
-      "affected_streets": "Costa; Sesmarias"
-    }
-  ]
+  "last_updated": "2026-10-07T22:07:34.102411",
+  "count": 0,
+  "interruptions": []
 }
