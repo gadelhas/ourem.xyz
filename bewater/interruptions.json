@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T16:09:43.683231",
+  "last_updated": "2026-10-07T17:14:59.845622",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "07/10/2026 17:00",
       "restoration_datetime": "07/10/2026 22:00",
       "last_updated": "07/10/2026 16:03",
-      "affected_streets": "Costa; Sesmarias",
-      "discovered_at": "07/10/2026 16:09"
+      "affected_streets": "Costa; Sesmarias"
     }
   ]
 }
