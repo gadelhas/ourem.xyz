@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T11:07:19.606960",
-  "count": 4,
+  "last_updated": "2026-10-07T12:13:28.832817",
+  "count": 3,
   "interruptions": [
     {
       "id": "9674",
@@ -28,15 +28,6 @@
       "restoration_datetime": "07/10/2026 13:00",
       "last_updated": "02/10/2026 15:25",
       "affected_streets": "Atouguia; São Sebastião; Alvega"
-    },
-    {
-      "id": "9673",
-      "type": "Não Programada",
-      "location": "Rua Escola- Barrocaria",
-      "start_datetime": "06/10/2026 23:25",
-      "restoration_datetime": "07/10/2026 12:00",
-      "last_updated": "06/10/2026 22:44",
-      "affected_streets": "Rua Escola- Barrocaria; Vales; Cercal; Ninho de Águia; Vale Feto; Matos"
     }
   ]
 }
