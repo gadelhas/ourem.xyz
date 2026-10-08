@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T17:07:41.260072",
+  "last_updated": "2026-10-08T18:10:29.684149",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "08/10/2026 17:25",
       "restoration_datetime": "08/10/2026 23:30",
       "last_updated": "08/10/2026 16:24",
-      "affected_streets": "Sorieira; Vale de Cordela; Faletia; Barreira; Lameirinha; Valados",
-      "discovered_at": "08/10/2026 17:07"
+      "affected_streets": "Sorieira; Vale de Cordela; Faletia; Barreira; Lameirinha; Valados"
     }
   ]
 }
