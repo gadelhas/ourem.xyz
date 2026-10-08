@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-10-08T13:13:15.584128",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9676",
-      "type": "Não Programada",
-      "location": "Moita Redonda",
-      "start_datetime": "08/10/2026 07:15",
-      "restoration_datetime": "08/10/2026 13:15",
-      "last_updated": "08/10/2026 06:16",
-      "affected_streets": "Moita Redonda"
-    }
-  ]
+  "last_updated": "2026-10-08T14:09:15.350097",
+  "count": 0,
+  "interruptions": []
 }
