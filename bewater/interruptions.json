@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-10-08T21:07:53.079018",
-  "count": 1,
+  "last_updated": "2026-10-08T22:07:56.613620",
+  "count": 3,
   "interruptions": [
+    {
+      "id": "9679",
+      "type": "Não Programada",
+      "location": "Rua Padre Sousa- Matos",
+      "start_datetime": "08/10/2026 22:40",
+      "restoration_datetime": "09/10/2026 12:00",
+      "last_updated": "08/10/2026 21:55",
+      "affected_streets": "Rua Padre Sousa- Matos",
+      "discovered_at": "08/10/2026 22:07"
+    },
+    {
+      "id": "9678",
+      "type": "Não Programada",
+      "location": "Rua Padrão - Seiça",
+      "start_datetime": "08/10/2026 21:00",
+      "restoration_datetime": "09/10/2026 09:00",
+      "last_updated": "08/10/2026 21:53",
+      "affected_streets": "Rua Padrão - Seiça; Estrada Nacional 113- Seiça",
+      "discovered_at": "08/10/2026 22:07"
+    },
     {
       "id": "9677",
       "type": "Não Programada",
