@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T10:08:51.177798",
+  "last_updated": "2026-10-09T11:07:56.143553",
   "count": 3,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "09/10/2026 10:56",
       "restoration_datetime": "09/10/2026 16:57",
       "last_updated": "09/10/2026 09:58",
-      "affected_streets": "Faletia; Sorieira; Lameirinha",
-      "discovered_at": "09/10/2026 10:08"
+      "affected_streets": "Faletia; Sorieira; Lameirinha"
     },
     {
       "id": "9680",
@@ -28,8 +27,7 @@
       "start_datetime": "09/10/2026 08:00",
       "restoration_datetime": "09/10/2026 15:00",
       "last_updated": "09/10/2026 09:35",
-      "affected_streets": "Pederneira; Vale das Antas",
-      "discovered_at": "09/10/2026 10:08"
+      "affected_streets": "Pederneira; Vale das Antas"
     }
   ]
 }
