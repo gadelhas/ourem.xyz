@@ -1,15 +1,35 @@
 {
-  "last_updated": "2026-10-09T09:12:21.758607",
-  "count": 1,
+  "last_updated": "2026-10-09T10:08:51.177798",
+  "count": 3,
   "interruptions": [
     {
       "id": "9679",
       "type": "Não Programada",
       "location": "Rua Padre Sousa- Matos",
       "start_datetime": "08/10/2026 22:40",
-      "restoration_datetime": "09/10/2026 12:00",
-      "last_updated": "08/10/2026 21:55",
+      "restoration_datetime": "09/10/2026 18:00",
+      "last_updated": "09/10/2026 09:55",
       "affected_streets": "Rua Padre Sousa- Matos"
+    },
+    {
+      "id": "9681",
+      "type": "Não Programada",
+      "location": "Faletia",
+      "start_datetime": "09/10/2026 10:56",
+      "restoration_datetime": "09/10/2026 16:57",
+      "last_updated": "09/10/2026 09:58",
+      "affected_streets": "Faletia; Sorieira; Lameirinha",
+      "discovered_at": "09/10/2026 10:08"
+    },
+    {
+      "id": "9680",
+      "type": "Não Programada",
+      "location": "Pederneira",
+      "start_datetime": "09/10/2026 08:00",
+      "restoration_datetime": "09/10/2026 15:00",
+      "last_updated": "09/10/2026 09:35",
+      "affected_streets": "Pederneira; Vale das Antas",
+      "discovered_at": "09/10/2026 10:08"
     }
   ]
 }
