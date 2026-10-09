@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-10-09T11:07:56.143553",
-  "count": 3,
+  "last_updated": "2026-10-09T12:12:06.682446",
+  "count": 4,
   "interruptions": [
+    {
+      "id": "9682",
+      "type": "Programada",
+      "location": "Rua Cabaça- Eira da Pedra",
+      "start_datetime": "16/10/2026 09:30",
+      "restoration_datetime": "16/10/2026 13:00",
+      "last_updated": "09/10/2026 11:37",
+      "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes",
+      "discovered_at": "09/10/2026 12:12"
+    },
     {
       "id": "9679",
       "type": "Não Programada",
