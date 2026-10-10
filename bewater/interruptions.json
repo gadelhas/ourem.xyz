@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T14:07:41.671051",
-  "count": 1,
+  "last_updated": "2026-10-10T15:07:41.143167",
+  "count": 2,
   "interruptions": [
     {
       "id": "9682",
@@ -10,6 +10,16 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
+    },
+    {
+      "id": "9692",
+      "type": "Não Programada",
+      "location": "Marta de Baixo",
+      "start_datetime": "10/10/2026 16:00",
+      "restoration_datetime": "10/10/2026 19:00",
+      "last_updated": "10/10/2026 15:07",
+      "affected_streets": "Marta de Baixo; Marta de Cima",
+      "discovered_at": "10/10/2026 15:07"
     }
   ]
 }
