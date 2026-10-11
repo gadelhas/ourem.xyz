@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T15:07:19.839711",
+  "last_updated": "2026-10-11T16:08:55.845032",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "11/10/2026 15:30",
       "restoration_datetime": "11/10/2026 18:00",
       "last_updated": "11/10/2026 14:58",
-      "affected_streets": "Rua Cidade de Ourém- Caxarias e ruas adjacentes",
-      "discovered_at": "11/10/2026 15:07"
+      "affected_streets": "Rua Cidade de Ourém- Caxarias e ruas adjacentes"
     }
   ]
 }
