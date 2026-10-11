@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T14:07:51.010338",
+  "last_updated": "2026-10-11T15:07:19.839711",
   "count": 2,
   "interruptions": [
     {
@@ -12,13 +12,14 @@
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
     },
     {
-      "id": "9693",
+      "id": "9694",
       "type": "Não Programada",
-      "location": "São Sebastião",
-      "start_datetime": "11/10/2026 09:20",
-      "restoration_datetime": "11/10/2026 15:00",
-      "last_updated": "11/10/2026 08:58",
-      "affected_streets": "São Sebastião"
+      "location": "Rua Cidade de Ourém- Caxarias",
+      "start_datetime": "11/10/2026 15:30",
+      "restoration_datetime": "11/10/2026 18:00",
+      "last_updated": "11/10/2026 14:58",
+      "affected_streets": "Rua Cidade de Ourém- Caxarias e ruas adjacentes",
+      "discovered_at": "11/10/2026 15:07"
     }
   ]
 }
