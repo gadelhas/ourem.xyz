@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T08:10:44.692682",
-  "count": 1,
+  "last_updated": "2026-10-11T09:08:21.816869",
+  "count": 2,
   "interruptions": [
     {
       "id": "9682",
@@ -10,6 +10,16 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
+    },
+    {
+      "id": "9693",
+      "type": "Não Programada",
+      "location": "São Sebastião",
+      "start_datetime": "11/10/2026 09:20",
+      "restoration_datetime": "11/10/2026 15:00",
+      "last_updated": "11/10/2026 08:58",
+      "affected_streets": "São Sebastião",
+      "discovered_at": "11/10/2026 09:08"
     }
   ]
 }
