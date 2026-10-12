@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T20:08:47.292767",
-  "count": 2,
+  "last_updated": "2026-10-12T21:06:54.967114",
+  "count": 1,
   "interruptions": [
     {
       "id": "9682",
@@ -10,15 +10,6 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
-    },
-    {
-      "id": "9696",
-      "type": "Não Programada",
-      "location": "Aldeia Nova",
-      "start_datetime": "12/10/2026 14:36",
-      "restoration_datetime": "12/10/2026 20:36",
-      "last_updated": "12/10/2026 13:37",
-      "affected_streets": "Aldeia Nova; Carcavelos de Cima; Carcavelos de Baixo; Esperança; Ribeira; Gaiteiros; Paiveira; Mossomodia; Pairia; Casaria"
     }
   ]
 }
