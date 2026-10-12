@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T07:33:24.005252",
+  "last_updated": "2026-10-12T08:25:04.788703",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "12/10/2026 07:30",
       "restoration_datetime": "12/10/2026 14:30",
       "last_updated": "12/10/2026 06:36",
-      "affected_streets": "Vale do Freixo; Costa",
-      "discovered_at": "12/10/2026 07:33"
+      "affected_streets": "Vale do Freixo; Costa"
     }
   ]
 }
