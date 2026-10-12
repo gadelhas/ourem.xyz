@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T06:22:35.929690",
-  "count": 1,
+  "last_updated": "2026-10-12T07:33:24.005252",
+  "count": 2,
   "interruptions": [
     {
       "id": "9682",
@@ -10,6 +10,16 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
+    },
+    {
+      "id": "9695",
+      "type": "Não Programada",
+      "location": "Vale do Freixo",
+      "start_datetime": "12/10/2026 07:30",
+      "restoration_datetime": "12/10/2026 14:30",
+      "last_updated": "12/10/2026 06:36",
+      "affected_streets": "Vale do Freixo; Costa",
+      "discovered_at": "12/10/2026 07:33"
     }
   ]
 }
