@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T20:08:35.043460",
-  "count": 1,
+  "last_updated": "2026-10-13T21:06:32.592102",
+  "count": 2,
   "interruptions": [
     {
       "id": "9682",
@@ -10,6 +10,15 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
+    },
+    {
+      "id": "9698",
+      "type": "Não Programada",
+      "location": "Óbidos",
+      "start_datetime": "13/10/2026 11:58",
+      "restoration_datetime": "13/10/2026 22:00",
+      "last_updated": "13/10/2026 20:59",
+      "affected_streets": "Óbidos; Areias"
     }
   ]
 }
