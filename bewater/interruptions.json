@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T07:21:32.779903",
+  "last_updated": "2026-10-13T08:16:22.061176",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "13/10/2026 07:40",
       "restoration_datetime": "13/10/2026 13:40",
       "last_updated": "13/10/2026 06:38",
-      "affected_streets": "Freiria",
-      "discovered_at": "13/10/2026 07:21"
+      "affected_streets": "Freiria"
     }
   ]
 }
