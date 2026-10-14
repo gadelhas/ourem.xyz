@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T08:10:50.098268",
-  "count": 2,
+  "last_updated": "2026-10-14T09:09:23.297518",
+  "count": 3,
   "interruptions": [
     {
       "id": "9682",
@@ -10,6 +10,16 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
+    },
+    {
+      "id": "9700",
+      "type": "Não Programada",
+      "location": "Alqueidão",
+      "start_datetime": "14/10/2026 09:30",
+      "restoration_datetime": "14/10/2026 12:30",
+      "last_updated": "14/10/2026 08:28",
+      "affected_streets": "Alqueidão; Gravia; Fonte Catarina; Casais da Caridade",
+      "discovered_at": "14/10/2026 09:09"
     },
     {
       "id": "9699",
