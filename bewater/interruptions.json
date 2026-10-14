@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T06:13:21.151147",
-  "count": 1,
+  "last_updated": "2026-10-14T07:12:17.833177",
+  "count": 2,
   "interruptions": [
     {
       "id": "9682",
@@ -10,6 +10,16 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
+    },
+    {
+      "id": "9699",
+      "type": "Não Programada",
+      "location": "Rua Capela- Marta de Cima",
+      "start_datetime": "14/10/2026 07:45",
+      "restoration_datetime": "14/10/2026 10:45",
+      "last_updated": "14/10/2026 06:44",
+      "affected_streets": "Rua Capela- Marta de Cima; Rua Vale- Marta de Cima e ruas adjacentes",
+      "discovered_at": "14/10/2026 07:12"
     }
   ]
 }
