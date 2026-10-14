@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T07:12:17.833177",
+  "last_updated": "2026-10-14T08:10:50.098268",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "14/10/2026 07:45",
       "restoration_datetime": "14/10/2026 10:45",
       "last_updated": "14/10/2026 06:44",
-      "affected_streets": "Rua Capela- Marta de Cima; Rua Vale- Marta de Cima e ruas adjacentes",
-      "discovered_at": "14/10/2026 07:12"
+      "affected_streets": "Rua Capela- Marta de Cima; Rua Vale- Marta de Cima e ruas adjacentes"
     }
   ]
 }
