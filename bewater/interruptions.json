@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T07:11:56.366153",
+  "last_updated": "2026-10-15T08:10:45.476138",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "15/10/2026 08:00",
       "restoration_datetime": "15/10/2026 16:00",
       "last_updated": "15/10/2026 07:07",
-      "affected_streets": "Cercal",
-      "discovered_at": "15/10/2026 07:11"
+      "affected_streets": "Cercal"
     }
   ]
 }
