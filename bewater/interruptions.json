@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T06:13:52.844723",
-  "count": 1,
+  "last_updated": "2026-10-15T07:11:56.366153",
+  "count": 2,
   "interruptions": [
     {
       "id": "9682",
@@ -10,6 +10,16 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
+    },
+    {
+      "id": "9703",
+      "type": "Não Programada",
+      "location": "Cercal",
+      "start_datetime": "15/10/2026 08:00",
+      "restoration_datetime": "15/10/2026 16:00",
+      "last_updated": "15/10/2026 07:07",
+      "affected_streets": "Cercal",
+      "discovered_at": "15/10/2026 07:11"
     }
   ]
 }
