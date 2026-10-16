@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T12:11:56.724391",
-  "count": 2,
+  "last_updated": "2026-10-16T13:08:19.841282",
+  "count": 1,
   "interruptions": [
     {
       "id": "9706",
@@ -9,17 +9,7 @@
       "start_datetime": "16/10/2026 12:15",
       "restoration_datetime": "16/10/2026 13:45",
       "last_updated": "16/10/2026 11:32",
-      "affected_streets": "Fonte Catarina; Gravia",
-      "discovered_at": "16/10/2026 12:11"
-    },
-    {
-      "id": "9682",
-      "type": "Programada",
-      "location": "Rua Cabaça- Eira da Pedra",
-      "start_datetime": "16/10/2026 09:30",
-      "restoration_datetime": "16/10/2026 13:00",
-      "last_updated": "09/10/2026 11:37",
-      "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
+      "affected_streets": "Fonte Catarina; Gravia"
     }
   ]
 }
