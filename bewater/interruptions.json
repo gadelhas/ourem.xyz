@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T09:08:45.977139",
-  "count": 2,
+  "last_updated": "2026-10-16T10:07:48.234259",
+  "count": 1,
   "interruptions": [
     {
       "id": "9682",
@@ -10,15 +10,6 @@
       "restoration_datetime": "16/10/2026 13:00",
       "last_updated": "09/10/2026 11:37",
       "affected_streets": "Rua Cabaça- Eira da Pedra e ruas adjacentes"
-    },
-    {
-      "id": "9705",
-      "type": "Não Programada",
-      "location": "Outeiro da Calçada",
-      "start_datetime": "16/10/2026 07:40",
-      "restoration_datetime": "16/10/2026 10:00",
-      "last_updated": "16/10/2026 06:51",
-      "affected_streets": "Outeiro da Calçada"
     }
   ]
 }
