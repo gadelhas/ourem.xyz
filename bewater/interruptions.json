@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-10-16T13:08:19.841282",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9706",
-      "type": "Não Programada",
-      "location": "Fonte Catarina",
-      "start_datetime": "16/10/2026 12:15",
-      "restoration_datetime": "16/10/2026 13:45",
-      "last_updated": "16/10/2026 11:32",
-      "affected_streets": "Fonte Catarina; Gravia"
-    }
-  ]
+  "last_updated": "2026-10-16T14:08:03.649218",
+  "count": 0,
+  "interruptions": []
 }
