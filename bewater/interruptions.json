@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T18:09:34.253465",
+  "last_updated": "2026-10-16T19:06:19.322992",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/10/2026 18:40",
       "restoration_datetime": "16/10/2026 22:40",
       "last_updated": "16/10/2026 17:49",
-      "affected_streets": "Marta de Baixo; Marta de Cima; Vermoeira",
-      "discovered_at": "16/10/2026 18:09"
+      "affected_streets": "Marta de Baixo; Marta de Cima; Vermoeira"
     }
   ]
 }
