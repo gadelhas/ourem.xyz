@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-10-17T07:07:22.151133",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-10-17T08:09:05.842545",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9708",
+      "type": "Não Programada",
+      "location": "Carcavelos de Cima",
+      "start_datetime": "17/10/2026 08:57",
+      "restoration_datetime": "17/10/2026 12:57",
+      "last_updated": "17/10/2026 07:57",
+      "affected_streets": "Carcavelos de Cima",
+      "discovered_at": "17/10/2026 08:09"
+    }
+  ]
 }
