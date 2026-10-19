@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T07:24:29.972974",
+  "last_updated": "2026-10-19T08:14:59.355430",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "19/10/2026 06:00",
       "restoration_datetime": "19/10/2026 10:45",
       "last_updated": "19/10/2026 07:11",
-      "affected_streets": "Rua 25 de Maio- Caxarias",
-      "discovered_at": "19/10/2026 07:24"
+      "affected_streets": "Rua 25 de Maio- Caxarias"
     }
   ]
 }
