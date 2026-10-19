@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-10-19T22:07:34.296882",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9711",
-      "type": "Não Programada",
-      "location": "Zona Industrial Rua B- Casal dos Frades",
-      "start_datetime": "19/10/2026 18:35",
-      "restoration_datetime": "19/10/2026 22:35",
-      "last_updated": "19/10/2026 17:44",
-      "affected_streets": "Zona Industrial Rua B- Casal dos Frades"
-    }
-  ]
+  "last_updated": "2026-10-19T23:06:52.558054",
+  "count": 0,
+  "interruptions": []
 }
