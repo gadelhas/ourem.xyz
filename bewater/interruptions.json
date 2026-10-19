@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T18:10:20.129649",
+  "last_updated": "2026-10-19T19:05:57.571976",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "19/10/2026 18:35",
       "restoration_datetime": "19/10/2026 22:35",
       "last_updated": "19/10/2026 17:44",
-      "affected_streets": "Zona Industrial Rua B- Casal dos Frades",
-      "discovered_at": "19/10/2026 18:10"
+      "affected_streets": "Zona Industrial Rua B- Casal dos Frades"
     }
   ]
 }
