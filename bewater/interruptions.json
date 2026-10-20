@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T10:07:14.402174",
+  "last_updated": "2026-10-20T11:07:58.226199",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "22/10/2026 14:15",
       "restoration_datetime": "22/10/2026 18:00",
       "last_updated": "20/10/2026 09:56",
-      "affected_streets": "Rua Olivais- Toucinhos; Rua Vale Padre- Toucinhos; Rua S. Salvador- Toucinhos; Rua Talhos- Toucinhos; Rua Fonte- Toucinhos e ruas adjacentes",
-      "discovered_at": "20/10/2026 10:07"
+      "affected_streets": "Rua Olivais- Toucinhos; Rua Vale Padre- Toucinhos; Rua S. Salvador- Toucinhos; Rua Talhos- Toucinhos; Rua Fonte- Toucinhos e ruas adjacentes"
     },
     {
       "id": "9713",
