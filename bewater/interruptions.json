@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T07:13:59.667808",
+  "last_updated": "2026-10-21T08:10:25.374421",
   "count": 3,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "21/10/2026 08:00",
       "restoration_datetime": "21/10/2026 11:45",
       "last_updated": "21/10/2026 07:11",
-      "affected_streets": "Rua Clube Desportivo Vilarense- Vilar Prazeres",
-      "discovered_at": "21/10/2026 07:13"
+      "affected_streets": "Rua Clube Desportivo Vilarense- Vilar Prazeres"
     },
     {
       "id": "9715",
@@ -28,8 +27,7 @@
       "start_datetime": "21/10/2026 07:45",
       "restoration_datetime": "21/10/2026 10:00",
       "last_updated": "21/10/2026 07:10",
-      "affected_streets": "Rua Texugueira- Carvalhal de Seiça",
-      "discovered_at": "21/10/2026 07:13"
+      "affected_streets": "Rua Texugueira- Carvalhal de Seiça"
     }
   ]
 }
