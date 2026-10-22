@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T07:14:32.765246",
-  "count": 2,
+  "last_updated": "2026-10-22T08:10:52.900851",
+  "count": 3,
   "interruptions": [
     {
       "id": "9714",
@@ -12,14 +12,23 @@
       "affected_streets": "Rua Olivais- Toucinhos; Rua Vale Padre- Toucinhos; Rua S. Salvador- Toucinhos; Rua Talhos- Toucinhos; Rua Fonte- Toucinhos e ruas adjacentes"
     },
     {
+      "id": "9734",
+      "type": "Não Programada",
+      "location": "Pairia",
+      "start_datetime": "22/10/2026 08:30",
+      "restoration_datetime": "22/10/2026 13:30",
+      "last_updated": "22/10/2026 07:34",
+      "affected_streets": "Pairia; Capucho; Casaria; Mossomodia; Valinho",
+      "discovered_at": "22/10/2026 08:10"
+    },
+    {
       "id": "9733",
       "type": "Não Programada",
       "location": "Carvalhal",
       "start_datetime": "22/10/2026 07:10",
       "restoration_datetime": "22/10/2026 11:10",
       "last_updated": "22/10/2026 06:23",
-      "affected_streets": "Carvalhal; Maia; Vale Ugreiro; Rua Hospital- Espite; Braga; Salgueiral",
-      "discovered_at": "22/10/2026 07:14"
+      "affected_streets": "Carvalhal; Maia; Vale Ugreiro; Rua Hospital- Espite; Braga; Salgueiral"
     }
   ]
 }
