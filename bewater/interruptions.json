@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T06:13:17.379190",
-  "count": 1,
+  "last_updated": "2026-10-22T07:14:32.765246",
+  "count": 2,
   "interruptions": [
     {
       "id": "9714",
@@ -10,6 +10,16 @@
       "restoration_datetime": "22/10/2026 18:00",
       "last_updated": "20/10/2026 09:56",
       "affected_streets": "Rua Olivais- Toucinhos; Rua Vale Padre- Toucinhos; Rua S. Salvador- Toucinhos; Rua Talhos- Toucinhos; Rua Fonte- Toucinhos e ruas adjacentes"
+    },
+    {
+      "id": "9733",
+      "type": "Não Programada",
+      "location": "Carvalhal",
+      "start_datetime": "22/10/2026 07:10",
+      "restoration_datetime": "22/10/2026 11:10",
+      "last_updated": "22/10/2026 06:23",
+      "affected_streets": "Carvalhal; Maia; Vale Ugreiro; Rua Hospital- Espite; Braga; Salgueiral",
+      "discovered_at": "22/10/2026 07:14"
     }
   ]
 }
