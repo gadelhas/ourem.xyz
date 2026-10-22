@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T17:06:35.736767",
-  "count": 2,
+  "last_updated": "2026-10-22T18:09:45.351982",
+  "count": 1,
   "interruptions": [
     {
       "id": "9734",
@@ -10,15 +10,6 @@
       "restoration_datetime": "22/10/2026 18:30",
       "last_updated": "22/10/2026 15:08",
       "affected_streets": "Pairia; Capucho; Casaria; Mossomodia; Valinho; Ribeira Mossomodia; Pedreira"
-    },
-    {
-      "id": "9714",
-      "type": "Programada",
-      "location": "Rua Olivais- Toucinhos",
-      "start_datetime": "22/10/2026 14:15",
-      "restoration_datetime": "22/10/2026 18:00",
-      "last_updated": "20/10/2026 09:56",
-      "affected_streets": "Rua Olivais- Toucinhos; Rua Vale Padre- Toucinhos; Rua S. Salvador- Toucinhos; Rua Talhos- Toucinhos; Rua Fonte- Toucinhos e ruas adjacentes"
     }
   ]
 }
