@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T12:12:31.005083",
+  "last_updated": "2026-10-22T13:09:11.915901",
   "count": 3,
   "interruptions": [
     {
@@ -12,6 +12,15 @@
       "affected_streets": "Rua Olivais- Toucinhos; Rua Vale Padre- Toucinhos; Rua S. Salvador- Toucinhos; Rua Talhos- Toucinhos; Rua Fonte- Toucinhos e ruas adjacentes"
     },
     {
+      "id": "9734",
+      "type": "Não Programada",
+      "location": "Pairia",
+      "start_datetime": "22/10/2026 08:30",
+      "restoration_datetime": "22/10/2026 17:30",
+      "last_updated": "22/10/2026 12:13",
+      "affected_streets": "Pairia; Capucho; Casaria; Mossomodia; Valinho"
+    },
+    {
       "id": "9735",
       "type": "Não Programada",
       "location": "Rua Santa Teresa- Aldeia de Santa Teresa",
@@ -19,15 +28,6 @@
       "restoration_datetime": "22/10/2026 16:30",
       "last_updated": "22/10/2026 08:44",
       "affected_streets": "Rua Santa Teresa- Aldeia de Santa Teresa e ruas adjacentes"
-    },
-    {
-      "id": "9734",
-      "type": "Não Programada",
-      "location": "Pairia",
-      "start_datetime": "22/10/2026 08:30",
-      "restoration_datetime": "22/10/2026 13:30",
-      "last_updated": "22/10/2026 07:34",
-      "affected_streets": "Pairia; Capucho; Casaria; Mossomodia; Valinho"
     }
   ]
 }
