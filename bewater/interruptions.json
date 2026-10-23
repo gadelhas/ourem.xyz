@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T16:09:00.505519",
-  "count": 3,
+  "last_updated": "2026-10-23T17:06:16.308006",
+  "count": 4,
   "interruptions": [
     {
       "id": "9739",
@@ -9,8 +9,7 @@
       "start_datetime": "26/10/2026 14:15",
       "restoration_datetime": "26/10/2026 16:00",
       "last_updated": "23/10/2026 16:03",
-      "affected_streets": "Rua Francisco Marques Pereira (Pina)- Ourém e ruas adjacentes",
-      "discovered_at": "23/10/2026 16:09"
+      "affected_streets": "Rua Francisco Marques Pereira (Pina)- Ourém e ruas adjacentes"
     },
     {
       "id": "9738",
@@ -19,8 +18,17 @@
       "start_datetime": "26/10/2026 09:00",
       "restoration_datetime": "26/10/2026 12:00",
       "last_updated": "23/10/2026 16:01",
-      "affected_streets": "Estrada Figueirinhas- Alqueidão e ruas adjacentes",
-      "discovered_at": "23/10/2026 16:09"
+      "affected_streets": "Estrada Figueirinhas- Alqueidão e ruas adjacentes"
+    },
+    {
+      "id": "9740",
+      "type": "Não Programada",
+      "location": "Zona Industrial Rua B- Casal dos Frades",
+      "start_datetime": "23/10/2026 17:15",
+      "restoration_datetime": "23/10/2026 21:30",
+      "last_updated": "23/10/2026 16:30",
+      "affected_streets": "Zona Industrial Rua B- Casal dos Frades",
+      "discovered_at": "23/10/2026 17:06"
     },
     {
       "id": "9737",
