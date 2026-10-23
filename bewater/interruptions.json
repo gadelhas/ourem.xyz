@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-10-23T10:07:43.457850",
+  "last_updated": "2026-10-23T11:07:31.212688",
   "count": 1,
   "interruptions": [
     {
-      "id": "9736",
+      "id": "9737",
       "type": "Não Programada",
-      "location": "Vendas",
-      "start_datetime": "23/10/2026 08:00",
-      "restoration_datetime": "23/10/2026 11:00",
-      "last_updated": "23/10/2026 07:02",
-      "affected_streets": "Vendas"
+      "location": "Travessa Cubal- Cubal",
+      "start_datetime": "23/10/2026 11:00",
+      "restoration_datetime": "23/10/2026 18:00",
+      "last_updated": "23/10/2026 10:13",
+      "affected_streets": "Travessa Cubal- Cubal; Barreirinhas; Matas; Casa Caiada; Lavradio e ruas adjacentes",
+      "discovered_at": "23/10/2026 11:07"
     }
   ]
 }
