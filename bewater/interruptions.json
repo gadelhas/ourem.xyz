@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-10-23T06:13:31.977650",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-10-23T07:13:24.200353",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9736",
+      "type": "Não Programada",
+      "location": "Vendas",
+      "start_datetime": "23/10/2026 08:00",
+      "restoration_datetime": "23/10/2026 11:00",
+      "last_updated": "23/10/2026 07:02",
+      "affected_streets": "Vendas",
+      "discovered_at": "23/10/2026 07:13"
+    }
+  ]
 }
