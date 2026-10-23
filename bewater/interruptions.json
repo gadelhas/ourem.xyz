@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T17:06:16.308006",
-  "count": 4,
+  "last_updated": "2026-10-23T18:09:17.552612",
+  "count": 3,
   "interruptions": [
     {
       "id": "9739",
@@ -27,17 +27,7 @@
       "start_datetime": "23/10/2026 17:15",
       "restoration_datetime": "23/10/2026 21:30",
       "last_updated": "23/10/2026 16:30",
-      "affected_streets": "Zona Industrial Rua B- Casal dos Frades",
-      "discovered_at": "23/10/2026 17:06"
-    },
-    {
-      "id": "9737",
-      "type": "Não Programada",
-      "location": "Travessa Cubal- Cubal",
-      "start_datetime": "23/10/2026 11:00",
-      "restoration_datetime": "23/10/2026 18:00",
-      "last_updated": "23/10/2026 10:13",
-      "affected_streets": "Travessa Cubal- Cubal; Barreirinhas; Matas; Casa Caiada; Lavradio e ruas adjacentes"
+      "affected_streets": "Zona Industrial Rua B- Casal dos Frades"
     }
   ]
 }
