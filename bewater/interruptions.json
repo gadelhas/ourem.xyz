@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T09:07:17.593812",
+  "last_updated": "2026-10-24T10:07:01.161944",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "24/10/2026 09:40",
       "restoration_datetime": "24/10/2026 13:40",
       "last_updated": "24/10/2026 08:45",
-      "affected_streets": "Estrada Fátima- Atouguia e ruas adjacentes",
-      "discovered_at": "24/10/2026 09:07"
+      "affected_streets": "Estrada Fátima- Atouguia e ruas adjacentes"
     }
   ]
 }
