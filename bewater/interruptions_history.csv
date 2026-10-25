@@ -534,3 +534,5 @@ id,type,location,start_datetime,restoration_datetime,last_updated,affected_stree
 9738,Programada,Estrada Figueirinhas- Alqueidão,26/10/2026 09:00,26/10/2026 12:00,23/10/2026 16:01,Estrada Figueirinhas- Alqueidão e ruas adjacentes,23/10/2026 16:09
 9740,Não Programada,Zona Industrial Rua B- Casal dos Frades,23/10/2026 17:15,23/10/2026 21:30,23/10/2026 16:30,Zona Industrial Rua B- Casal dos Frades,23/10/2026 17:06
 9741,Não Programada,Estrada Fátima- Atouguia,24/10/2026 09:40,24/10/2026 13:40,24/10/2026 08:45,Estrada Fátima- Atouguia e ruas adjacentes,24/10/2026 09:07
+9742,Não Programada,Rua Principal - Cercal,25/10/2026 09:55,25/10/2026 13:55,25/10/2026 10:00,Rua Principal - Cercal; Rua Lagar - Cercal,25/10/2026 11:06
+9743,Não Programada,Rua Principal- Cercal,25/10/2026 09:55,25/10/2026 13:55,25/10/2026 10:07,Rua Principal- Cercal e ruas adjacentes,25/10/2026 11:06
