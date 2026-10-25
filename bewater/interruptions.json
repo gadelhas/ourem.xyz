@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T15:06:30.749939",
+  "last_updated": "2026-10-25T16:07:40.726783",
   "count": 3,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "25/10/2026 14:20",
       "restoration_datetime": "25/10/2026 16:20",
       "last_updated": "25/10/2026 14:24",
-      "affected_streets": "Rua Braga- Braga; Rua Braga- Espite; Travessa Braga- Espite",
-      "discovered_at": "25/10/2026 15:06"
+      "affected_streets": "Rua Braga- Braga; Rua Braga- Espite; Travessa Braga- Espite"
     }
   ]
 }
