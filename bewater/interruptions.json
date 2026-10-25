@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T11:06:30.698337",
+  "last_updated": "2026-10-25T12:10:01.412048",
   "count": 4,
   "interruptions": [
     {
@@ -27,8 +27,7 @@
       "start_datetime": "25/10/2026 09:55",
       "restoration_datetime": "25/10/2026 13:55",
       "last_updated": "25/10/2026 10:00",
-      "affected_streets": "Rua Principal - Cercal; Rua Lagar - Cercal",
-      "discovered_at": "25/10/2026 11:06"
+      "affected_streets": "Rua Principal - Cercal; Rua Lagar - Cercal"
     },
     {
       "id": "9743",
@@ -37,8 +36,7 @@
       "start_datetime": "25/10/2026 09:55",
       "restoration_datetime": "25/10/2026 13:55",
       "last_updated": "25/10/2026 10:07",
-      "affected_streets": "Rua Principal- Cercal e ruas adjacentes",
-      "discovered_at": "25/10/2026 11:06"
+      "affected_streets": "Rua Principal- Cercal e ruas adjacentes"
     }
   ]
 }
