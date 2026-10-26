@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T16:11:03.472227",
+  "last_updated": "2026-10-26T17:07:27.732426",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "26/10/2026 15:30",
       "restoration_datetime": "26/10/2026 19:30",
       "last_updated": "26/10/2026 16:03",
-      "affected_streets": "Rua Forja- Outeiro das Matas e ruas adjacentes",
-      "discovered_at": "26/10/2026 16:11"
+      "affected_streets": "Rua Forja- Outeiro das Matas e ruas adjacentes"
     }
   ]
 }
