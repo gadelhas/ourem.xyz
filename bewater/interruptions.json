@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T08:17:08.514728",
+  "last_updated": "2026-10-26T09:15:28.280988",
   "count": 3,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "26/10/2026 07:20",
       "restoration_datetime": "26/10/2026 13:00",
       "last_updated": "26/10/2026 07:44",
-      "affected_streets": "Urqueira; Resouro",
-      "discovered_at": "26/10/2026 08:17"
+      "affected_streets": "Urqueira; Resouro"
     },
     {
       "id": "9738",
