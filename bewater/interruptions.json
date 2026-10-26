@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-10-26T19:08:07.687757",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9746",
-      "type": "Não Programada",
-      "location": "Rua Forja- Outeiro das Matas",
-      "start_datetime": "26/10/2026 15:30",
-      "restoration_datetime": "26/10/2026 19:30",
-      "last_updated": "26/10/2026 16:03",
-      "affected_streets": "Rua Forja- Outeiro das Matas e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-10-26T20:07:55.996354",
+  "count": 0,
+  "interruptions": []
 }
