@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-10-27T12:12:36.398457",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9747",
-      "type": "Não Programada",
-      "location": "Casais Galegos",
-      "start_datetime": "27/10/2026 07:30",
-      "restoration_datetime": "27/10/2026 13:00",
-      "last_updated": "27/10/2026 07:38",
-      "affected_streets": "Casais Galegos; Casal dos Bernardos"
-    }
-  ]
+  "last_updated": "2026-10-27T13:12:15.429851",
+  "count": 0,
+  "interruptions": []
 }
