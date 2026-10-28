@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T18:07:30.832047",
-  "count": 1,
+  "last_updated": "2026-10-28T19:04:55.922692",
+  "count": 2,
   "interruptions": [
     {
       "id": "9748",
@@ -10,6 +10,16 @@
       "restoration_datetime": "29/10/2026 14:00",
       "last_updated": "27/10/2026 17:46",
       "affected_streets": "Rua Chã- Sobral e ruas adjacentes"
+    },
+    {
+      "id": "9750",
+      "type": "Não Programada",
+      "location": "Rua Dr. Armando Henriques Reis Vieira- Ourém",
+      "start_datetime": "28/10/2026 18:15",
+      "restoration_datetime": "28/10/2026 20:15",
+      "last_updated": "28/10/2026 18:14",
+      "affected_streets": "Rua Dr. Armando Henriques Reis Vieira- Ourém; Rua dos Moinhos- Ourém; Rua António Batista Oliveira- Ourém; Rua Luís Fernandes de Carvalho e Reis- Ourém e ruas adjacentes",
+      "discovered_at": "28/10/2026 19:04"
     }
   ]
 }
