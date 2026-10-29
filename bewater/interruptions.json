@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T11:05:14.779342",
-  "count": 1,
+  "last_updated": "2026-10-29T12:09:03.059375",
+  "count": 2,
   "interruptions": [
     {
       "id": "9748",
@@ -10,6 +10,16 @@
       "restoration_datetime": "29/10/2026 14:00",
       "last_updated": "27/10/2026 17:46",
       "affected_streets": "Rua Chã- Sobral e ruas adjacentes"
+    },
+    {
+      "id": "9759",
+      "type": "Não Programada",
+      "location": "Rua Bom Samaritano- Cova da Iria",
+      "start_datetime": "29/10/2026 10:30",
+      "restoration_datetime": "29/10/2026 12:50",
+      "last_updated": "29/10/2026 11:10",
+      "affected_streets": "Rua Bom Samaritano- Cova da Iria; Rua Bom Pastor- Cova da Iria e ruas adjacentes",
+      "discovered_at": "29/10/2026 12:09"
     }
   ]
 }
