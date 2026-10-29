@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T18:07:33.742742",
+  "last_updated": "2026-10-29T19:04:40.943604",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "29/10/2026 17:35",
       "restoration_datetime": "29/10/2026 20:35",
       "last_updated": "29/10/2026 17:40",
-      "affected_streets": "Largo Manuel Mourisca- Freixianda",
-      "discovered_at": "29/10/2026 18:07"
+      "affected_streets": "Largo Manuel Mourisca- Freixianda"
     }
   ]
 }
