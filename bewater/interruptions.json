@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T10:05:56.294077",
+  "last_updated": "2026-10-30T11:04:39.131282",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "30/10/2026 09:45",
       "restoration_datetime": "30/10/2026 12:45",
       "last_updated": "30/10/2026 09:54",
-      "affected_streets": "Estrada Caridade- Ourém; Corredoura; Rua Fonte Velha- Fonte Catarina",
-      "discovered_at": "30/10/2026 10:05"
+      "affected_streets": "Estrada Caridade- Ourém; Corredoura; Rua Fonte Velha- Fonte Catarina"
     }
   ]
 }
