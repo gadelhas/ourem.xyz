@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T03:05:28.532947",
+  "last_updated": "2026-10-31T04:05:32.690441",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "31/10/2026 02:00",
       "restoration_datetime": "31/10/2026 13:00",
       "last_updated": "31/10/2026 02:15",
-      "affected_streets": "Rua Padre Feliciano Oliveira- Freixianda e ruas adjacentes",
-      "discovered_at": "31/10/2026 03:05"
+      "affected_streets": "Rua Padre Feliciano Oliveira- Freixianda e ruas adjacentes"
     }
   ]
 }
