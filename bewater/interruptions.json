@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-10-31T07:04:44.947150",
+  "last_updated": "2026-10-31T08:05:45.569268",
   "count": 1,
   "interruptions": [
     {
       "id": "9762",
       "type": "Não Programada",
-      "location": "Rua Padre Feliciano Oliveira- Freixianda",
+      "location": "Freixianda",
       "start_datetime": "31/10/2026 02:00",
       "restoration_datetime": "31/10/2026 13:00",
-      "last_updated": "31/10/2026 02:15",
-      "affected_streets": "Rua Padre Feliciano Oliveira- Freixianda e ruas adjacentes"
+      "last_updated": "31/10/2026 07:29",
+      "affected_streets": "Freixianda; Avanteira; Casal do Pinheiro; Casal da Sobreira; Ramalheira"
     }
   ]
 }
