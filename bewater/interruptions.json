@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-02T15:05:27.072590",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-02T16:05:48.980788",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9764",
+      "type": "Não Programada",
+      "location": "Rua Cimo da Igreja- Olival",
+      "start_datetime": "02/11/2026 15:35",
+      "restoration_datetime": "02/11/2026 18:35",
+      "last_updated": "02/11/2026 15:48",
+      "affected_streets": "Rua Cimo da Igreja- Olival",
+      "discovered_at": "02/11/2026 16:05"
+    }
+  ]
 }
