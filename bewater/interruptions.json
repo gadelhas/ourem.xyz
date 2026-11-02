@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T07:06:10.952502",
+  "last_updated": "2026-11-02T08:08:00.357289",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "02/11/2026 06:40",
       "restoration_datetime": "02/11/2026 13:40",
       "last_updated": "02/11/2026 06:19",
-      "affected_streets": "Freixianda; Ramalheira; Casal do Pinheiro; Casal da Sobreira; Granja; Aldeia de Santa Teresa; Varzea do Bispo; Póvoa; Charneca; Avanteira",
-      "discovered_at": "02/11/2026 07:06"
+      "affected_streets": "Freixianda; Ramalheira; Casal do Pinheiro; Casal da Sobreira; Granja; Aldeia de Santa Teresa; Varzea do Bispo; Póvoa; Charneca; Avanteira"
     }
   ]
 }
