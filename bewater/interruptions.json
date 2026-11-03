@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T16:06:00.179245",
+  "last_updated": "2026-11-03T17:04:46.407777",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "03/11/2026 15:30",
       "restoration_datetime": "03/11/2026 20:00",
       "last_updated": "03/11/2026 15:39",
-      "affected_streets": "Rua Capitão Salgueiro Maia- Ourém e ruas adjacentes",
-      "discovered_at": "03/11/2026 16:06"
+      "affected_streets": "Rua Capitão Salgueiro Maia- Ourém e ruas adjacentes"
     }
   ]
 }
