@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T08:06:47.202038",
+  "last_updated": "2026-11-03T09:05:30.785904",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "03/11/2026 07:00",
       "restoration_datetime": "03/11/2026 13:00",
       "last_updated": "03/11/2026 08:04",
-      "affected_streets": "Rua Cónego Pereira Simões- Espite e ruas adjacentes",
-      "discovered_at": "03/11/2026 08:06"
+      "affected_streets": "Rua Cónego Pereira Simões- Espite e ruas adjacentes"
     }
   ]
 }
