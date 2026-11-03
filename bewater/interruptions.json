@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-03T07:05:28.908675",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-03T08:06:47.202038",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9766",
+      "type": "Não Programada",
+      "location": "Rua Cónego Pereira Simões- Espite",
+      "start_datetime": "03/11/2026 07:00",
+      "restoration_datetime": "03/11/2026 13:00",
+      "last_updated": "03/11/2026 08:04",
+      "affected_streets": "Rua Cónego Pereira Simões- Espite e ruas adjacentes",
+      "discovered_at": "03/11/2026 08:06"
+    }
+  ]
 }
