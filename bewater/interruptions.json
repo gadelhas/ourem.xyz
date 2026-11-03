@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-11-03T19:03:49.278448",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9767",
-      "type": "Não Programada",
-      "location": "Rua Capitão Salgueiro Maia- Ourém",
-      "start_datetime": "03/11/2026 15:30",
-      "restoration_datetime": "03/11/2026 20:00",
-      "last_updated": "03/11/2026 15:39",
-      "affected_streets": "Rua Capitão Salgueiro Maia- Ourém e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-11-03T20:05:09.502667",
+  "count": 0,
+  "interruptions": []
 }
