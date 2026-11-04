@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-04T10:06:21.896820",
-  "count": 2,
+  "last_updated": "2026-11-04T12:07:35.371998",
+  "count": 3,
   "interruptions": [
+    {
+      "id": "9770",
+      "type": "Não Programada",
+      "location": "Beltroa",
+      "start_datetime": "04/11/2026 11:10",
+      "restoration_datetime": "04/11/2026 15:00",
+      "last_updated": "04/11/2026 11:18",
+      "affected_streets": "Beltroa",
+      "discovered_at": "04/11/2026 12:07"
+    },
     {
       "id": "9769",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "04/11/2026 09:50",
       "restoration_datetime": "04/11/2026 13:00",
       "last_updated": "04/11/2026 09:54",
-      "affected_streets": "Rua Cortada - Olival e ruas adjacentes",
-      "discovered_at": "04/11/2026 10:06"
+      "affected_streets": "Rua Cortada - Olival e ruas adjacentes"
     },
     {
       "id": "9768",
