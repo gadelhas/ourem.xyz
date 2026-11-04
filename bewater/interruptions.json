@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T16:05:22.342175",
+  "last_updated": "2026-11-04T17:04:24.828625",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "04/11/2026 15:30",
       "restoration_datetime": "04/11/2026 19:30",
       "last_updated": "04/11/2026 15:30",
-      "affected_streets": "Rua Abelheira - Cercal e ruas adjacentes",
-      "discovered_at": "04/11/2026 16:05"
+      "affected_streets": "Rua Abelheira - Cercal e ruas adjacentes"
     }
   ]
 }
