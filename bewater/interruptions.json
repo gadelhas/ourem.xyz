@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-04T09:05:38.832722",
-  "count": 1,
+  "last_updated": "2026-11-04T10:06:21.896820",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9769",
+      "type": "Não Programada",
+      "location": "Rua Cortada - Olival",
+      "start_datetime": "04/11/2026 09:50",
+      "restoration_datetime": "04/11/2026 13:00",
+      "last_updated": "04/11/2026 09:54",
+      "affected_streets": "Rua Cortada - Olival e ruas adjacentes",
+      "discovered_at": "04/11/2026 10:06"
+    },
     {
       "id": "9768",
       "type": "Não Programada",
@@ -9,8 +19,7 @@
       "start_datetime": "04/11/2026 06:50",
       "restoration_datetime": "04/11/2026 12:30",
       "last_updated": "04/11/2026 08:06",
-      "affected_streets": "Rua Nossa Senhora de Fátima- Caxarias e ruas adjacentes",
-      "discovered_at": "04/11/2026 09:05"
+      "affected_streets": "Rua Nossa Senhora de Fátima- Caxarias e ruas adjacentes"
     }
   ]
 }
