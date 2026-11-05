@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-05T07:05:44.554978",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-05T08:07:07.543199",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9772",
+      "type": "Não Programada",
+      "location": "Rua Fonte Velha- Fonte Catarina",
+      "start_datetime": "05/11/2026 07:00",
+      "restoration_datetime": "05/11/2026 12:00",
+      "last_updated": "05/11/2026 07:13",
+      "affected_streets": "Rua Fonte Velha- Fonte Catarina e ruas adjacentes",
+      "discovered_at": "05/11/2026 08:07"
+    }
+  ]
 }
