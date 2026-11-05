@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-05T09:06:05.817164",
-  "count": 1,
+  "last_updated": "2026-11-05T10:05:20.043768",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9773",
+      "type": "Não Programada",
+      "location": "Pinhais Novos",
+      "start_datetime": "05/11/2026 09:45",
+      "restoration_datetime": "05/11/2026 13:45",
+      "last_updated": "05/11/2026 09:44",
+      "affected_streets": "Pinhais Novos; Carvalhal",
+      "discovered_at": "05/11/2026 10:05"
+    },
     {
       "id": "9772",
       "type": "Não Programada",
