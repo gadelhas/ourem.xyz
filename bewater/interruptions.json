@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T11:04:53.669528",
-  "count": 3,
+  "last_updated": "2026-11-05T12:07:44.661879",
+  "count": 2,
   "interruptions": [
     {
       "id": "9774",
@@ -9,8 +9,7 @@
       "start_datetime": "05/11/2026 12:00",
       "restoration_datetime": "05/11/2026 15:00",
       "last_updated": "05/11/2026 10:59",
-      "affected_streets": "Beco Santa Teresa- Aldeia de Santa Teresa e ruas adjacentes",
-      "discovered_at": "05/11/2026 11:04"
+      "affected_streets": "Beco Santa Teresa- Aldeia de Santa Teresa e ruas adjacentes"
     },
     {
       "id": "9773",
@@ -20,15 +19,6 @@
       "restoration_datetime": "05/11/2026 13:45",
       "last_updated": "05/11/2026 09:44",
       "affected_streets": "Pinhais Novos; Carvalhal"
-    },
-    {
-      "id": "9772",
-      "type": "Não Programada",
-      "location": "Rua Fonte Velha- Fonte Catarina",
-      "start_datetime": "05/11/2026 07:00",
-      "restoration_datetime": "05/11/2026 12:00",
-      "last_updated": "05/11/2026 07:13",
-      "affected_streets": "Rua Fonte Velha- Fonte Catarina e ruas adjacentes"
     }
   ]
 }
