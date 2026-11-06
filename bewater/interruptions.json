@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T05:05:31.401575",
+  "last_updated": "2026-11-06T06:09:11.974755",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "06/11/2026 04:00",
       "restoration_datetime": "06/11/2026 10:00",
       "last_updated": "06/11/2026 05:01",
-      "affected_streets": "Rua Sao Salvador- Barreira e ruas adjacentes",
-      "discovered_at": "06/11/2026 05:05"
+      "affected_streets": "Rua Sao Salvador- Barreira e ruas adjacentes"
     }
   ]
 }
