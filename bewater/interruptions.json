@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T22:04:53.442257",
+  "last_updated": "2026-11-06T23:04:04.475510",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "06/11/2026 21:45",
       "restoration_datetime": "06/11/2026 23:45",
       "last_updated": "06/11/2026 21:28",
-      "affected_streets": "Rua Centro- Vales e ruas adjacentes",
-      "discovered_at": "06/11/2026 22:04"
+      "affected_streets": "Rua Centro- Vales e ruas adjacentes"
     }
   ]
 }
