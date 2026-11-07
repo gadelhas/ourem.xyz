@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T10:04:33.513421",
+  "last_updated": "2026-11-07T11:03:35.013197",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "07/11/2026 09:25",
       "restoration_datetime": "07/11/2026 13:00",
       "last_updated": "07/11/2026 09:32",
-      "affected_streets": "Rua Barrocas- Aldeia Nova e ruas adjacentes",
-      "discovered_at": "07/11/2026 10:04"
+      "affected_streets": "Rua Barrocas- Aldeia Nova e ruas adjacentes"
     }
   ]
 }
