@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-07T13:04:15.589918",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-07T14:04:28.564504",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9780",
+      "type": "Não Programada",
+      "location": "Rua Arroteia- Lagoa Furadouro",
+      "start_datetime": "07/11/2026 14:20",
+      "restoration_datetime": "07/11/2026 18:00",
+      "last_updated": "07/11/2026 14:02",
+      "affected_streets": "Rua Arroteia- Lagoa Furadouro e ruas adjacentes",
+      "discovered_at": "07/11/2026 14:04"
+    }
+  ]
 }
