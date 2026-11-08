@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-08T08:05:47.295711",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-08T09:04:48.961404",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9781",
+      "type": "Não Programada",
+      "location": "Rua Casal- Santo Amaro",
+      "start_datetime": "08/11/2026 08:30",
+      "restoration_datetime": "08/11/2026 13:00",
+      "last_updated": "08/11/2026 08:42",
+      "affected_streets": "Rua Casal- Santo Amaro e ruas adjacentes",
+      "discovered_at": "08/11/2026 09:04"
+    }
+  ]
 }
