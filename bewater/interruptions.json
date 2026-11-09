@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-11-09T09:07:31.167674",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9782",
-      "type": "Não Programada",
-      "location": "Rua do Areeiro- Carvalhal de Baixo",
-      "start_datetime": "09/11/2026 06:45",
-      "restoration_datetime": "09/11/2026 09:45",
-      "last_updated": "09/11/2026 06:17",
-      "affected_streets": "Rua do Areeiro- Carvalhal de Baixo e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-11-09T10:05:15.923612",
+  "count": 0,
+  "interruptions": []
 }
