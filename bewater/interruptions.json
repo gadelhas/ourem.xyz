@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T11:04:56.739235",
+  "last_updated": "2026-11-09T12:07:55.168704",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "09/11/2026 09:40",
       "restoration_datetime": "09/11/2026 13:00",
       "last_updated": "09/11/2026 10:05",
-      "affected_streets": "Rua Fernão Magalhães- Chã e ruas adjacentes",
-      "discovered_at": "09/11/2026 11:04"
+      "affected_streets": "Rua Fernão Magalhães- Chã e ruas adjacentes"
     }
   ]
 }
