@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-11-09T12:07:55.168704",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9783",
-      "type": "Não Programada",
-      "location": "Rua Fernão Magalhães- Chã",
-      "start_datetime": "09/11/2026 09:40",
-      "restoration_datetime": "09/11/2026 13:00",
-      "last_updated": "09/11/2026 10:05",
-      "affected_streets": "Rua Fernão Magalhães- Chã e ruas adjacentes"
-    }
-  ]
+  "last_updated": "2026-11-09T13:05:17.498819",
+  "count": 0,
+  "interruptions": []
 }
