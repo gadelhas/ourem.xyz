@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-10T21:04:33.259545",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-10T22:05:05.615345",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9792",
+      "type": "Não Programada",
+      "location": "Travessa Poço Bento- Vales",
+      "start_datetime": "10/11/2026 21:30",
+      "restoration_datetime": "10/11/2026 23:59",
+      "last_updated": "10/11/2026 21:55",
+      "affected_streets": "Travessa Poço Bento- Vales e ruas adjacentes",
+      "discovered_at": "10/11/2026 22:05"
+    }
+  ]
 }
