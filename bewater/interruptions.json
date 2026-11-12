@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T14:05:27.682797",
+  "last_updated": "2026-11-12T15:05:01.543503",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "12/11/2026 14:15",
       "restoration_datetime": "12/11/2026 19:00",
       "last_updated": "12/11/2026 13:56",
-      "affected_streets": "Rua Casal D&#039;Alem- Casais dos Montes",
-      "discovered_at": "12/11/2026 14:05"
+      "affected_streets": "Rua Casal D&#039;Alem- Casais dos Montes"
     },
     {
       "id": "9794",
@@ -19,8 +18,7 @@
       "start_datetime": "12/11/2026 13:30",
       "restoration_datetime": "12/11/2026 16:30",
       "last_updated": "12/11/2026 13:50",
-      "affected_streets": "Rua Teofilo Braga- Ourém; Largo Professor Egas Moniz- Ourém e ruas adjacentes",
-      "discovered_at": "12/11/2026 14:05"
+      "affected_streets": "Rua Teofilo Braga- Ourém; Largo Professor Egas Moniz- Ourém e ruas adjacentes"
     }
   ]
 }
