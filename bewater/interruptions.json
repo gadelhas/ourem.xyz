@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-12T01:05:11.664783",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-12T02:07:08.361558",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9793",
+      "type": "Não Programada",
+      "location": "Rua Fontinha- Brejo",
+      "start_datetime": "12/11/2026 00:40",
+      "restoration_datetime": "12/11/2026 09:40",
+      "last_updated": "12/11/2026 01:09",
+      "affected_streets": "Rua Fontinha- Brejo",
+      "discovered_at": "12/11/2026 02:07"
+    }
+  ]
 }
