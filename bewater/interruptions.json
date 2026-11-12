@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T02:07:08.361558",
+  "last_updated": "2026-11-12T03:05:53.745758",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "12/11/2026 00:40",
       "restoration_datetime": "12/11/2026 09:40",
       "last_updated": "12/11/2026 01:09",
-      "affected_streets": "Rua Fontinha- Brejo",
-      "discovered_at": "12/11/2026 02:07"
+      "affected_streets": "Rua Fontinha- Brejo"
     }
   ]
 }
