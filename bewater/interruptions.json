@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T13:04:53.506085",
+  "last_updated": "2026-11-13T14:05:02.013428",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "13/11/2026 12:20",
       "restoration_datetime": "13/11/2026 18:20",
       "last_updated": "13/11/2026 12:20",
-      "affected_streets": "Rua Escola- Carcavelos de Cima e ruas adjacentes",
-      "discovered_at": "13/11/2026 13:04"
+      "affected_streets": "Rua Escola- Carcavelos de Cima e ruas adjacentes"
     }
   ]
 }
