@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-14T09:04:56.368983",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-14T10:04:32.932926",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9799",
+      "type": "Não Programada",
+      "location": "Casal Novo",
+      "start_datetime": "14/11/2026 09:45",
+      "restoration_datetime": "14/11/2026 12:45",
+      "last_updated": "14/11/2026 09:55",
+      "affected_streets": "Casal Novo; Zambujal; São Sebastião",
+      "discovered_at": "14/11/2026 10:04"
+    }
+  ]
 }
