@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T16:05:38.702207",
+  "last_updated": "2026-11-16T17:04:40.748818",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "16/11/2026 15:00",
       "restoration_datetime": "16/11/2026 18:00",
       "last_updated": "16/11/2026 15:32",
-      "affected_streets": "Cisterna",
-      "discovered_at": "16/11/2026 16:05"
+      "affected_streets": "Cisterna"
     }
   ]
 }
