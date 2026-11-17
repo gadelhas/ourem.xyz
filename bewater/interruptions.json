@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-11-17T11:04:48.064414",
+  "last_updated": "2026-11-17T12:07:19.905838",
   "count": 1,
   "interruptions": [
     {
-      "id": "9801",
+      "id": "9802",
       "type": "Não Programada",
-      "location": "Rua Chã- Sobral",
-      "start_datetime": "17/11/2026 09:00",
-      "restoration_datetime": "17/11/2026 11:45",
-      "last_updated": "17/11/2026 09:15",
-      "affected_streets": "Rua Chã- Sobral e ruas adjacentes"
+      "location": "Rua Estarda de Ourém- Areias",
+      "start_datetime": "17/11/2026 11:35",
+      "restoration_datetime": "17/11/2026 15:30",
+      "last_updated": "17/11/2026 11:38",
+      "affected_streets": "Rua Estarda de Ourém- Areias e ruas adjacentes",
+      "discovered_at": "17/11/2026 12:07"
     }
   ]
 }
