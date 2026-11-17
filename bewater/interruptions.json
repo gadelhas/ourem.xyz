@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T12:07:19.905838",
+  "last_updated": "2026-11-17T13:05:17.153400",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "17/11/2026 11:35",
       "restoration_datetime": "17/11/2026 15:30",
       "last_updated": "17/11/2026 11:38",
-      "affected_streets": "Rua Estarda de Ourém- Areias e ruas adjacentes",
-      "discovered_at": "17/11/2026 12:07"
+      "affected_streets": "Rua Estarda de Ourém- Areias e ruas adjacentes"
     }
   ]
 }
