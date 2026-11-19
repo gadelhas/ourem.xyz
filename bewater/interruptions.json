@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-11-19T21:04:48.217894",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9806",
-      "type": "Não Programada",
-      "location": "Rua Outeirinho- Mossomodia",
-      "start_datetime": "19/11/2026 18:25",
-      "restoration_datetime": "19/11/2026 21:25",
-      "last_updated": "19/11/2026 18:34",
-      "affected_streets": "Rua Outeirinho- Mossomodia; Rua Outeirinho- Valinho"
-    }
-  ]
+  "last_updated": "2026-11-19T22:04:43.213585",
+  "count": 0,
+  "interruptions": []
 }
