@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T19:03:38.265922",
+  "last_updated": "2026-11-19T20:05:15.539858",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "19/11/2026 18:25",
       "restoration_datetime": "19/11/2026 21:25",
       "last_updated": "19/11/2026 18:34",
-      "affected_streets": "Rua Outeirinho- Mossomodia; Rua Outeirinho- Valinho",
-      "discovered_at": "19/11/2026 19:03"
+      "affected_streets": "Rua Outeirinho- Mossomodia; Rua Outeirinho- Valinho"
     },
     {
       "id": "9805",
