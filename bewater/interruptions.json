@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-11-22T17:03:54.498339",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9807",
-      "type": "Não Programada",
-      "location": "",
-      "start_datetime": "22/11/2026 12:20",
-      "restoration_datetime": "22/11/2026 17:30",
-      "last_updated": "22/11/2026 12:22",
-      "affected_streets": ""
-    }
-  ]
+  "last_updated": "2026-11-22T18:05:32.031069",
+  "count": 0,
+  "interruptions": []
 }
