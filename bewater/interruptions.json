@@ -1,15 +1,5 @@
 {
-  "last_updated": "2026-11-23T10:05:25.470235",
-  "count": 1,
-  "interruptions": [
-    {
-      "id": "9808",
-      "type": "Não Programada",
-      "location": "Rua Doutor João Silva Neves Sousa Alvim- Ourém",
-      "start_datetime": "23/11/2026 08:00",
-      "restoration_datetime": "23/11/2026 10:30",
-      "last_updated": "23/11/2026 08:15",
-      "affected_streets": "Rua Doutor João Silva Neves Sousa Alvim- Ourém"
-    }
-  ]
+  "last_updated": "2026-11-23T11:04:39.495729",
+  "count": 0,
+  "interruptions": []
 }
