@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-23T13:05:33.033832",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-23T14:05:26.507607",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9809",
+      "type": "Não Programada",
+      "location": "Rua Principal- Casal do Ribeiro",
+      "start_datetime": "23/11/2026 13:35",
+      "restoration_datetime": "23/11/2026 18:35",
+      "last_updated": "23/11/2026 13:45",
+      "affected_streets": "Rua Principal- Casal do Ribeiro; Rua Oliveirinha- Casal do Ribeiro; Rua das Murtas- Casal do Ribeiro",
+      "discovered_at": "23/11/2026 14:05"
+    }
+  ]
 }
