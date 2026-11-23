@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T14:05:26.507607",
+  "last_updated": "2026-11-23T15:05:17.121226",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "23/11/2026 13:35",
       "restoration_datetime": "23/11/2026 18:35",
       "last_updated": "23/11/2026 13:45",
-      "affected_streets": "Rua Principal- Casal do Ribeiro; Rua Oliveirinha- Casal do Ribeiro; Rua das Murtas- Casal do Ribeiro",
-      "discovered_at": "23/11/2026 14:05"
+      "affected_streets": "Rua Principal- Casal do Ribeiro; Rua Oliveirinha- Casal do Ribeiro; Rua das Murtas- Casal do Ribeiro"
     }
   ]
 }
