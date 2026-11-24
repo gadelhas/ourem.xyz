@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T06:08:46.643363",
+  "last_updated": "2026-11-24T07:05:08.584045",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "24/11/2026 06:30",
       "restoration_datetime": "24/11/2026 11:30",
       "last_updated": "24/11/2026 06:08",
-      "affected_streets": "Peras Ruivas",
-      "discovered_at": "24/11/2026 06:08"
+      "affected_streets": "Peras Ruivas"
     }
   ]
 }
