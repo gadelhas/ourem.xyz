@@ -1,15 +1,16 @@
 {
-  "last_updated": "2026-11-24T12:07:42.869674",
+  "last_updated": "2026-11-24T13:05:35.291740",
   "count": 1,
   "interruptions": [
     {
-      "id": "9811",
+      "id": "9812",
       "type": "Não Programada",
-      "location": "Rua Cumieira- Aldeia Nova",
-      "start_datetime": "24/11/2026 07:00",
-      "restoration_datetime": "24/11/2026 13:00",
-      "last_updated": "24/11/2026 07:15",
-      "affected_streets": "Rua Cumieira- Aldeia Nova e ruas adjacentes"
+      "location": "Estrada Arneiros - Urqueira",
+      "start_datetime": "24/11/2026 12:20",
+      "restoration_datetime": "24/11/2026 16:30",
+      "last_updated": "24/11/2026 12:28",
+      "affected_streets": "Estrada Arneiros - Urqueira; Estrada Covão- Urqueira; Rua Vale- Urqueira e ruas adjacentes",
+      "discovered_at": "24/11/2026 13:05"
     }
   ]
 }
