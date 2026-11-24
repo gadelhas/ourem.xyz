@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T13:05:35.291740",
+  "last_updated": "2026-11-24T14:05:29.302348",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "24/11/2026 12:20",
       "restoration_datetime": "24/11/2026 16:30",
       "last_updated": "24/11/2026 12:28",
-      "affected_streets": "Estrada Arneiros - Urqueira; Estrada Covão- Urqueira; Rua Vale- Urqueira e ruas adjacentes",
-      "discovered_at": "24/11/2026 13:05"
+      "affected_streets": "Estrada Arneiros - Urqueira; Estrada Covão- Urqueira; Rua Vale- Urqueira e ruas adjacentes"
     }
   ]
 }
