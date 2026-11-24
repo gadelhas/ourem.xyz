@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T08:07:25.865795",
+  "last_updated": "2026-11-24T09:05:49.663750",
   "count": 2,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "24/11/2026 07:00",
       "restoration_datetime": "24/11/2026 13:00",
       "last_updated": "24/11/2026 07:15",
-      "affected_streets": "Rua Cumieira- Aldeia Nova e ruas adjacentes",
-      "discovered_at": "24/11/2026 08:07"
+      "affected_streets": "Rua Cumieira- Aldeia Nova e ruas adjacentes"
     },
     {
       "id": "9810",
