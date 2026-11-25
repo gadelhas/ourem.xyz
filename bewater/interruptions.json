@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T07:05:57.261333",
+  "last_updated": "2026-11-25T08:07:15.973984",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "25/11/2026 07:00",
       "restoration_datetime": "25/11/2026 10:00",
       "last_updated": "25/11/2026 06:29",
-      "affected_streets": "Rua 1º de Maio- Carapita e ruas adjacentes",
-      "discovered_at": "25/11/2026 07:05"
+      "affected_streets": "Rua 1º de Maio- Carapita e ruas adjacentes"
     }
   ]
 }
