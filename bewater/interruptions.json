@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T07:05:48.214321",
+  "last_updated": "2026-11-27T08:07:04.340277",
   "count": 1,
   "interruptions": [
     {
@@ -9,8 +9,7 @@
       "start_datetime": "27/11/2026 07:00",
       "restoration_datetime": "27/11/2026 11:10",
       "last_updated": "27/11/2026 06:11",
-      "affected_streets": "Rua Quinta- Atouguia e ruas adjacentes",
-      "discovered_at": "27/11/2026 07:05"
+      "affected_streets": "Rua Quinta- Atouguia e ruas adjacentes"
     }
   ]
 }
