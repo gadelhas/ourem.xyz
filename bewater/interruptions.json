@@ -1,5 +1,16 @@
 {
-  "last_updated": "2026-11-27T06:09:16.759024",
-  "count": 0,
-  "interruptions": []
+  "last_updated": "2026-11-27T07:05:48.214321",
+  "count": 1,
+  "interruptions": [
+    {
+      "id": "9816",
+      "type": "Não Programada",
+      "location": "Rua Quinta- Atouguia",
+      "start_datetime": "27/11/2026 07:00",
+      "restoration_datetime": "27/11/2026 11:10",
+      "last_updated": "27/11/2026 06:11",
+      "affected_streets": "Rua Quinta- Atouguia e ruas adjacentes",
+      "discovered_at": "27/11/2026 07:05"
+    }
+  ]
 }
