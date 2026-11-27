@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-11-27T10:05:17.168018",
-  "count": 1,
+  "last_updated": "2026-11-27T11:04:51.121068",
+  "count": 2,
   "interruptions": [
+    {
+      "id": "9817",
+      "type": "Não Programada",
+      "location": "Andrés",
+      "start_datetime": "27/11/2026 10:00",
+      "restoration_datetime": "27/11/2026 13:00",
+      "last_updated": "27/11/2026 10:22",
+      "affected_streets": "Andrés",
+      "discovered_at": "27/11/2026 11:04"
+    },
     {
       "id": "9816",
       "type": "Não Programada",
