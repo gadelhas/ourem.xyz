@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T18:06:01.493878",
+  "last_updated": "2026-11-27T19:03:55.961613",
   "count": 2,
   "interruptions": [
     {
@@ -18,8 +18,7 @@
       "start_datetime": "27/11/2026 17:50",
       "restoration_datetime": "27/11/2026 23:00",
       "last_updated": "27/11/2026 18:03",
-      "affected_streets": "Rua São Bartolomeu- Caxarias; Rua Arneiro- Caxarias e ruas adjacentes",
-      "discovered_at": "27/11/2026 18:06"
+      "affected_streets": "Rua São Bartolomeu- Caxarias; Rua Arneiro- Caxarias e ruas adjacentes"
     }
   ]
 }
