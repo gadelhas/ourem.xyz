@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T16:05:08.331286",
-  "count": 1,
+  "last_updated": "2026-11-27T17:04:35.580060",
+  "count": 2,
   "interruptions": [
     {
       "id": "9818",
@@ -10,6 +10,16 @@
       "restoration_datetime": "04/12/2026 13:00",
       "last_updated": "27/11/2026 12:17",
       "affected_streets": "Rua Francisco Sá Carneiro- Vale do Freixo; Rua Castanheiros- Vale do Freixo; Rua Vagueira- Vale do Freixo"
+    },
+    {
+      "id": "9819",
+      "type": "Não Programada",
+      "location": "Andrés",
+      "start_datetime": "27/11/2026 16:05",
+      "restoration_datetime": "27/11/2026 17:30",
+      "last_updated": "27/11/2026 16:10",
+      "affected_streets": "Andrés",
+      "discovered_at": "27/11/2026 17:04"
     }
   ]
 }
