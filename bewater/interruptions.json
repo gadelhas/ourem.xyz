@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-28T10:04:44.911340",
-  "count": 1,
+  "last_updated": "2026-11-28T11:04:23.632526",
+  "count": 2,
   "interruptions": [
     {
       "id": "9818",
@@ -10,6 +10,16 @@
       "restoration_datetime": "04/12/2026 13:00",
       "last_updated": "27/11/2026 12:17",
       "affected_streets": "Rua Francisco Sá Carneiro- Vale do Freixo; Rua Castanheiros- Vale do Freixo; Rua Vagueira- Vale do Freixo"
+    },
+    {
+      "id": "9821",
+      "type": "Não Programada",
+      "location": "Rua Camelas- Freixianda",
+      "start_datetime": "28/11/2026 10:00",
+      "restoration_datetime": "28/11/2026 11:45",
+      "last_updated": "28/11/2026 10:35",
+      "affected_streets": "Rua Camelas- Freixianda e ruas adjacentes",
+      "discovered_at": "28/11/2026 11:04"
     }
   ]
 }
